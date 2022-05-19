@@ -10,7 +10,7 @@
     "courseSidebar": [
       {
         "type": "link",
-        "label": "Code From Anywhere Course",
+        "label": "Introduction",
         "href": "/about",
         "docId": "about"
       },
@@ -293,7 +293,7 @@
     "about": {
       "id": "about",
       "title": "Code From Anywhere Course",
-      "description": "Welcome! I'm building a course here. Check back soon!",
+      "description": "This course is a work in progress... Check back soon!",
       "sidebar": "courseSidebar"
     },
     "beginner/css": {

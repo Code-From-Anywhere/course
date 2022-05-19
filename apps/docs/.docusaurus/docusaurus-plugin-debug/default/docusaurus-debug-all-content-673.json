@@ -22,7 +22,7 @@
               "unversionedId": "about",
               "id": "about",
               "title": "Code From Anywhere Course",
-              "description": "Welcome! I'm building a course here. Check back soon!",
+              "description": "This course is a work in progress... Check back soon!",
               "source": "@site/../../docs/about.md",
               "sourceDirName": ".",
               "slug": "/about",
@@ -33,7 +33,8 @@
               "version": "current",
               "sidebarPosition": 1,
               "frontMatter": {
-                "sidebar_position": 1
+                "sidebar_position": 1,
+                "sidebar_label": "Introduction"
               },
               "sidebar": "courseSidebar",
               "next": {
@@ -993,7 +994,8 @@
             "courseSidebar": [
               {
                 "type": "doc",
-                "id": "about"
+                "id": "about",
+                "label": "Introduction"
               },
               {
                 "type": "category",

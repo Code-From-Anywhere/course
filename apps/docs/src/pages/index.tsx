@@ -1,5 +1,5 @@
 import Layout from "@theme/Layout";
-import React, { useRef, useState } from "react";
+import React, { useEffect, useRef, useState } from "react";
 import { TwitterTweetEmbed } from "react-twitter-embed";
 
 type Link = {
@@ -48,6 +48,9 @@ const links: Link[] = [];
 const Home = () => {
   const contentRef = useRef<HTMLDivElement>(null);
 
+  useEffect(() => {
+    window.location.href = "/about";
+  }, []);
   return (
     <Layout noFooter>
       <div

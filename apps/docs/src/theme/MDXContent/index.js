@@ -11,8 +11,13 @@ const PageFooterSection = () => {
   const text = `I learned so much on ${location}!`;
   const twitterUrl = encodeURI(`https://twitter.com/intent/tweet?text=${text}`);
   return (
-    <div>
+    <div className="pt-20">
       <h2>Did you learn something?</h2>
+      <p>
+        Click the button below to tweet about what you thought of this section,
+        what you've made, what you learned... Cool tweets will be selected and
+        presented on this page!
+      </p>
       <a
         target="_blank"
         rel="nofollow"
