@@ -1,8 +1,8 @@
 {
   "unversionedId": "competent/typescript",
   "id": "competent/typescript",
-  "title": "typescript",
-  "description": "",
+  "title": "TypeScript basics",
+  "description": "Let's go over the following concepts:",
   "source": "@site/../../docs/competent/2.typescript.md",
   "sourceDirName": "competent",
   "slug": "/competent/typescript",
@@ -15,7 +15,7 @@
   "frontMatter": {},
   "sidebar": "courseSidebar",
   "previous": {
-    "title": "git",
+    "title": "Git",
     "permalink": "/competent/git"
   },
   "next": {

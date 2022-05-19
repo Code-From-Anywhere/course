@@ -295,8 +295,8 @@
             {
               "unversionedId": "competent/git",
               "id": "competent/git",
-              "title": "git",
-              "description": "",
+              "title": "Git",
+              "description": "Git is needed for version control, deployment, and for collaboration in a team.",
               "source": "@site/../../docs/competent/1.git.md",
               "sourceDirName": "competent",
               "slug": "/competent/git",
@@ -313,7 +313,7 @@
                 "permalink": "/category/-competent"
               },
               "next": {
-                "title": "typescript",
+                "title": "TypeScript basics",
                 "permalink": "/competent/typescript"
               }
             },
@@ -384,7 +384,7 @@
               "frontMatter": {},
               "sidebar": "courseSidebar",
               "previous": {
-                "title": "typescript",
+                "title": "TypeScript basics",
                 "permalink": "/competent/typescript"
               },
               "next": {
@@ -420,8 +420,8 @@
             {
               "unversionedId": "competent/typescript",
               "id": "competent/typescript",
-              "title": "typescript",
-              "description": "",
+              "title": "TypeScript basics",
+              "description": "Let's go over the following concepts:",
               "source": "@site/../../docs/competent/2.typescript.md",
               "sourceDirName": "competent",
               "slug": "/competent/typescript",
@@ -434,7 +434,7 @@
               "frontMatter": {},
               "sidebar": "courseSidebar",
               "previous": {
-                "title": "git",
+                "title": "Git",
                 "permalink": "/competent/git"
               },
               "next": {
