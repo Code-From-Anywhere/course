@@ -3,19 +3,20 @@
   "id": "lifestyle/finance",
   "title": "finance",
   "description": "",
-  "source": "@site/../../docs/lifestyle/finance.md",
+  "source": "@site/../../docs/lifestyle/1.finance.md",
   "sourceDirName": "lifestyle",
   "slug": "/lifestyle/finance",
   "permalink": "/lifestyle/finance",
   "draft": false,
-  "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/lifestyle/finance.md",
+  "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/lifestyle/1.finance.md",
   "tags": [],
   "version": "current",
+  "sidebarPosition": 1,
   "frontMatter": {},
   "sidebar": "courseSidebar",
   "previous": {
-    "title": "become-a-wizard",
-    "permalink": "/lifestyle/become-a-wizard"
+    "title": "🏝 Lifestyle",
+    "permalink": "/category/-lifestyle"
   },
   "next": {
     "title": "freedom",

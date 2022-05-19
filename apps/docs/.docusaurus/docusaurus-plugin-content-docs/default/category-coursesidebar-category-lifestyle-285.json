@@ -1,0 +1,15 @@
+{
+  "title": "🏝 Lifestyle",
+  "slug": "/category/-lifestyle",
+  "permalink": "/category/-lifestyle",
+  "navigation": {
+    "previous": {
+      "title": "monetisation",
+      "permalink": "/wizard/monetisation"
+    },
+    "next": {
+      "title": "finance",
+      "permalink": "/lifestyle/finance"
+    }
+  }
+}

@@ -49,7 +49,7 @@
     },
     "config": "config---5-e-9-4f3"
   },
-  "/-350": {
+  "/-437": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
       "plugin": "plugin---049-9ad"
@@ -63,10 +63,6 @@
   "/beginner/css-b89": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---beginner-css-027-712"
-  },
-  "/beginner/distribution-monetisation-911": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---beginner-distribution-monetisationaf-5-7af"
   },
   "/beginner/goal-01d": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -88,25 +84,25 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---beginner-setupff-3-f39"
   },
-  "/category/beginner-2a3": {
+  "/category/-beginner-690": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---category-beginner-7-fb-772"
+    "categoryGeneratedIndex": "categoryGeneratedIndex---category-beginner-2-b-1-ee1"
   },
-  "/category/competent-893": {
+  "/category/-competent-de9": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---category-competent-1-e-9-7f9"
+    "categoryGeneratedIndex": "categoryGeneratedIndex---category-competent-5-db-26e"
   },
-  "/category/expert-e08": {
+  "/category/-expert-ef9": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---category-expert-335-2dd"
+    "categoryGeneratedIndex": "categoryGeneratedIndex---category-expert-6-bb-a54"
   },
-  "/category/lifestyle-92b": {
+  "/category/-lifestyle-3fc": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---category-lifestyle-428-66a"
+    "categoryGeneratedIndex": "categoryGeneratedIndex---category-lifestyle-940-37b"
   },
-  "/category/wizard-c35": {
+  "/category/️-wizard-8cd": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---category-wizard-0-ec-740"
+    "categoryGeneratedIndex": "categoryGeneratedIndex---category-️-wizard-402-272"
   },
   "/competent/config-b78": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -184,21 +180,21 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---expert-ui-14-e-2a0"
   },
-  "/lifestyle/become-a-wizard-dfa": {
+  "/lifestyle/become-a-wizard-dea": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---lifestyle-become-a-wizardfc-8-9c3"
+    "content": "content---lifestyle-become-a-wizardc-06-5d7"
   },
-  "/lifestyle/entrepreneurship-92c": {
+  "/lifestyle/entrepreneurship-b73": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---lifestyle-entrepreneurshipddc-10a"
+    "content": "content---lifestyle-entrepreneurship-467-db4"
   },
-  "/lifestyle/finance-703": {
+  "/lifestyle/finance-80d": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---lifestyle-finance-762-796"
+    "content": "content---lifestyle-financee-9-c-2f5"
   },
-  "/lifestyle/freedom-3ed": {
+  "/lifestyle/freedom-663": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---lifestyle-freedomfb-1-2b0"
+    "content": "content---lifestyle-freedom-468-a89"
   },
   "/wizard/automation-5a5": {
     "__comp": "__comp---theme-doc-item-178-a40",

@@ -44,7 +44,7 @@ export default [
   },
   {
     path: '/',
-    component: ComponentCreator('/', '350'),
+    component: ComponentCreator('/', '437'),
     routes: [
       {
         path: '/about',
@@ -55,12 +55,6 @@ export default [
       {
         path: '/beginner/css',
         component: ComponentCreator('/beginner/css', 'b89'),
-        exact: true,
-        sidebar: "courseSidebar"
-      },
-      {
-        path: '/beginner/distribution-monetisation',
-        component: ComponentCreator('/beginner/distribution-monetisation', '911'),
         exact: true,
         sidebar: "courseSidebar"
       },
@@ -95,32 +89,32 @@ export default [
         sidebar: "courseSidebar"
       },
       {
-        path: '/category/beginner',
-        component: ComponentCreator('/category/beginner', '2a3'),
+        path: '/category/-beginner',
+        component: ComponentCreator('/category/-beginner', '690'),
         exact: true,
         sidebar: "courseSidebar"
       },
       {
-        path: '/category/competent',
-        component: ComponentCreator('/category/competent', '893'),
+        path: '/category/-competent',
+        component: ComponentCreator('/category/-competent', 'de9'),
         exact: true,
         sidebar: "courseSidebar"
       },
       {
-        path: '/category/expert',
-        component: ComponentCreator('/category/expert', 'e08'),
+        path: '/category/-expert',
+        component: ComponentCreator('/category/-expert', 'ef9'),
         exact: true,
         sidebar: "courseSidebar"
       },
       {
-        path: '/category/lifestyle',
-        component: ComponentCreator('/category/lifestyle', '92b'),
+        path: '/category/-lifestyle',
+        component: ComponentCreator('/category/-lifestyle', '3fc'),
         exact: true,
         sidebar: "courseSidebar"
       },
       {
-        path: '/category/wizard',
-        component: ComponentCreator('/category/wizard', 'c35'),
+        path: '/category/️-wizard',
+        component: ComponentCreator('/category/️-wizard', '8cd'),
         exact: true,
         sidebar: "courseSidebar"
       },
@@ -240,25 +234,25 @@ export default [
       },
       {
         path: '/lifestyle/become-a-wizard',
-        component: ComponentCreator('/lifestyle/become-a-wizard', 'dfa'),
+        component: ComponentCreator('/lifestyle/become-a-wizard', 'dea'),
         exact: true,
         sidebar: "courseSidebar"
       },
       {
         path: '/lifestyle/entrepreneurship',
-        component: ComponentCreator('/lifestyle/entrepreneurship', '92c'),
+        component: ComponentCreator('/lifestyle/entrepreneurship', 'b73'),
         exact: true,
         sidebar: "courseSidebar"
       },
       {
         path: '/lifestyle/finance',
-        component: ComponentCreator('/lifestyle/finance', '703'),
+        component: ComponentCreator('/lifestyle/finance', '80d'),
         exact: true,
         sidebar: "courseSidebar"
       },
       {
         path: '/lifestyle/freedom',
-        component: ComponentCreator('/lifestyle/freedom', '3ed'),
+        component: ComponentCreator('/lifestyle/freedom', '663'),
         exact: true,
         sidebar: "courseSidebar"
       },

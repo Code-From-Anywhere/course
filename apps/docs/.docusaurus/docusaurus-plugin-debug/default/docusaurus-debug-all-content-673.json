@@ -37,8 +37,8 @@
               },
               "sidebar": "courseSidebar",
               "next": {
-                "title": "Beginner",
-                "permalink": "/category/beginner"
+                "title": "👶 Beginner",
+                "permalink": "/category/-beginner"
               }
             },
             {
@@ -62,33 +62,8 @@
                 "permalink": "/beginner/html"
               },
               "next": {
-                "title": "distribution-monetisation",
-                "permalink": "/beginner/distribution-monetisation"
-              }
-            },
-            {
-              "unversionedId": "beginner/distribution-monetisation",
-              "id": "beginner/distribution-monetisation",
-              "title": "distribution-monetisation",
-              "description": "",
-              "source": "@site/../../docs/beginner/8.distribution-monetisation.md",
-              "sourceDirName": "beginner",
-              "slug": "/beginner/distribution-monetisation",
-              "permalink": "/beginner/distribution-monetisation",
-              "draft": false,
-              "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/beginner/8.distribution-monetisation.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 8,
-              "frontMatter": {},
-              "sidebar": "courseSidebar",
-              "previous": {
-                "title": "css",
-                "permalink": "/beginner/css"
-              },
-              "next": {
-                "title": "Competent",
-                "permalink": "/category/competent"
+                "title": "🦜 Competent",
+                "permalink": "/category/-competent"
               }
             },
             {
@@ -108,8 +83,8 @@
               "frontMatter": {},
               "sidebar": "courseSidebar",
               "previous": {
-                "title": "Beginner",
-                "permalink": "/category/beginner"
+                "title": "👶 Beginner",
+                "permalink": "/category/-beginner"
               },
               "next": {
                 "title": "setup",
@@ -333,8 +308,8 @@
               "frontMatter": {},
               "sidebar": "courseSidebar",
               "previous": {
-                "title": "Competent",
-                "permalink": "/category/competent"
+                "title": "🦜 Competent",
+                "permalink": "/category/-competent"
               },
               "next": {
                 "title": "typescript",
@@ -362,8 +337,8 @@
                 "permalink": "/competent/distribution"
               },
               "next": {
-                "title": "Expert",
-                "permalink": "/category/expert"
+                "title": "🦅 Expert",
+                "permalink": "/category/-expert"
               }
             },
             {
@@ -612,8 +587,8 @@
                 "permalink": "/expert/distribution"
               },
               "next": {
-                "title": "Wizard",
-                "permalink": "/category/wizard"
+                "title": "🧙‍♂️ Wizard",
+                "permalink": "/category/️-wizard"
               }
             },
             {
@@ -633,8 +608,8 @@
               "frontMatter": {},
               "sidebar": "courseSidebar",
               "previous": {
-                "title": "Expert",
-                "permalink": "/category/expert"
+                "title": "🦅 Expert",
+                "permalink": "/category/-expert"
               },
               "next": {
                 "title": "core",
@@ -696,21 +671,18 @@
               "id": "lifestyle/become-a-wizard",
               "title": "become-a-wizard",
               "description": "",
-              "source": "@site/../../docs/lifestyle/become-a-wizard.md",
+              "source": "@site/../../docs/lifestyle/4.become-a-wizard.md",
               "sourceDirName": "lifestyle",
               "slug": "/lifestyle/become-a-wizard",
               "permalink": "/lifestyle/become-a-wizard",
               "draft": false,
-              "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/lifestyle/become-a-wizard.md",
+              "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/lifestyle/4.become-a-wizard.md",
               "tags": [],
               "version": "current",
+              "sidebarPosition": 4,
               "frontMatter": {},
               "sidebar": "courseSidebar",
               "previous": {
-                "title": "Lifestyle",
-                "permalink": "/category/lifestyle"
-              },
-              "next": {
                 "title": "entrepreneurship",
                 "permalink": "/lifestyle/entrepreneurship"
               }
@@ -720,23 +692,24 @@
               "id": "lifestyle/entrepreneurship",
               "title": "entrepreneurship",
               "description": "",
-              "source": "@site/../../docs/lifestyle/entrepreneurship.md",
+              "source": "@site/../../docs/lifestyle/3.entrepreneurship.md",
               "sourceDirName": "lifestyle",
               "slug": "/lifestyle/entrepreneurship",
               "permalink": "/lifestyle/entrepreneurship",
               "draft": false,
-              "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/lifestyle/entrepreneurship.md",
+              "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/lifestyle/3.entrepreneurship.md",
               "tags": [],
               "version": "current",
+              "sidebarPosition": 3,
               "frontMatter": {},
               "sidebar": "courseSidebar",
               "previous": {
-                "title": "become-a-wizard",
-                "permalink": "/lifestyle/become-a-wizard"
+                "title": "freedom",
+                "permalink": "/lifestyle/freedom"
               },
               "next": {
-                "title": "finance",
-                "permalink": "/lifestyle/finance"
+                "title": "become-a-wizard",
+                "permalink": "/lifestyle/become-a-wizard"
               }
             },
             {
@@ -744,19 +717,20 @@
               "id": "lifestyle/finance",
               "title": "finance",
               "description": "",
-              "source": "@site/../../docs/lifestyle/finance.md",
+              "source": "@site/../../docs/lifestyle/1.finance.md",
               "sourceDirName": "lifestyle",
               "slug": "/lifestyle/finance",
               "permalink": "/lifestyle/finance",
               "draft": false,
-              "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/lifestyle/finance.md",
+              "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/lifestyle/1.finance.md",
               "tags": [],
               "version": "current",
+              "sidebarPosition": 1,
               "frontMatter": {},
               "sidebar": "courseSidebar",
               "previous": {
-                "title": "entrepreneurship",
-                "permalink": "/lifestyle/entrepreneurship"
+                "title": "🏝 Lifestyle",
+                "permalink": "/category/-lifestyle"
               },
               "next": {
                 "title": "freedom",
@@ -768,19 +742,24 @@
               "id": "lifestyle/freedom",
               "title": "freedom",
               "description": "",
-              "source": "@site/../../docs/lifestyle/freedom.md",
+              "source": "@site/../../docs/lifestyle/2.freedom.md",
               "sourceDirName": "lifestyle",
               "slug": "/lifestyle/freedom",
               "permalink": "/lifestyle/freedom",
               "draft": false,
-              "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/lifestyle/freedom.md",
+              "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/lifestyle/2.freedom.md",
               "tags": [],
               "version": "current",
+              "sidebarPosition": 2,
               "frontMatter": {},
               "sidebar": "courseSidebar",
               "previous": {
                 "title": "finance",
                 "permalink": "/lifestyle/finance"
+              },
+              "next": {
+                "title": "entrepreneurship",
+                "permalink": "/lifestyle/entrepreneurship"
               }
             },
             {
@@ -929,8 +908,8 @@
                 "permalink": "/wizard/distribution"
               },
               "next": {
-                "title": "Lifestyle",
-                "permalink": "/category/lifestyle"
+                "title": "🏝 Lifestyle",
+                "permalink": "/category/-lifestyle"
               }
             },
             {
@@ -950,8 +929,8 @@
               "frontMatter": {},
               "sidebar": "courseSidebar",
               "previous": {
-                "title": "Wizard",
-                "permalink": "/category/wizard"
+                "title": "🧙‍♂️ Wizard",
+                "permalink": "/category/️-wizard"
               },
               "next": {
                 "title": "decentralised-architectures",
@@ -1018,7 +997,7 @@
               },
               {
                 "type": "category",
-                "label": "Beginner",
+                "label": "👶 Beginner",
                 "collapsible": true,
                 "collapsed": false,
                 "items": [
@@ -1045,21 +1024,17 @@
                   {
                     "type": "doc",
                     "id": "beginner/css"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "beginner/distribution-monetisation"
                   }
                 ],
                 "link": {
                   "type": "generated-index",
-                  "slug": "/category/beginner",
-                  "permalink": "/category/beginner"
+                  "slug": "/category/-beginner",
+                  "permalink": "/category/-beginner"
                 }
               },
               {
                 "type": "category",
-                "label": "Competent",
+                "label": "🦜 Competent",
                 "collapsible": true,
                 "collapsed": false,
                 "items": [
@@ -1106,13 +1081,13 @@
                 ],
                 "link": {
                   "type": "generated-index",
-                  "slug": "/category/competent",
-                  "permalink": "/category/competent"
+                  "slug": "/category/-competent",
+                  "permalink": "/category/-competent"
                 }
               },
               {
                 "type": "category",
-                "label": "Expert",
+                "label": "🦅 Expert",
                 "collapsible": true,
                 "collapsed": false,
                 "items": [
@@ -1155,13 +1130,13 @@
                 ],
                 "link": {
                   "type": "generated-index",
-                  "slug": "/category/expert",
-                  "permalink": "/category/expert"
+                  "slug": "/category/-expert",
+                  "permalink": "/category/-expert"
                 }
               },
               {
                 "type": "category",
-                "label": "Wizard",
+                "label": "🧙‍♂️ Wizard",
                 "collapsible": true,
                 "collapsed": false,
                 "items": [
@@ -1204,24 +1179,16 @@
                 ],
                 "link": {
                   "type": "generated-index",
-                  "slug": "/category/wizard",
-                  "permalink": "/category/wizard"
+                  "slug": "/category/️-wizard",
+                  "permalink": "/category/️-wizard"
                 }
               },
               {
                 "type": "category",
-                "label": "Lifestyle",
+                "label": "🏝 Lifestyle",
                 "collapsible": true,
                 "collapsed": false,
                 "items": [
-                  {
-                    "type": "doc",
-                    "id": "lifestyle/become-a-wizard"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "lifestyle/entrepreneurship"
-                  },
                   {
                     "type": "doc",
                     "id": "lifestyle/finance"
@@ -1229,12 +1196,20 @@
                   {
                     "type": "doc",
                     "id": "lifestyle/freedom"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "lifestyle/entrepreneurship"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "lifestyle/become-a-wizard"
                   }
                 ],
                 "link": {
                   "type": "generated-index",
-                  "slug": "/category/lifestyle",
-                  "permalink": "/category/lifestyle"
+                  "slug": "/category/-lifestyle",
+                  "permalink": "/category/-lifestyle"
                 }
               }
             ]

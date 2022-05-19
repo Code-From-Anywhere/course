@@ -1,0 +1,15 @@
+{
+  "title": "👶 Beginner",
+  "slug": "/category/-beginner",
+  "permalink": "/category/-beginner",
+  "navigation": {
+    "previous": {
+      "title": "Code From Anywhere Course",
+      "permalink": "/about"
+    },
+    "next": {
+      "title": "goal",
+      "permalink": "/beginner/goal"
+    }
+  }
+}

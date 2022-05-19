@@ -16,7 +16,7 @@
       },
       {
         "type": "category",
-        "label": "Beginner",
+        "label": "👶 Beginner",
         "collapsible": true,
         "collapsed": false,
         "items": [
@@ -55,19 +55,13 @@
             "label": "css",
             "href": "/beginner/css",
             "docId": "beginner/css"
-          },
-          {
-            "type": "link",
-            "label": "distribution-monetisation",
-            "href": "/beginner/distribution-monetisation",
-            "docId": "beginner/distribution-monetisation"
           }
         ],
-        "href": "/category/beginner"
+        "href": "/category/-beginner"
       },
       {
         "type": "category",
-        "label": "Competent",
+        "label": "🦜 Competent",
         "collapsible": true,
         "collapsed": false,
         "items": [
@@ -132,11 +126,11 @@
             "docId": "competent/monetisation"
           }
         ],
-        "href": "/category/competent"
+        "href": "/category/-competent"
       },
       {
         "type": "category",
-        "label": "Expert",
+        "label": "🦅 Expert",
         "collapsible": true,
         "collapsed": false,
         "items": [
@@ -195,11 +189,11 @@
             "docId": "expert/monetisation"
           }
         ],
-        "href": "/category/expert"
+        "href": "/category/-expert"
       },
       {
         "type": "category",
-        "label": "Wizard",
+        "label": "🧙‍♂️ Wizard",
         "collapsible": true,
         "collapsed": false,
         "items": [
@@ -258,26 +252,14 @@
             "docId": "wizard/monetisation"
           }
         ],
-        "href": "/category/wizard"
+        "href": "/category/️-wizard"
       },
       {
         "type": "category",
-        "label": "Lifestyle",
+        "label": "🏝 Lifestyle",
         "collapsible": true,
         "collapsed": false,
         "items": [
-          {
-            "type": "link",
-            "label": "become-a-wizard",
-            "href": "/lifestyle/become-a-wizard",
-            "docId": "lifestyle/become-a-wizard"
-          },
-          {
-            "type": "link",
-            "label": "entrepreneurship",
-            "href": "/lifestyle/entrepreneurship",
-            "docId": "lifestyle/entrepreneurship"
-          },
           {
             "type": "link",
             "label": "finance",
@@ -289,9 +271,21 @@
             "label": "freedom",
             "href": "/lifestyle/freedom",
             "docId": "lifestyle/freedom"
+          },
+          {
+            "type": "link",
+            "label": "entrepreneurship",
+            "href": "/lifestyle/entrepreneurship",
+            "docId": "lifestyle/entrepreneurship"
+          },
+          {
+            "type": "link",
+            "label": "become-a-wizard",
+            "href": "/lifestyle/become-a-wizard",
+            "docId": "lifestyle/become-a-wizard"
           }
         ],
-        "href": "/category/lifestyle"
+        "href": "/category/-lifestyle"
       }
     ]
   },
@@ -305,12 +299,6 @@
     "beginner/css": {
       "id": "beginner/css",
       "title": "css",
-      "description": "",
-      "sidebar": "courseSidebar"
-    },
-    "beginner/distribution-monetisation": {
-      "id": "beginner/distribution-monetisation",
-      "title": "distribution-monetisation",
       "description": "",
       "sidebar": "courseSidebar"
     },

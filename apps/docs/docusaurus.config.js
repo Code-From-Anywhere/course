@@ -86,8 +86,13 @@ const config = {
           },
 
           {
-            href: "https://github.com/Code-From-Anywhere/course",
-            label: "GitHub",
+            href: "https://sensiblestack.com",
+            label: "Sensible",
+            position: "right",
+          },
+          {
+            href: "https://king-os.com",
+            label: "King OS",
             position: "right",
           },
         ],

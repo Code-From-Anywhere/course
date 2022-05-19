@@ -21,11 +21,6 @@
               "sidebar": "courseSidebar"
             },
             {
-              "id": "beginner/distribution-monetisation",
-              "path": "/beginner/distribution-monetisation",
-              "sidebar": "courseSidebar"
-            },
-            {
               "id": "beginner/goal",
               "path": "/beginner/goal",
               "sidebar": "courseSidebar"
@@ -211,28 +206,28 @@
               "sidebar": "courseSidebar"
             },
             {
-              "id": "/category/beginner",
-              "path": "/category/beginner",
+              "id": "/category/-beginner",
+              "path": "/category/-beginner",
               "sidebar": "courseSidebar"
             },
             {
-              "id": "/category/competent",
-              "path": "/category/competent",
+              "id": "/category/-competent",
+              "path": "/category/-competent",
               "sidebar": "courseSidebar"
             },
             {
-              "id": "/category/expert",
-              "path": "/category/expert",
+              "id": "/category/-expert",
+              "path": "/category/-expert",
               "sidebar": "courseSidebar"
             },
             {
-              "id": "/category/wizard",
-              "path": "/category/wizard",
+              "id": "/category/️-wizard",
+              "path": "/category/️-wizard",
               "sidebar": "courseSidebar"
             },
             {
-              "id": "/category/lifestyle",
-              "path": "/category/lifestyle",
+              "id": "/category/-lifestyle",
+              "path": "/category/-lifestyle",
               "sidebar": "courseSidebar"
             }
           ],
