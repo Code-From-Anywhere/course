@@ -1,0 +1,23 @@
+{
+  "unversionedId": "about",
+  "id": "about",
+  "title": "Code From Anywhere Course",
+  "description": "Outline",
+  "source": "@site/../../docs/1.about.md",
+  "sourceDirName": ".",
+  "slug": "/about",
+  "permalink": "/about",
+  "draft": false,
+  "editUrl": "https://github.com/Code-From-Anywhere/sensible/tree/main/apps/web/../../docs/1.about.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "docSidebar",
+  "next": {
+    "title": "Beginner",
+    "permalink": "/category/beginner"
+  }
+}

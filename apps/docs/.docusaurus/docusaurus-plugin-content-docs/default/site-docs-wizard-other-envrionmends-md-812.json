@@ -1,0 +1,24 @@
+{
+  "unversionedId": "wizard/other-envrionmends",
+  "id": "wizard/other-envrionmends",
+  "title": "other-envrionmends",
+  "description": "",
+  "source": "@site/../../docs/wizard/other-envrionmends.md",
+  "sourceDirName": "wizard",
+  "slug": "/wizard/other-envrionmends",
+  "permalink": "/wizard/other-envrionmends",
+  "draft": false,
+  "editUrl": "https://github.com/Code-From-Anywhere/sensible/tree/main/apps/web/../../docs/wizard/other-envrionmends.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "docSidebar",
+  "previous": {
+    "title": "monetisation",
+    "permalink": "/wizard/monetisation"
+  },
+  "next": {
+    "title": "thinking-in-data",
+    "permalink": "/wizard/thinking-in-data"
+  }
+}

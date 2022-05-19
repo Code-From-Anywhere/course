@@ -1,0 +1,24 @@
+{
+  "unversionedId": "irl/distribution",
+  "id": "irl/distribution",
+  "title": "distribution",
+  "description": "",
+  "source": "@site/../../docs/irl/distribution.md",
+  "sourceDirName": "irl",
+  "slug": "/irl/distribution",
+  "permalink": "/irl/distribution",
+  "draft": false,
+  "editUrl": "https://github.com/Code-From-Anywhere/sensible/tree/main/apps/web/../../docs/irl/distribution.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "docSidebar",
+  "previous": {
+    "title": "become-a-wizard",
+    "permalink": "/irl/become-a-wizard"
+  },
+  "next": {
+    "title": "entrepreneurship",
+    "permalink": "/irl/entrepreneurship"
+  }
+}

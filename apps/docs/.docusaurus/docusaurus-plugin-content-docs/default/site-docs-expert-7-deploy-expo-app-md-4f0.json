@@ -1,0 +1,25 @@
+{
+  "unversionedId": "expert/deploy-expo-app",
+  "id": "expert/deploy-expo-app",
+  "title": "deploy-expo-app",
+  "description": "",
+  "source": "@site/../../docs/expert/7.deploy-expo-app.md",
+  "sourceDirName": "expert",
+  "slug": "/expert/deploy-expo-app",
+  "permalink": "/expert/deploy-expo-app",
+  "draft": false,
+  "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/expert/7.deploy-expo-app.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {},
+  "sidebar": "courseSidebar",
+  "previous": {
+    "title": "deploy-backend",
+    "permalink": "/expert/deploy-backend"
+  },
+  "next": {
+    "title": "distribution",
+    "permalink": "/expert/distribution"
+  }
+}

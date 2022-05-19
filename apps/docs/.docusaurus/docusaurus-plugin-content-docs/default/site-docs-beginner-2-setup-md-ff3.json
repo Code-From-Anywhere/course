@@ -1,0 +1,25 @@
+{
+  "unversionedId": "beginner/setup",
+  "id": "beginner/setup",
+  "title": "setup",
+  "description": "",
+  "source": "@site/../../docs/beginner/2.setup.md",
+  "sourceDirName": "beginner",
+  "slug": "/beginner/setup",
+  "permalink": "/beginner/setup",
+  "draft": false,
+  "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/beginner/2.setup.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {},
+  "sidebar": "courseSidebar",
+  "previous": {
+    "title": "goal",
+    "permalink": "/beginner/goal"
+  },
+  "next": {
+    "title": "json",
+    "permalink": "/beginner/json"
+  }
+}

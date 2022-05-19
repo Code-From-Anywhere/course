@@ -1,0 +1,25 @@
+{
+  "unversionedId": "competent/deploy-frontend",
+  "id": "competent/deploy-frontend",
+  "title": "deploy-frontend",
+  "description": "",
+  "source": "@site/../../docs/competent/4.deploy-frontend.md",
+  "sourceDirName": "competent",
+  "slug": "/competent/deploy-frontend",
+  "permalink": "/competent/deploy-frontend",
+  "draft": false,
+  "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/competent/4.deploy-frontend.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {},
+  "sidebar": "courseSidebar",
+  "previous": {
+    "title": "react-nextjs",
+    "permalink": "/competent/react-nextjs"
+  },
+  "next": {
+    "title": "data-storage",
+    "permalink": "/competent/data-storage"
+  }
+}

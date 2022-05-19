@@ -1,0 +1,11 @@
+{
+  "title": "Tutorial overview",
+  "slug": "/category/beginner",
+  "permalink": "/category/beginner",
+  "navigation": {
+    "next": {
+      "title": "goal",
+      "permalink": "/beginner/goal"
+    }
+  }
+}

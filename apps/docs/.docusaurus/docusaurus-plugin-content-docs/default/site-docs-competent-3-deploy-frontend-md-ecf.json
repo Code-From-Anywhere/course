@@ -1,0 +1,25 @@
+{
+  "unversionedId": "competent/deploy-frontend",
+  "id": "competent/deploy-frontend",
+  "title": "deploy-frontend",
+  "description": "",
+  "source": "@site/../../docs/competent/3.deploy-frontend.md",
+  "sourceDirName": "competent",
+  "slug": "/competent/deploy-frontend",
+  "permalink": "/competent/deploy-frontend",
+  "draft": false,
+  "editUrl": "https://github.com/Code-From-Anywhere/sensible/tree/main/apps/web/../../docs/competent/3.deploy-frontend.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {},
+  "sidebar": "docSidebar",
+  "previous": {
+    "title": "typescript",
+    "permalink": "/competent/typescript"
+  },
+  "next": {
+    "title": "react-nextjs",
+    "permalink": "/competent/react-nextjs"
+  }
+}

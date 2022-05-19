@@ -1,0 +1,1270 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "label": "Next",
+          "banner": null,
+          "badge": false,
+          "className": "docs-version-current",
+          "path": "/",
+          "tagsPath": "/tags",
+          "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs",
+          "editUrlLocalized": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/i18n/en/docusaurus-plugin-content-docs/current",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "/Users/wijnandkarsens/Documents/domains/course/apps/docs/sidebars.js",
+          "contentPath": "/Users/wijnandkarsens/Documents/domains/course/docs",
+          "contentPathLocalized": "/Users/wijnandkarsens/Documents/domains/course/apps/docs/i18n/en/docusaurus-plugin-content-docs/current",
+          "docs": [
+            {
+              "unversionedId": "about",
+              "id": "about",
+              "title": "Code From Anywhere Course",
+              "description": "Welcome! I'm building a course here. Check back soon!",
+              "source": "@site/../../docs/about.md",
+              "sourceDirName": ".",
+              "slug": "/about",
+              "permalink": "/about",
+              "draft": false,
+              "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/about.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "courseSidebar",
+              "next": {
+                "title": "Beginner",
+                "permalink": "/category/beginner"
+              }
+            },
+            {
+              "unversionedId": "beginner/css",
+              "id": "beginner/css",
+              "title": "css",
+              "description": "",
+              "source": "@site/../../docs/beginner/7.css.md",
+              "sourceDirName": "beginner",
+              "slug": "/beginner/css",
+              "permalink": "/beginner/css",
+              "draft": false,
+              "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/beginner/7.css.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 7,
+              "frontMatter": {},
+              "sidebar": "courseSidebar",
+              "previous": {
+                "title": "html",
+                "permalink": "/beginner/html"
+              },
+              "next": {
+                "title": "distribution-monetisation",
+                "permalink": "/beginner/distribution-monetisation"
+              }
+            },
+            {
+              "unversionedId": "beginner/distribution-monetisation",
+              "id": "beginner/distribution-monetisation",
+              "title": "distribution-monetisation",
+              "description": "",
+              "source": "@site/../../docs/beginner/8.distribution-monetisation.md",
+              "sourceDirName": "beginner",
+              "slug": "/beginner/distribution-monetisation",
+              "permalink": "/beginner/distribution-monetisation",
+              "draft": false,
+              "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/beginner/8.distribution-monetisation.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 8,
+              "frontMatter": {},
+              "sidebar": "courseSidebar",
+              "previous": {
+                "title": "css",
+                "permalink": "/beginner/css"
+              },
+              "next": {
+                "title": "Competent",
+                "permalink": "/category/competent"
+              }
+            },
+            {
+              "unversionedId": "beginner/goal",
+              "id": "beginner/goal",
+              "title": "goal",
+              "description": "",
+              "source": "@site/../../docs/beginner/1.goal.md",
+              "sourceDirName": "beginner",
+              "slug": "/beginner/goal",
+              "permalink": "/beginner/goal",
+              "draft": false,
+              "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/beginner/1.goal.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {},
+              "sidebar": "courseSidebar",
+              "previous": {
+                "title": "Beginner",
+                "permalink": "/category/beginner"
+              },
+              "next": {
+                "title": "setup",
+                "permalink": "/beginner/setup"
+              }
+            },
+            {
+              "unversionedId": "beginner/html",
+              "id": "beginner/html",
+              "title": "html",
+              "description": "",
+              "source": "@site/../../docs/beginner/6.html.md",
+              "sourceDirName": "beginner",
+              "slug": "/beginner/html",
+              "permalink": "/beginner/html",
+              "draft": false,
+              "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/beginner/6.html.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 6,
+              "frontMatter": {},
+              "sidebar": "courseSidebar",
+              "previous": {
+                "title": "markdown",
+                "permalink": "/beginner/markdown"
+              },
+              "next": {
+                "title": "css",
+                "permalink": "/beginner/css"
+              }
+            },
+            {
+              "unversionedId": "beginner/json",
+              "id": "beginner/json",
+              "title": "json",
+              "description": "",
+              "source": "@site/../../docs/beginner/4.json.md",
+              "sourceDirName": "beginner",
+              "slug": "/beginner/json",
+              "permalink": "/beginner/json",
+              "draft": false,
+              "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/beginner/4.json.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {},
+              "sidebar": "courseSidebar",
+              "previous": {
+                "title": "setup",
+                "permalink": "/beginner/setup"
+              },
+              "next": {
+                "title": "markdown",
+                "permalink": "/beginner/markdown"
+              }
+            },
+            {
+              "unversionedId": "beginner/markdown",
+              "id": "beginner/markdown",
+              "title": "markdown",
+              "description": "",
+              "source": "@site/../../docs/beginner/5.markdown.md",
+              "sourceDirName": "beginner",
+              "slug": "/beginner/markdown",
+              "permalink": "/beginner/markdown",
+              "draft": false,
+              "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/beginner/5.markdown.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {},
+              "sidebar": "courseSidebar",
+              "previous": {
+                "title": "json",
+                "permalink": "/beginner/json"
+              },
+              "next": {
+                "title": "html",
+                "permalink": "/beginner/html"
+              }
+            },
+            {
+              "unversionedId": "beginner/setup",
+              "id": "beginner/setup",
+              "title": "setup",
+              "description": "",
+              "source": "@site/../../docs/beginner/2.setup.md",
+              "sourceDirName": "beginner",
+              "slug": "/beginner/setup",
+              "permalink": "/beginner/setup",
+              "draft": false,
+              "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/beginner/2.setup.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {},
+              "sidebar": "courseSidebar",
+              "previous": {
+                "title": "goal",
+                "permalink": "/beginner/goal"
+              },
+              "next": {
+                "title": "json",
+                "permalink": "/beginner/json"
+              }
+            },
+            {
+              "unversionedId": "competent/config",
+              "id": "competent/config",
+              "title": "config",
+              "description": "",
+              "source": "@site/../../docs/competent/8.config.md",
+              "sourceDirName": "competent",
+              "slug": "/competent/config",
+              "permalink": "/competent/config",
+              "draft": false,
+              "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/competent/8.config.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 8,
+              "frontMatter": {},
+              "sidebar": "courseSidebar",
+              "previous": {
+                "title": "npm-packages",
+                "permalink": "/competent/npm-packages"
+              },
+              "next": {
+                "title": "distribution",
+                "permalink": "/competent/distribution"
+              }
+            },
+            {
+              "unversionedId": "competent/data-storage",
+              "id": "competent/data-storage",
+              "title": "data-storage",
+              "description": "",
+              "source": "@site/../../docs/competent/5.data-storage.md",
+              "sourceDirName": "competent",
+              "slug": "/competent/data-storage",
+              "permalink": "/competent/data-storage",
+              "draft": false,
+              "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/competent/5.data-storage.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {},
+              "sidebar": "courseSidebar",
+              "previous": {
+                "title": "deploy-frontend",
+                "permalink": "/competent/deploy-frontend"
+              },
+              "next": {
+                "title": "tailwind",
+                "permalink": "/competent/tailwind"
+              }
+            },
+            {
+              "unversionedId": "competent/deploy-frontend",
+              "id": "competent/deploy-frontend",
+              "title": "deploy-frontend",
+              "description": "",
+              "source": "@site/../../docs/competent/4.deploy-frontend.md",
+              "sourceDirName": "competent",
+              "slug": "/competent/deploy-frontend",
+              "permalink": "/competent/deploy-frontend",
+              "draft": false,
+              "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/competent/4.deploy-frontend.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {},
+              "sidebar": "courseSidebar",
+              "previous": {
+                "title": "react-nextjs",
+                "permalink": "/competent/react-nextjs"
+              },
+              "next": {
+                "title": "data-storage",
+                "permalink": "/competent/data-storage"
+              }
+            },
+            {
+              "unversionedId": "competent/distribution",
+              "id": "competent/distribution",
+              "title": "distribution",
+              "description": "",
+              "source": "@site/../../docs/competent/9.distribution.md",
+              "sourceDirName": "competent",
+              "slug": "/competent/distribution",
+              "permalink": "/competent/distribution",
+              "draft": false,
+              "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/competent/9.distribution.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 9,
+              "frontMatter": {},
+              "sidebar": "courseSidebar",
+              "previous": {
+                "title": "config",
+                "permalink": "/competent/config"
+              },
+              "next": {
+                "title": "monetisation",
+                "permalink": "/competent/monetisation"
+              }
+            },
+            {
+              "unversionedId": "competent/git",
+              "id": "competent/git",
+              "title": "git",
+              "description": "",
+              "source": "@site/../../docs/competent/1.git.md",
+              "sourceDirName": "competent",
+              "slug": "/competent/git",
+              "permalink": "/competent/git",
+              "draft": false,
+              "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/competent/1.git.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {},
+              "sidebar": "courseSidebar",
+              "previous": {
+                "title": "Competent",
+                "permalink": "/category/competent"
+              },
+              "next": {
+                "title": "typescript",
+                "permalink": "/competent/typescript"
+              }
+            },
+            {
+              "unversionedId": "competent/monetisation",
+              "id": "competent/monetisation",
+              "title": "monetisation",
+              "description": "",
+              "source": "@site/../../docs/competent/10.monetisation.md",
+              "sourceDirName": "competent",
+              "slug": "/competent/monetisation",
+              "permalink": "/competent/monetisation",
+              "draft": false,
+              "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/competent/10.monetisation.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 10,
+              "frontMatter": {},
+              "sidebar": "courseSidebar",
+              "previous": {
+                "title": "distribution",
+                "permalink": "/competent/distribution"
+              },
+              "next": {
+                "title": "Expert",
+                "permalink": "/category/expert"
+              }
+            },
+            {
+              "unversionedId": "competent/npm-packages",
+              "id": "competent/npm-packages",
+              "title": "npm-packages",
+              "description": "",
+              "source": "@site/../../docs/competent/7.npm-packages.md",
+              "sourceDirName": "competent",
+              "slug": "/competent/npm-packages",
+              "permalink": "/competent/npm-packages",
+              "draft": false,
+              "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/competent/7.npm-packages.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 7,
+              "frontMatter": {},
+              "sidebar": "courseSidebar",
+              "previous": {
+                "title": "tailwind",
+                "permalink": "/competent/tailwind"
+              },
+              "next": {
+                "title": "config",
+                "permalink": "/competent/config"
+              }
+            },
+            {
+              "unversionedId": "competent/react-nextjs",
+              "id": "competent/react-nextjs",
+              "title": "react-nextjs",
+              "description": "",
+              "source": "@site/../../docs/competent/3.react-nextjs.md",
+              "sourceDirName": "competent",
+              "slug": "/competent/react-nextjs",
+              "permalink": "/competent/react-nextjs",
+              "draft": false,
+              "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/competent/3.react-nextjs.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {},
+              "sidebar": "courseSidebar",
+              "previous": {
+                "title": "typescript",
+                "permalink": "/competent/typescript"
+              },
+              "next": {
+                "title": "deploy-frontend",
+                "permalink": "/competent/deploy-frontend"
+              }
+            },
+            {
+              "unversionedId": "competent/tailwind",
+              "id": "competent/tailwind",
+              "title": "tailwind",
+              "description": "",
+              "source": "@site/../../docs/competent/6.tailwind.md",
+              "sourceDirName": "competent",
+              "slug": "/competent/tailwind",
+              "permalink": "/competent/tailwind",
+              "draft": false,
+              "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/competent/6.tailwind.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 6,
+              "frontMatter": {},
+              "sidebar": "courseSidebar",
+              "previous": {
+                "title": "data-storage",
+                "permalink": "/competent/data-storage"
+              },
+              "next": {
+                "title": "npm-packages",
+                "permalink": "/competent/npm-packages"
+              }
+            },
+            {
+              "unversionedId": "competent/typescript",
+              "id": "competent/typescript",
+              "title": "typescript",
+              "description": "",
+              "source": "@site/../../docs/competent/2.typescript.md",
+              "sourceDirName": "competent",
+              "slug": "/competent/typescript",
+              "permalink": "/competent/typescript",
+              "draft": false,
+              "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/competent/2.typescript.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {},
+              "sidebar": "courseSidebar",
+              "previous": {
+                "title": "git",
+                "permalink": "/competent/git"
+              },
+              "next": {
+                "title": "react-nextjs",
+                "permalink": "/competent/react-nextjs"
+              }
+            },
+            {
+              "unversionedId": "expert/core",
+              "id": "expert/core",
+              "title": "core",
+              "description": "",
+              "source": "@site/../../docs/expert/2.core.md",
+              "sourceDirName": "expert",
+              "slug": "/expert/core",
+              "permalink": "/expert/core",
+              "draft": false,
+              "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/expert/2.core.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {},
+              "sidebar": "courseSidebar",
+              "previous": {
+                "title": "sensible",
+                "permalink": "/expert/sensible"
+              },
+              "next": {
+                "title": "server",
+                "permalink": "/expert/server"
+              }
+            },
+            {
+              "unversionedId": "expert/deploy-backend",
+              "id": "expert/deploy-backend",
+              "title": "deploy-backend",
+              "description": "",
+              "source": "@site/../../docs/expert/6.deploy-backend.md",
+              "sourceDirName": "expert",
+              "slug": "/expert/deploy-backend",
+              "permalink": "/expert/deploy-backend",
+              "draft": false,
+              "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/expert/6.deploy-backend.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 6,
+              "frontMatter": {},
+              "sidebar": "courseSidebar",
+              "previous": {
+                "title": "dev-dashboard",
+                "permalink": "/expert/dev-dashboard"
+              },
+              "next": {
+                "title": "deploy-expo-app",
+                "permalink": "/expert/deploy-expo-app"
+              }
+            },
+            {
+              "unversionedId": "expert/deploy-expo-app",
+              "id": "expert/deploy-expo-app",
+              "title": "deploy-expo-app",
+              "description": "",
+              "source": "@site/../../docs/expert/7.deploy-expo-app.md",
+              "sourceDirName": "expert",
+              "slug": "/expert/deploy-expo-app",
+              "permalink": "/expert/deploy-expo-app",
+              "draft": false,
+              "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/expert/7.deploy-expo-app.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 7,
+              "frontMatter": {},
+              "sidebar": "courseSidebar",
+              "previous": {
+                "title": "deploy-backend",
+                "permalink": "/expert/deploy-backend"
+              },
+              "next": {
+                "title": "distribution",
+                "permalink": "/expert/distribution"
+              }
+            },
+            {
+              "unversionedId": "expert/dev-dashboard",
+              "id": "expert/dev-dashboard",
+              "title": "dev-dashboard",
+              "description": "",
+              "source": "@site/../../docs/expert/5.dev-dashboard.md",
+              "sourceDirName": "expert",
+              "slug": "/expert/dev-dashboard",
+              "permalink": "/expert/dev-dashboard",
+              "draft": false,
+              "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/expert/5.dev-dashboard.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {},
+              "sidebar": "courseSidebar",
+              "previous": {
+                "title": "ui",
+                "permalink": "/expert/ui"
+              },
+              "next": {
+                "title": "deploy-backend",
+                "permalink": "/expert/deploy-backend"
+              }
+            },
+            {
+              "unversionedId": "expert/distribution",
+              "id": "expert/distribution",
+              "title": "distribution",
+              "description": "",
+              "source": "@site/../../docs/expert/8.distribution.md",
+              "sourceDirName": "expert",
+              "slug": "/expert/distribution",
+              "permalink": "/expert/distribution",
+              "draft": false,
+              "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/expert/8.distribution.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 8,
+              "frontMatter": {},
+              "sidebar": "courseSidebar",
+              "previous": {
+                "title": "deploy-expo-app",
+                "permalink": "/expert/deploy-expo-app"
+              },
+              "next": {
+                "title": "monetisation",
+                "permalink": "/expert/monetisation"
+              }
+            },
+            {
+              "unversionedId": "expert/monetisation",
+              "id": "expert/monetisation",
+              "title": "monetisation",
+              "description": "",
+              "source": "@site/../../docs/expert/9.monetisation.md",
+              "sourceDirName": "expert",
+              "slug": "/expert/monetisation",
+              "permalink": "/expert/monetisation",
+              "draft": false,
+              "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/expert/9.monetisation.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 9,
+              "frontMatter": {},
+              "sidebar": "courseSidebar",
+              "previous": {
+                "title": "distribution",
+                "permalink": "/expert/distribution"
+              },
+              "next": {
+                "title": "Wizard",
+                "permalink": "/category/wizard"
+              }
+            },
+            {
+              "unversionedId": "expert/sensible",
+              "id": "expert/sensible",
+              "title": "sensible",
+              "description": "",
+              "source": "@site/../../docs/expert/1.sensible.md",
+              "sourceDirName": "expert",
+              "slug": "/expert/sensible",
+              "permalink": "/expert/sensible",
+              "draft": false,
+              "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/expert/1.sensible.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {},
+              "sidebar": "courseSidebar",
+              "previous": {
+                "title": "Expert",
+                "permalink": "/category/expert"
+              },
+              "next": {
+                "title": "core",
+                "permalink": "/expert/core"
+              }
+            },
+            {
+              "unversionedId": "expert/server",
+              "id": "expert/server",
+              "title": "server",
+              "description": "",
+              "source": "@site/../../docs/expert/3.server.md",
+              "sourceDirName": "expert",
+              "slug": "/expert/server",
+              "permalink": "/expert/server",
+              "draft": false,
+              "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/expert/3.server.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {},
+              "sidebar": "courseSidebar",
+              "previous": {
+                "title": "core",
+                "permalink": "/expert/core"
+              },
+              "next": {
+                "title": "ui",
+                "permalink": "/expert/ui"
+              }
+            },
+            {
+              "unversionedId": "expert/ui",
+              "id": "expert/ui",
+              "title": "ui",
+              "description": "",
+              "source": "@site/../../docs/expert/4.ui.md",
+              "sourceDirName": "expert",
+              "slug": "/expert/ui",
+              "permalink": "/expert/ui",
+              "draft": false,
+              "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/expert/4.ui.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {},
+              "sidebar": "courseSidebar",
+              "previous": {
+                "title": "server",
+                "permalink": "/expert/server"
+              },
+              "next": {
+                "title": "dev-dashboard",
+                "permalink": "/expert/dev-dashboard"
+              }
+            },
+            {
+              "unversionedId": "lifestyle/become-a-wizard",
+              "id": "lifestyle/become-a-wizard",
+              "title": "become-a-wizard",
+              "description": "",
+              "source": "@site/../../docs/lifestyle/become-a-wizard.md",
+              "sourceDirName": "lifestyle",
+              "slug": "/lifestyle/become-a-wizard",
+              "permalink": "/lifestyle/become-a-wizard",
+              "draft": false,
+              "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/lifestyle/become-a-wizard.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "courseSidebar",
+              "previous": {
+                "title": "Lifestyle",
+                "permalink": "/category/lifestyle"
+              },
+              "next": {
+                "title": "entrepreneurship",
+                "permalink": "/lifestyle/entrepreneurship"
+              }
+            },
+            {
+              "unversionedId": "lifestyle/entrepreneurship",
+              "id": "lifestyle/entrepreneurship",
+              "title": "entrepreneurship",
+              "description": "",
+              "source": "@site/../../docs/lifestyle/entrepreneurship.md",
+              "sourceDirName": "lifestyle",
+              "slug": "/lifestyle/entrepreneurship",
+              "permalink": "/lifestyle/entrepreneurship",
+              "draft": false,
+              "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/lifestyle/entrepreneurship.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "courseSidebar",
+              "previous": {
+                "title": "become-a-wizard",
+                "permalink": "/lifestyle/become-a-wizard"
+              },
+              "next": {
+                "title": "finance",
+                "permalink": "/lifestyle/finance"
+              }
+            },
+            {
+              "unversionedId": "lifestyle/finance",
+              "id": "lifestyle/finance",
+              "title": "finance",
+              "description": "",
+              "source": "@site/../../docs/lifestyle/finance.md",
+              "sourceDirName": "lifestyle",
+              "slug": "/lifestyle/finance",
+              "permalink": "/lifestyle/finance",
+              "draft": false,
+              "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/lifestyle/finance.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "courseSidebar",
+              "previous": {
+                "title": "entrepreneurship",
+                "permalink": "/lifestyle/entrepreneurship"
+              },
+              "next": {
+                "title": "freedom",
+                "permalink": "/lifestyle/freedom"
+              }
+            },
+            {
+              "unversionedId": "lifestyle/freedom",
+              "id": "lifestyle/freedom",
+              "title": "freedom",
+              "description": "",
+              "source": "@site/../../docs/lifestyle/freedom.md",
+              "sourceDirName": "lifestyle",
+              "slug": "/lifestyle/freedom",
+              "permalink": "/lifestyle/freedom",
+              "draft": false,
+              "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/lifestyle/freedom.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "courseSidebar",
+              "previous": {
+                "title": "finance",
+                "permalink": "/lifestyle/finance"
+              }
+            },
+            {
+              "unversionedId": "wizard/automation",
+              "id": "wizard/automation",
+              "title": "automation",
+              "description": "",
+              "source": "@site/../../docs/wizard/4.automation.md",
+              "sourceDirName": "wizard",
+              "slug": "/wizard/automation",
+              "permalink": "/wizard/automation",
+              "draft": false,
+              "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/wizard/4.automation.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {},
+              "sidebar": "courseSidebar",
+              "previous": {
+                "title": "thinking-in-data",
+                "permalink": "/wizard/thinking-in-data"
+              },
+              "next": {
+                "title": "metascripting",
+                "permalink": "/wizard/metascripting"
+              }
+            },
+            {
+              "unversionedId": "wizard/conventions-standards",
+              "id": "wizard/conventions-standards",
+              "title": "conventions-standards",
+              "description": "",
+              "source": "@site/../../docs/wizard/7.conventions-standards.md",
+              "sourceDirName": "wizard",
+              "slug": "/wizard/conventions-standards",
+              "permalink": "/wizard/conventions-standards",
+              "draft": false,
+              "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/wizard/7.conventions-standards.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 7,
+              "frontMatter": {},
+              "sidebar": "courseSidebar",
+              "previous": {
+                "title": "typescript-introspection",
+                "permalink": "/wizard/typescript-introspection"
+              },
+              "next": {
+                "title": "distribution",
+                "permalink": "/wizard/distribution"
+              }
+            },
+            {
+              "unversionedId": "wizard/decentralised-architectures",
+              "id": "wizard/decentralised-architectures",
+              "title": "decentralised-architectures",
+              "description": "",
+              "source": "@site/../../docs/wizard/2.decentralised-architectures.md",
+              "sourceDirName": "wizard",
+              "slug": "/wizard/decentralised-architectures",
+              "permalink": "/wizard/decentralised-architectures",
+              "draft": false,
+              "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/wizard/2.decentralised-architectures.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {},
+              "sidebar": "courseSidebar",
+              "previous": {
+                "title": "other-envrionmends",
+                "permalink": "/wizard/other-envrionmends"
+              },
+              "next": {
+                "title": "thinking-in-data",
+                "permalink": "/wizard/thinking-in-data"
+              }
+            },
+            {
+              "unversionedId": "wizard/distribution",
+              "id": "wizard/distribution",
+              "title": "distribution",
+              "description": "",
+              "source": "@site/../../docs/wizard/8.distribution.md",
+              "sourceDirName": "wizard",
+              "slug": "/wizard/distribution",
+              "permalink": "/wizard/distribution",
+              "draft": false,
+              "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/wizard/8.distribution.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 8,
+              "frontMatter": {},
+              "sidebar": "courseSidebar",
+              "previous": {
+                "title": "conventions-standards",
+                "permalink": "/wizard/conventions-standards"
+              },
+              "next": {
+                "title": "monetisation",
+                "permalink": "/wizard/monetisation"
+              }
+            },
+            {
+              "unversionedId": "wizard/metascripting",
+              "id": "wizard/metascripting",
+              "title": "metascripting",
+              "description": "",
+              "source": "@site/../../docs/wizard/5.metascripting.md",
+              "sourceDirName": "wizard",
+              "slug": "/wizard/metascripting",
+              "permalink": "/wizard/metascripting",
+              "draft": false,
+              "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/wizard/5.metascripting.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {},
+              "sidebar": "courseSidebar",
+              "previous": {
+                "title": "automation",
+                "permalink": "/wizard/automation"
+              },
+              "next": {
+                "title": "typescript-introspection",
+                "permalink": "/wizard/typescript-introspection"
+              }
+            },
+            {
+              "unversionedId": "wizard/monetisation",
+              "id": "wizard/monetisation",
+              "title": "monetisation",
+              "description": "",
+              "source": "@site/../../docs/wizard/9.monetisation.md",
+              "sourceDirName": "wizard",
+              "slug": "/wizard/monetisation",
+              "permalink": "/wizard/monetisation",
+              "draft": false,
+              "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/wizard/9.monetisation.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 9,
+              "frontMatter": {},
+              "sidebar": "courseSidebar",
+              "previous": {
+                "title": "distribution",
+                "permalink": "/wizard/distribution"
+              },
+              "next": {
+                "title": "Lifestyle",
+                "permalink": "/category/lifestyle"
+              }
+            },
+            {
+              "unversionedId": "wizard/other-envrionmends",
+              "id": "wizard/other-envrionmends",
+              "title": "other-envrionmends",
+              "description": "",
+              "source": "@site/../../docs/wizard/1.other-envrionmends.md",
+              "sourceDirName": "wizard",
+              "slug": "/wizard/other-envrionmends",
+              "permalink": "/wizard/other-envrionmends",
+              "draft": false,
+              "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/wizard/1.other-envrionmends.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {},
+              "sidebar": "courseSidebar",
+              "previous": {
+                "title": "Wizard",
+                "permalink": "/category/wizard"
+              },
+              "next": {
+                "title": "decentralised-architectures",
+                "permalink": "/wizard/decentralised-architectures"
+              }
+            },
+            {
+              "unversionedId": "wizard/thinking-in-data",
+              "id": "wizard/thinking-in-data",
+              "title": "thinking-in-data",
+              "description": "",
+              "source": "@site/../../docs/wizard/3.thinking-in-data.md",
+              "sourceDirName": "wizard",
+              "slug": "/wizard/thinking-in-data",
+              "permalink": "/wizard/thinking-in-data",
+              "draft": false,
+              "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/wizard/3.thinking-in-data.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {},
+              "sidebar": "courseSidebar",
+              "previous": {
+                "title": "decentralised-architectures",
+                "permalink": "/wizard/decentralised-architectures"
+              },
+              "next": {
+                "title": "automation",
+                "permalink": "/wizard/automation"
+              }
+            },
+            {
+              "unversionedId": "wizard/typescript-introspection",
+              "id": "wizard/typescript-introspection",
+              "title": "typescript-introspection",
+              "description": "",
+              "source": "@site/../../docs/wizard/6.typescript-introspection.md",
+              "sourceDirName": "wizard",
+              "slug": "/wizard/typescript-introspection",
+              "permalink": "/wizard/typescript-introspection",
+              "draft": false,
+              "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/wizard/6.typescript-introspection.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 6,
+              "frontMatter": {},
+              "sidebar": "courseSidebar",
+              "previous": {
+                "title": "metascripting",
+                "permalink": "/wizard/metascripting"
+              },
+              "next": {
+                "title": "conventions-standards",
+                "permalink": "/wizard/conventions-standards"
+              }
+            }
+          ],
+          "drafts": [],
+          "sidebars": {
+            "courseSidebar": [
+              {
+                "type": "doc",
+                "id": "about"
+              },
+              {
+                "type": "category",
+                "label": "Beginner",
+                "collapsible": true,
+                "collapsed": false,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "beginner/goal"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "beginner/setup"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "beginner/json"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "beginner/markdown"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "beginner/html"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "beginner/css"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "beginner/distribution-monetisation"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "slug": "/category/beginner",
+                  "permalink": "/category/beginner"
+                }
+              },
+              {
+                "type": "category",
+                "label": "Competent",
+                "collapsible": true,
+                "collapsed": false,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "competent/git"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "competent/typescript"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "competent/react-nextjs"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "competent/deploy-frontend"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "competent/data-storage"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "competent/tailwind"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "competent/npm-packages"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "competent/config"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "competent/distribution"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "competent/monetisation"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "slug": "/category/competent",
+                  "permalink": "/category/competent"
+                }
+              },
+              {
+                "type": "category",
+                "label": "Expert",
+                "collapsible": true,
+                "collapsed": false,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "expert/sensible"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "expert/core"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "expert/server"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "expert/ui"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "expert/dev-dashboard"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "expert/deploy-backend"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "expert/deploy-expo-app"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "expert/distribution"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "expert/monetisation"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "slug": "/category/expert",
+                  "permalink": "/category/expert"
+                }
+              },
+              {
+                "type": "category",
+                "label": "Wizard",
+                "collapsible": true,
+                "collapsed": false,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "wizard/other-envrionmends"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "wizard/decentralised-architectures"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "wizard/thinking-in-data"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "wizard/automation"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "wizard/metascripting"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "wizard/typescript-introspection"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "wizard/conventions-standards"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "wizard/distribution"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "wizard/monetisation"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "slug": "/category/wizard",
+                  "permalink": "/category/wizard"
+                }
+              },
+              {
+                "type": "category",
+                "label": "Lifestyle",
+                "collapsible": true,
+                "collapsed": false,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "lifestyle/become-a-wizard"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "lifestyle/entrepreneurship"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "lifestyle/finance"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "lifestyle/freedom"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "slug": "/category/lifestyle",
+                  "permalink": "/category/lifestyle"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-blog": {
+    "default": {
+      "blogSidebarTitle": "Recent posts",
+      "blogPosts": [],
+      "blogListPaginated": [],
+      "blogTags": {},
+      "blogTagsListPath": "/blog/tags",
+      "blogTagsPaginated": []
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": [
+      {
+        "type": "jsx",
+        "permalink": "/",
+        "source": "@site/src/pages/index.tsx"
+      }
+    ]
+  },
+  "docusaurus-plugin-debug": {},
+  "docusaurus-theme-classic": {},
+  "docusaurus-tailwindcss": {},
+  "docusaurus-bootstrap-plugin": {},
+  "docusaurus-mdx-fallback-plugin": {}
+}

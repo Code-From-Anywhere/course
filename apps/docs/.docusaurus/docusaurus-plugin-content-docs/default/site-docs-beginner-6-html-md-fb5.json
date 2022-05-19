@@ -1,0 +1,25 @@
+{
+  "unversionedId": "beginner/html",
+  "id": "beginner/html",
+  "title": "html",
+  "description": "",
+  "source": "@site/../../docs/beginner/6.html.md",
+  "sourceDirName": "beginner",
+  "slug": "/beginner/html",
+  "permalink": "/beginner/html",
+  "draft": false,
+  "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/beginner/6.html.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {},
+  "sidebar": "courseSidebar",
+  "previous": {
+    "title": "markdown",
+    "permalink": "/beginner/markdown"
+  },
+  "next": {
+    "title": "css",
+    "permalink": "/beginner/css"
+  }
+}

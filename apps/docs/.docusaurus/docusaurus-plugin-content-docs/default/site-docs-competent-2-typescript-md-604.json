@@ -1,0 +1,25 @@
+{
+  "unversionedId": "competent/typescript",
+  "id": "competent/typescript",
+  "title": "typescript",
+  "description": "",
+  "source": "@site/../../docs/competent/2.typescript.md",
+  "sourceDirName": "competent",
+  "slug": "/competent/typescript",
+  "permalink": "/competent/typescript",
+  "draft": false,
+  "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/competent/2.typescript.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {},
+  "sidebar": "courseSidebar",
+  "previous": {
+    "title": "git",
+    "permalink": "/competent/git"
+  },
+  "next": {
+    "title": "react-nextjs",
+    "permalink": "/competent/react-nextjs"
+  }
+}

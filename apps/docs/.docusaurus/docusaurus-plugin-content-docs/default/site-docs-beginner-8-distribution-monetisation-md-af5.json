@@ -1,0 +1,25 @@
+{
+  "unversionedId": "beginner/distribution-monetisation",
+  "id": "beginner/distribution-monetisation",
+  "title": "distribution-monetisation",
+  "description": "",
+  "source": "@site/../../docs/beginner/8.distribution-monetisation.md",
+  "sourceDirName": "beginner",
+  "slug": "/beginner/distribution-monetisation",
+  "permalink": "/beginner/distribution-monetisation",
+  "draft": false,
+  "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/beginner/8.distribution-monetisation.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {},
+  "sidebar": "courseSidebar",
+  "previous": {
+    "title": "css",
+    "permalink": "/beginner/css"
+  },
+  "next": {
+    "title": "Competent",
+    "permalink": "/category/competent"
+  }
+}

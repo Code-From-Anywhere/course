@@ -1,0 +1,25 @@
+{
+  "unversionedId": "competent/tailwind",
+  "id": "competent/tailwind",
+  "title": "tailwind",
+  "description": "",
+  "source": "@site/../../docs/competent/6.tailwind.md",
+  "sourceDirName": "competent",
+  "slug": "/competent/tailwind",
+  "permalink": "/competent/tailwind",
+  "draft": false,
+  "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/competent/6.tailwind.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {},
+  "sidebar": "courseSidebar",
+  "previous": {
+    "title": "data-storage",
+    "permalink": "/competent/data-storage"
+  },
+  "next": {
+    "title": "npm-packages",
+    "permalink": "/competent/npm-packages"
+  }
+}

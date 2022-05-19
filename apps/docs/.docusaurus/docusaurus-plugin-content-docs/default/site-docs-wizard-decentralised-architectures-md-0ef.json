@@ -1,0 +1,24 @@
+{
+  "unversionedId": "wizard/decentralised-architectures",
+  "id": "wizard/decentralised-architectures",
+  "title": "decentralised-architectures",
+  "description": "",
+  "source": "@site/../../docs/wizard/decentralised-architectures.md",
+  "sourceDirName": "wizard",
+  "slug": "/wizard/decentralised-architectures",
+  "permalink": "/wizard/decentralised-architectures",
+  "draft": false,
+  "editUrl": "https://github.com/Code-From-Anywhere/sensible/tree/main/apps/web/../../docs/wizard/decentralised-architectures.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "docSidebar",
+  "previous": {
+    "title": "conventions-standards",
+    "permalink": "/wizard/conventions-standards"
+  },
+  "next": {
+    "title": "distribution",
+    "permalink": "/wizard/distribution"
+  }
+}

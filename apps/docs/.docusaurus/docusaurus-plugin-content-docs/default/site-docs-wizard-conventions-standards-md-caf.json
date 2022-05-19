@@ -1,0 +1,24 @@
+{
+  "unversionedId": "wizard/conventions-standards",
+  "id": "wizard/conventions-standards",
+  "title": "conventions-standards",
+  "description": "",
+  "source": "@site/../../docs/wizard/conventions-standards.md",
+  "sourceDirName": "wizard",
+  "slug": "/wizard/conventions-standards",
+  "permalink": "/wizard/conventions-standards",
+  "draft": false,
+  "editUrl": "https://github.com/Code-From-Anywhere/sensible/tree/main/apps/web/../../docs/wizard/conventions-standards.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "docSidebar",
+  "previous": {
+    "title": "metascripting",
+    "permalink": "/wizard/metascripting"
+  },
+  "next": {
+    "title": "distribution",
+    "permalink": "/wizard/distribution"
+  }
+}

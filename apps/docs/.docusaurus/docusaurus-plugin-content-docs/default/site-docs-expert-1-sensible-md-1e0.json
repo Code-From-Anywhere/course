@@ -1,0 +1,25 @@
+{
+  "unversionedId": "expert/sensible",
+  "id": "expert/sensible",
+  "title": "sensible",
+  "description": "",
+  "source": "@site/../../docs/expert/1.sensible.md",
+  "sourceDirName": "expert",
+  "slug": "/expert/sensible",
+  "permalink": "/expert/sensible",
+  "draft": false,
+  "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/expert/1.sensible.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {},
+  "sidebar": "courseSidebar",
+  "previous": {
+    "title": "Expert",
+    "permalink": "/category/expert"
+  },
+  "next": {
+    "title": "core",
+    "permalink": "/expert/core"
+  }
+}

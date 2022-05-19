@@ -1,0 +1,24 @@
+{
+  "unversionedId": "readme",
+  "id": "readme",
+  "title": "Code From Anywhere Course",
+  "description": "Outline",
+  "source": "@site/../../docs/readme.md",
+  "sourceDirName": ".",
+  "slug": "/",
+  "permalink": "/",
+  "draft": false,
+  "editUrl": "https://github.com/Code-From-Anywhere/sensible/tree/main/apps/web/../../docs/readme.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "docSidebar",
+  "previous": {
+    "title": "distribution",
+    "permalink": "/distribution"
+  },
+  "next": {
+    "title": "Structure",
+    "permalink": "/structure"
+  }
+}

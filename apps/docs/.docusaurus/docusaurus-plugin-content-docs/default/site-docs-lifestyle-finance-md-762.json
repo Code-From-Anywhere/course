@@ -1,0 +1,24 @@
+{
+  "unversionedId": "lifestyle/finance",
+  "id": "lifestyle/finance",
+  "title": "finance",
+  "description": "",
+  "source": "@site/../../docs/lifestyle/finance.md",
+  "sourceDirName": "lifestyle",
+  "slug": "/lifestyle/finance",
+  "permalink": "/lifestyle/finance",
+  "draft": false,
+  "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/lifestyle/finance.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "courseSidebar",
+  "previous": {
+    "title": "entrepreneurship",
+    "permalink": "/lifestyle/entrepreneurship"
+  },
+  "next": {
+    "title": "freedom",
+    "permalink": "/lifestyle/freedom"
+  }
+}

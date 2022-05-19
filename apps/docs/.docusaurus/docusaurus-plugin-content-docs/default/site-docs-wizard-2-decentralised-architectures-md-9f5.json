@@ -1,0 +1,25 @@
+{
+  "unversionedId": "wizard/decentralised-architectures",
+  "id": "wizard/decentralised-architectures",
+  "title": "decentralised-architectures",
+  "description": "",
+  "source": "@site/../../docs/wizard/2.decentralised-architectures.md",
+  "sourceDirName": "wizard",
+  "slug": "/wizard/decentralised-architectures",
+  "permalink": "/wizard/decentralised-architectures",
+  "draft": false,
+  "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/wizard/2.decentralised-architectures.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {},
+  "sidebar": "courseSidebar",
+  "previous": {
+    "title": "other-envrionmends",
+    "permalink": "/wizard/other-envrionmends"
+  },
+  "next": {
+    "title": "thinking-in-data",
+    "permalink": "/wizard/thinking-in-data"
+  }
+}

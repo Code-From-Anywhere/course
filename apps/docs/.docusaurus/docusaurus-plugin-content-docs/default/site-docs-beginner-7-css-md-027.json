@@ -1,0 +1,25 @@
+{
+  "unversionedId": "beginner/css",
+  "id": "beginner/css",
+  "title": "css",
+  "description": "",
+  "source": "@site/../../docs/beginner/7.css.md",
+  "sourceDirName": "beginner",
+  "slug": "/beginner/css",
+  "permalink": "/beginner/css",
+  "draft": false,
+  "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/beginner/7.css.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {},
+  "sidebar": "courseSidebar",
+  "previous": {
+    "title": "html",
+    "permalink": "/beginner/html"
+  },
+  "next": {
+    "title": "distribution-monetisation",
+    "permalink": "/beginner/distribution-monetisation"
+  }
+}

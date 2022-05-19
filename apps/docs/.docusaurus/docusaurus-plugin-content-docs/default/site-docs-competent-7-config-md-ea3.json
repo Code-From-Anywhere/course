@@ -1,0 +1,25 @@
+{
+  "unversionedId": "competent/config",
+  "id": "competent/config",
+  "title": "config",
+  "description": "",
+  "source": "@site/../../docs/competent/7.config.md",
+  "sourceDirName": "competent",
+  "slug": "/competent/config",
+  "permalink": "/competent/config",
+  "draft": false,
+  "editUrl": "https://github.com/Code-From-Anywhere/sensible/tree/main/apps/web/../../docs/competent/7.config.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {},
+  "sidebar": "docSidebar",
+  "previous": {
+    "title": "tailwind",
+    "permalink": "/competent/tailwind"
+  },
+  "next": {
+    "title": "npm-packages",
+    "permalink": "/competent/npm-packages"
+  }
+}

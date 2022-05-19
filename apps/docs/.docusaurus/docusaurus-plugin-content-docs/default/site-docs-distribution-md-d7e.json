@@ -1,0 +1,24 @@
+{
+  "unversionedId": "distribution",
+  "id": "distribution",
+  "title": "distribution",
+  "description": "",
+  "source": "@site/../../docs/distribution.md",
+  "sourceDirName": ".",
+  "slug": "/distribution",
+  "permalink": "/distribution",
+  "draft": false,
+  "editUrl": "https://github.com/Code-From-Anywhere/sensible/tree/main/apps/web/../../docs/distribution.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "docSidebar",
+  "previous": {
+    "title": "monetisation",
+    "permalink": "/competent/monetisation"
+  },
+  "next": {
+    "title": "sensible",
+    "permalink": "/expert/sensible"
+  }
+}

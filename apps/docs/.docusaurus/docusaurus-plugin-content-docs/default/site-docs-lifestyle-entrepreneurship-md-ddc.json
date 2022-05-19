@@ -1,0 +1,24 @@
+{
+  "unversionedId": "lifestyle/entrepreneurship",
+  "id": "lifestyle/entrepreneurship",
+  "title": "entrepreneurship",
+  "description": "",
+  "source": "@site/../../docs/lifestyle/entrepreneurship.md",
+  "sourceDirName": "lifestyle",
+  "slug": "/lifestyle/entrepreneurship",
+  "permalink": "/lifestyle/entrepreneurship",
+  "draft": false,
+  "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/lifestyle/entrepreneurship.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "courseSidebar",
+  "previous": {
+    "title": "become-a-wizard",
+    "permalink": "/lifestyle/become-a-wizard"
+  },
+  "next": {
+    "title": "finance",
+    "permalink": "/lifestyle/finance"
+  }
+}

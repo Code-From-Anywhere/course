@@ -6,9 +6,9 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "Sensible",
-  tagline: "The Typescript Framework for Effective Teams",
-  url: "https://sensiblestack.com",
+  title: "Code From Anywhere",
+  tagline: "Learn how to make apps and be free",
+  url: "https://codefromanywhere.com",
   baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
@@ -51,14 +51,14 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            "https://github.com/Code-From-Anywhere/sensible/tree/main/apps/web/",
+            "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/",
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            "https://github.com/Code-From-Anywhere/sensible/tree/main/apps/web/",
+            "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/",
         },
 
         theme: {
@@ -72,7 +72,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: "Your app",
+        title: "Code From Anywhere",
         logo: {
           alt: "Logo",
           src: "img/icon.png",
@@ -82,11 +82,11 @@ const config = {
             type: "doc",
             docId: "about",
             position: "left",
-            label: "Documentation",
+            label: "Course",
           },
 
           {
-            href: "https://github.com/Code-From-Anywhere/sensible",
+            href: "https://github.com/Code-From-Anywhere/course",
             label: "GitHub",
             position: "right",
           },

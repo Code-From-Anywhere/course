@@ -1,0 +1,24 @@
+{
+  "unversionedId": "irl/become-a-wizard",
+  "id": "irl/become-a-wizard",
+  "title": "become-a-wizard",
+  "description": "",
+  "source": "@site/../../docs/irl/become-a-wizard.md",
+  "sourceDirName": "irl",
+  "slug": "/irl/become-a-wizard",
+  "permalink": "/irl/become-a-wizard",
+  "draft": false,
+  "editUrl": "https://github.com/Code-From-Anywhere/sensible/tree/main/apps/web/../../docs/irl/become-a-wizard.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "docSidebar",
+  "previous": {
+    "title": "Lifestyle",
+    "permalink": "/category/lifestyle"
+  },
+  "next": {
+    "title": "entrepreneurship",
+    "permalink": "/irl/entrepreneurship"
+  }
+}

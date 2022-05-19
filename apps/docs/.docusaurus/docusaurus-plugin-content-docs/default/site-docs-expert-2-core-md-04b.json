@@ -1,0 +1,25 @@
+{
+  "unversionedId": "expert/core",
+  "id": "expert/core",
+  "title": "core",
+  "description": "",
+  "source": "@site/../../docs/expert/2.core.md",
+  "sourceDirName": "expert",
+  "slug": "/expert/core",
+  "permalink": "/expert/core",
+  "draft": false,
+  "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/expert/2.core.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {},
+  "sidebar": "courseSidebar",
+  "previous": {
+    "title": "sensible",
+    "permalink": "/expert/sensible"
+  },
+  "next": {
+    "title": "server",
+    "permalink": "/expert/server"
+  }
+}

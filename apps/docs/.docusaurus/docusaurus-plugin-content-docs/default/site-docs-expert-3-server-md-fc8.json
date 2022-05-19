@@ -1,0 +1,25 @@
+{
+  "unversionedId": "expert/server",
+  "id": "expert/server",
+  "title": "server",
+  "description": "",
+  "source": "@site/../../docs/expert/3.server.md",
+  "sourceDirName": "expert",
+  "slug": "/expert/server",
+  "permalink": "/expert/server",
+  "draft": false,
+  "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/expert/3.server.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {},
+  "sidebar": "courseSidebar",
+  "previous": {
+    "title": "core",
+    "permalink": "/expert/core"
+  },
+  "next": {
+    "title": "ui",
+    "permalink": "/expert/ui"
+  }
+}

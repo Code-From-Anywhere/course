@@ -1,0 +1,25 @@
+{
+  "unversionedId": "competent/config",
+  "id": "competent/config",
+  "title": "config",
+  "description": "",
+  "source": "@site/../../docs/competent/8.config.md",
+  "sourceDirName": "competent",
+  "slug": "/competent/config",
+  "permalink": "/competent/config",
+  "draft": false,
+  "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/competent/8.config.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {},
+  "sidebar": "courseSidebar",
+  "previous": {
+    "title": "npm-packages",
+    "permalink": "/competent/npm-packages"
+  },
+  "next": {
+    "title": "distribution",
+    "permalink": "/competent/distribution"
+  }
+}

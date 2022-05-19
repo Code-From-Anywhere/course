@@ -1,0 +1,15 @@
+{
+  "title": "Competent",
+  "slug": "/category/competent",
+  "permalink": "/category/competent",
+  "navigation": {
+    "previous": {
+      "title": "distribution-monetisation",
+      "permalink": "/beginner/distribution-monetisation"
+    },
+    "next": {
+      "title": "git",
+      "permalink": "/competent/git"
+    }
+  }
+}

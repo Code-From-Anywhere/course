@@ -1,0 +1,24 @@
+{
+  "unversionedId": "structure",
+  "id": "structure",
+  "title": "Structure",
+  "description": "- Every section has \"let's do this\"-section that tells you the possibilities so you get excited and try them out",
+  "source": "@site/../../docs/structure.md",
+  "sourceDirName": ".",
+  "slug": "/structure",
+  "permalink": "/structure",
+  "draft": false,
+  "editUrl": "https://github.com/Code-From-Anywhere/sensible/tree/main/apps/web/../../docs/structure.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "docSidebar",
+  "previous": {
+    "title": "monetisation",
+    "permalink": "/expert/monetisation"
+  },
+  "next": {
+    "title": "Todo",
+    "permalink": "/todo"
+  }
+}

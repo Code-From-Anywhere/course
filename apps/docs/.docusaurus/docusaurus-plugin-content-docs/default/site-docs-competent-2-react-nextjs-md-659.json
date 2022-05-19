@@ -1,0 +1,25 @@
+{
+  "unversionedId": "competent/react-nextjs",
+  "id": "competent/react-nextjs",
+  "title": "react-nextjs",
+  "description": "",
+  "source": "@site/../../docs/competent/2.react-nextjs.md",
+  "sourceDirName": "competent",
+  "slug": "/competent/react-nextjs",
+  "permalink": "/competent/react-nextjs",
+  "draft": false,
+  "editUrl": "https://github.com/Code-From-Anywhere/sensible/tree/main/apps/web/../../docs/competent/2.react-nextjs.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {},
+  "sidebar": "docSidebar",
+  "previous": {
+    "title": "git",
+    "permalink": "/competent/git"
+  },
+  "next": {
+    "title": "typescript",
+    "permalink": "/competent/typescript"
+  }
+}

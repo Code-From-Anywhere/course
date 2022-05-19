@@ -1,0 +1,239 @@
+{
+  "/__docusaurus/debug-000": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-9-ad-4b1"
+    }
+  },
+  "/__docusaurus/debug/config-e32": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-9-ad-4b1"
+    }
+  },
+  "/__docusaurus/debug/content-5a0": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-9-ad-4b1"
+    },
+    "allContent": "allContent---docusaurus-debug-content-246-9aa"
+  },
+  "/__docusaurus/debug/globalData-fe0": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-9-ad-4b1"
+    }
+  },
+  "/__docusaurus/debug/metadata-d52": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-9-ad-4b1"
+    }
+  },
+  "/__docusaurus/debug/registry-efd": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-9-ad-4b1"
+    }
+  },
+  "/__docusaurus/debug/routes-7b4": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-9-ad-4b1"
+    }
+  },
+  "/-1e2": {
+    "__comp": "__comp---site-src-pages-index-tsx-1-df-d3e",
+    "__context": {
+      "plugin": "plugin---b-33-689"
+    },
+    "config": "config---5-e-9-4f3"
+  },
+  "/-350": {
+    "__comp": "__comp---theme-doc-page-1-be-9be",
+    "__context": {
+      "plugin": "plugin---049-9ad"
+    },
+    "versionMetadata": "versionMetadata---935-fcf"
+  },
+  "/about-264": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-526-c01"
+  },
+  "/beginner/css-b89": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---beginner-css-027-712"
+  },
+  "/beginner/distribution-monetisation-911": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---beginner-distribution-monetisationaf-5-7af"
+  },
+  "/beginner/goal-01d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---beginner-goal-70-b-833"
+  },
+  "/beginner/html-380": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---beginner-htmlfb-5-610"
+  },
+  "/beginner/json-133": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---beginner-jsoneb-4-7af"
+  },
+  "/beginner/markdown-0b8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---beginner-markdown-2-ba-cd6"
+  },
+  "/beginner/setup-6d3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---beginner-setupff-3-f39"
+  },
+  "/category/beginner-2a3": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---category-beginner-7-fb-772"
+  },
+  "/category/competent-893": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---category-competent-1-e-9-7f9"
+  },
+  "/category/expert-e08": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---category-expert-335-2dd"
+  },
+  "/category/lifestyle-92b": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---category-lifestyle-428-66a"
+  },
+  "/category/wizard-c35": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---category-wizard-0-ec-740"
+  },
+  "/competent/config-b78": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---competent-config-2-ef-006"
+  },
+  "/competent/data-storage-971": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---competent-data-storaged-40-45a"
+  },
+  "/competent/deploy-frontend-55f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---competent-deploy-frontenddd-4-3a1"
+  },
+  "/competent/distribution-505": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---competent-distribution-97-c-8d1"
+  },
+  "/competent/git-aa6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---competent-git-165-c42"
+  },
+  "/competent/monetisation-4d4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---competent-monetisation-1-bd-ffa"
+  },
+  "/competent/npm-packages-9cb": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---competent-npm-packages-8-f-3-68a"
+  },
+  "/competent/react-nextjs-17b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---competent-react-nextjs-138-698"
+  },
+  "/competent/tailwind-384": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---competent-tailwindb-55-ec5"
+  },
+  "/competent/typescript-da1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---competent-typescript-604-fe1"
+  },
+  "/expert/core-354": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---expert-core-04-b-0ea"
+  },
+  "/expert/deploy-backend-284": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---expert-deploy-backend-0-a-9-49f"
+  },
+  "/expert/deploy-expo-app-65c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---expert-deploy-expo-app-4-f-0-263"
+  },
+  "/expert/dev-dashboard-42c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---expert-dev-dashboard-9-ce-6ab"
+  },
+  "/expert/distribution-bbc": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---expert-distribution-7-fc-057"
+  },
+  "/expert/monetisation-231": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---expert-monetisationd-60-cee"
+  },
+  "/expert/sensible-0df": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---expert-sensible-1-e-0-9b6"
+  },
+  "/expert/server-0e2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---expert-serverfc-8-4d2"
+  },
+  "/expert/ui-070": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---expert-ui-14-e-2a0"
+  },
+  "/lifestyle/become-a-wizard-dfa": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---lifestyle-become-a-wizardfc-8-9c3"
+  },
+  "/lifestyle/entrepreneurship-92c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---lifestyle-entrepreneurshipddc-10a"
+  },
+  "/lifestyle/finance-703": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---lifestyle-finance-762-796"
+  },
+  "/lifestyle/freedom-3ed": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---lifestyle-freedomfb-1-2b0"
+  },
+  "/wizard/automation-5a5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---wizard-automationabd-a3c"
+  },
+  "/wizard/conventions-standards-58f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---wizard-conventions-standards-6-c-9-d60"
+  },
+  "/wizard/decentralised-architectures-fe8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---wizard-decentralised-architectures-9-f-5-225"
+  },
+  "/wizard/distribution-1c0": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---wizard-distribution-436-ede"
+  },
+  "/wizard/metascripting-81d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---wizard-metascriptingb-20-592"
+  },
+  "/wizard/monetisation-9d6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---wizard-monetisation-799-e58"
+  },
+  "/wizard/other-envrionmends-81d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---wizard-other-envrionmendsa-69-e3a"
+  },
+  "/wizard/thinking-in-data-20d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---wizard-thinking-in-data-4-fc-851"
+  },
+  "/wizard/typescript-introspection-570": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---wizard-typescript-introspection-0-df-7c8"
+  }
+}

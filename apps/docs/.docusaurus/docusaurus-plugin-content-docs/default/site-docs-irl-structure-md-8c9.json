@@ -1,0 +1,24 @@
+{
+  "unversionedId": "irl/structure",
+  "id": "irl/structure",
+  "title": "structure",
+  "description": "",
+  "source": "@site/../../docs/irl/structure.md",
+  "sourceDirName": "irl",
+  "slug": "/irl/structure",
+  "permalink": "/irl/structure",
+  "draft": false,
+  "editUrl": "https://github.com/Code-From-Anywhere/sensible/tree/main/apps/web/../../docs/irl/structure.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "docSidebar",
+  "previous": {
+    "title": "freedom",
+    "permalink": "/irl/freedom"
+  },
+  "next": {
+    "title": "Todo",
+    "permalink": "/irl/todo"
+  }
+}

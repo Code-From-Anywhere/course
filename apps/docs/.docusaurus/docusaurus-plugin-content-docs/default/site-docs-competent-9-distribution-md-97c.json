@@ -1,0 +1,25 @@
+{
+  "unversionedId": "competent/distribution",
+  "id": "competent/distribution",
+  "title": "distribution",
+  "description": "",
+  "source": "@site/../../docs/competent/9.distribution.md",
+  "sourceDirName": "competent",
+  "slug": "/competent/distribution",
+  "permalink": "/competent/distribution",
+  "draft": false,
+  "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/competent/9.distribution.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {},
+  "sidebar": "courseSidebar",
+  "previous": {
+    "title": "config",
+    "permalink": "/competent/config"
+  },
+  "next": {
+    "title": "monetisation",
+    "permalink": "/competent/monetisation"
+  }
+}

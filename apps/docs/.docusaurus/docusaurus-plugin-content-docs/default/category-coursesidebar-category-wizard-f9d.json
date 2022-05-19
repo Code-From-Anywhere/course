@@ -1,0 +1,15 @@
+{
+  "title": "Wizard",
+  "slug": "/category/wizard",
+  "permalink": "/category/wizard",
+  "navigation": {
+    "previous": {
+      "title": "monetisation",
+      "permalink": "/expert/monetisation"
+    },
+    "next": {
+      "title": "other-envrionmends",
+      "permalink": "/wizard/other-envrionmends"
+    }
+  }
+}

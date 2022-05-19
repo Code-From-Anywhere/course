@@ -1,0 +1,25 @@
+{
+  "unversionedId": "wizard/automation",
+  "id": "wizard/automation",
+  "title": "automation",
+  "description": "",
+  "source": "@site/../../docs/wizard/4.automation.md",
+  "sourceDirName": "wizard",
+  "slug": "/wizard/automation",
+  "permalink": "/wizard/automation",
+  "draft": false,
+  "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/wizard/4.automation.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {},
+  "sidebar": "courseSidebar",
+  "previous": {
+    "title": "thinking-in-data",
+    "permalink": "/wizard/thinking-in-data"
+  },
+  "next": {
+    "title": "metascripting",
+    "permalink": "/wizard/metascripting"
+  }
+}

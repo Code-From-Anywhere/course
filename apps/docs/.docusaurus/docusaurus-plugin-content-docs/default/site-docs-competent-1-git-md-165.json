@@ -1,0 +1,25 @@
+{
+  "unversionedId": "competent/git",
+  "id": "competent/git",
+  "title": "git",
+  "description": "",
+  "source": "@site/../../docs/competent/1.git.md",
+  "sourceDirName": "competent",
+  "slug": "/competent/git",
+  "permalink": "/competent/git",
+  "draft": false,
+  "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/competent/1.git.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {},
+  "sidebar": "courseSidebar",
+  "previous": {
+    "title": "Competent",
+    "permalink": "/category/competent"
+  },
+  "next": {
+    "title": "typescript",
+    "permalink": "/competent/typescript"
+  }
+}

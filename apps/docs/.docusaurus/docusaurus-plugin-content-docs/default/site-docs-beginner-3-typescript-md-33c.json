@@ -1,0 +1,25 @@
+{
+  "unversionedId": "beginner/typescript",
+  "id": "beginner/typescript",
+  "title": "typescript",
+  "description": "",
+  "source": "@site/../../docs/beginner/3.typescript.md",
+  "sourceDirName": "beginner",
+  "slug": "/beginner/typescript",
+  "permalink": "/beginner/typescript",
+  "draft": false,
+  "editUrl": "https://github.com/Code-From-Anywhere/sensible/tree/main/apps/web/../../docs/beginner/3.typescript.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {},
+  "sidebar": "docSidebar",
+  "previous": {
+    "title": "setup",
+    "permalink": "/beginner/setup"
+  },
+  "next": {
+    "title": "json",
+    "permalink": "/beginner/json"
+  }
+}

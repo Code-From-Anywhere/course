@@ -1,0 +1,24 @@
+{
+  "unversionedId": "wizard/thinking-in-data",
+  "id": "wizard/thinking-in-data",
+  "title": "thinking-in-data",
+  "description": "",
+  "source": "@site/../../docs/wizard/thinking-in-data.md",
+  "sourceDirName": "wizard",
+  "slug": "/wizard/thinking-in-data",
+  "permalink": "/wizard/thinking-in-data",
+  "draft": false,
+  "editUrl": "https://github.com/Code-From-Anywhere/sensible/tree/main/apps/web/../../docs/wizard/thinking-in-data.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "docSidebar",
+  "previous": {
+    "title": "monetisation",
+    "permalink": "/wizard/monetisation"
+  },
+  "next": {
+    "title": "typescript-introspection",
+    "permalink": "/wizard/typescript-introspection"
+  }
+}

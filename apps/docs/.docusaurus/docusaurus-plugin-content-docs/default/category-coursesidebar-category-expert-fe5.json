@@ -1,0 +1,15 @@
+{
+  "title": "Expert",
+  "slug": "/category/expert",
+  "permalink": "/category/expert",
+  "navigation": {
+    "previous": {
+      "title": "monetisation",
+      "permalink": "/competent/monetisation"
+    },
+    "next": {
+      "title": "sensible",
+      "permalink": "/expert/sensible"
+    }
+  }
+}

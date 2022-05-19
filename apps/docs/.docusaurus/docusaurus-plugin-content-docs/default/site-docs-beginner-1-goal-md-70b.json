@@ -1,0 +1,25 @@
+{
+  "unversionedId": "beginner/goal",
+  "id": "beginner/goal",
+  "title": "goal",
+  "description": "",
+  "source": "@site/../../docs/beginner/1.goal.md",
+  "sourceDirName": "beginner",
+  "slug": "/beginner/goal",
+  "permalink": "/beginner/goal",
+  "draft": false,
+  "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/beginner/1.goal.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {},
+  "sidebar": "courseSidebar",
+  "previous": {
+    "title": "Beginner",
+    "permalink": "/category/beginner"
+  },
+  "next": {
+    "title": "setup",
+    "permalink": "/beginner/setup"
+  }
+}

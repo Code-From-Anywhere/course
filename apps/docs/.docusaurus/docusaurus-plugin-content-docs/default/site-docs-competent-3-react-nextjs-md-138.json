@@ -1,0 +1,25 @@
+{
+  "unversionedId": "competent/react-nextjs",
+  "id": "competent/react-nextjs",
+  "title": "react-nextjs",
+  "description": "",
+  "source": "@site/../../docs/competent/3.react-nextjs.md",
+  "sourceDirName": "competent",
+  "slug": "/competent/react-nextjs",
+  "permalink": "/competent/react-nextjs",
+  "draft": false,
+  "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/competent/3.react-nextjs.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {},
+  "sidebar": "courseSidebar",
+  "previous": {
+    "title": "typescript",
+    "permalink": "/competent/typescript"
+  },
+  "next": {
+    "title": "deploy-frontend",
+    "permalink": "/competent/deploy-frontend"
+  }
+}

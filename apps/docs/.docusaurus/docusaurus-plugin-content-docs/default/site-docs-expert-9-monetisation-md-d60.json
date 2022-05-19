@@ -1,0 +1,25 @@
+{
+  "unversionedId": "expert/monetisation",
+  "id": "expert/monetisation",
+  "title": "monetisation",
+  "description": "",
+  "source": "@site/../../docs/expert/9.monetisation.md",
+  "sourceDirName": "expert",
+  "slug": "/expert/monetisation",
+  "permalink": "/expert/monetisation",
+  "draft": false,
+  "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/expert/9.monetisation.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {},
+  "sidebar": "courseSidebar",
+  "previous": {
+    "title": "distribution",
+    "permalink": "/expert/distribution"
+  },
+  "next": {
+    "title": "Wizard",
+    "permalink": "/category/wizard"
+  }
+}

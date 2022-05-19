@@ -1,0 +1,540 @@
+{
+  "pluginId": "default",
+  "version": "current",
+  "label": "Next",
+  "banner": null,
+  "badge": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "courseSidebar": [
+      {
+        "type": "link",
+        "label": "Code From Anywhere Course",
+        "href": "/about",
+        "docId": "about"
+      },
+      {
+        "type": "category",
+        "label": "Beginner",
+        "collapsible": true,
+        "collapsed": false,
+        "items": [
+          {
+            "type": "link",
+            "label": "goal",
+            "href": "/beginner/goal",
+            "docId": "beginner/goal"
+          },
+          {
+            "type": "link",
+            "label": "setup",
+            "href": "/beginner/setup",
+            "docId": "beginner/setup"
+          },
+          {
+            "type": "link",
+            "label": "json",
+            "href": "/beginner/json",
+            "docId": "beginner/json"
+          },
+          {
+            "type": "link",
+            "label": "markdown",
+            "href": "/beginner/markdown",
+            "docId": "beginner/markdown"
+          },
+          {
+            "type": "link",
+            "label": "html",
+            "href": "/beginner/html",
+            "docId": "beginner/html"
+          },
+          {
+            "type": "link",
+            "label": "css",
+            "href": "/beginner/css",
+            "docId": "beginner/css"
+          },
+          {
+            "type": "link",
+            "label": "distribution-monetisation",
+            "href": "/beginner/distribution-monetisation",
+            "docId": "beginner/distribution-monetisation"
+          }
+        ],
+        "href": "/category/beginner"
+      },
+      {
+        "type": "category",
+        "label": "Competent",
+        "collapsible": true,
+        "collapsed": false,
+        "items": [
+          {
+            "type": "link",
+            "label": "git",
+            "href": "/competent/git",
+            "docId": "competent/git"
+          },
+          {
+            "type": "link",
+            "label": "typescript",
+            "href": "/competent/typescript",
+            "docId": "competent/typescript"
+          },
+          {
+            "type": "link",
+            "label": "react-nextjs",
+            "href": "/competent/react-nextjs",
+            "docId": "competent/react-nextjs"
+          },
+          {
+            "type": "link",
+            "label": "deploy-frontend",
+            "href": "/competent/deploy-frontend",
+            "docId": "competent/deploy-frontend"
+          },
+          {
+            "type": "link",
+            "label": "data-storage",
+            "href": "/competent/data-storage",
+            "docId": "competent/data-storage"
+          },
+          {
+            "type": "link",
+            "label": "tailwind",
+            "href": "/competent/tailwind",
+            "docId": "competent/tailwind"
+          },
+          {
+            "type": "link",
+            "label": "npm-packages",
+            "href": "/competent/npm-packages",
+            "docId": "competent/npm-packages"
+          },
+          {
+            "type": "link",
+            "label": "config",
+            "href": "/competent/config",
+            "docId": "competent/config"
+          },
+          {
+            "type": "link",
+            "label": "distribution",
+            "href": "/competent/distribution",
+            "docId": "competent/distribution"
+          },
+          {
+            "type": "link",
+            "label": "monetisation",
+            "href": "/competent/monetisation",
+            "docId": "competent/monetisation"
+          }
+        ],
+        "href": "/category/competent"
+      },
+      {
+        "type": "category",
+        "label": "Expert",
+        "collapsible": true,
+        "collapsed": false,
+        "items": [
+          {
+            "type": "link",
+            "label": "sensible",
+            "href": "/expert/sensible",
+            "docId": "expert/sensible"
+          },
+          {
+            "type": "link",
+            "label": "core",
+            "href": "/expert/core",
+            "docId": "expert/core"
+          },
+          {
+            "type": "link",
+            "label": "server",
+            "href": "/expert/server",
+            "docId": "expert/server"
+          },
+          {
+            "type": "link",
+            "label": "ui",
+            "href": "/expert/ui",
+            "docId": "expert/ui"
+          },
+          {
+            "type": "link",
+            "label": "dev-dashboard",
+            "href": "/expert/dev-dashboard",
+            "docId": "expert/dev-dashboard"
+          },
+          {
+            "type": "link",
+            "label": "deploy-backend",
+            "href": "/expert/deploy-backend",
+            "docId": "expert/deploy-backend"
+          },
+          {
+            "type": "link",
+            "label": "deploy-expo-app",
+            "href": "/expert/deploy-expo-app",
+            "docId": "expert/deploy-expo-app"
+          },
+          {
+            "type": "link",
+            "label": "distribution",
+            "href": "/expert/distribution",
+            "docId": "expert/distribution"
+          },
+          {
+            "type": "link",
+            "label": "monetisation",
+            "href": "/expert/monetisation",
+            "docId": "expert/monetisation"
+          }
+        ],
+        "href": "/category/expert"
+      },
+      {
+        "type": "category",
+        "label": "Wizard",
+        "collapsible": true,
+        "collapsed": false,
+        "items": [
+          {
+            "type": "link",
+            "label": "other-envrionmends",
+            "href": "/wizard/other-envrionmends",
+            "docId": "wizard/other-envrionmends"
+          },
+          {
+            "type": "link",
+            "label": "decentralised-architectures",
+            "href": "/wizard/decentralised-architectures",
+            "docId": "wizard/decentralised-architectures"
+          },
+          {
+            "type": "link",
+            "label": "thinking-in-data",
+            "href": "/wizard/thinking-in-data",
+            "docId": "wizard/thinking-in-data"
+          },
+          {
+            "type": "link",
+            "label": "automation",
+            "href": "/wizard/automation",
+            "docId": "wizard/automation"
+          },
+          {
+            "type": "link",
+            "label": "metascripting",
+            "href": "/wizard/metascripting",
+            "docId": "wizard/metascripting"
+          },
+          {
+            "type": "link",
+            "label": "typescript-introspection",
+            "href": "/wizard/typescript-introspection",
+            "docId": "wizard/typescript-introspection"
+          },
+          {
+            "type": "link",
+            "label": "conventions-standards",
+            "href": "/wizard/conventions-standards",
+            "docId": "wizard/conventions-standards"
+          },
+          {
+            "type": "link",
+            "label": "distribution",
+            "href": "/wizard/distribution",
+            "docId": "wizard/distribution"
+          },
+          {
+            "type": "link",
+            "label": "monetisation",
+            "href": "/wizard/monetisation",
+            "docId": "wizard/monetisation"
+          }
+        ],
+        "href": "/category/wizard"
+      },
+      {
+        "type": "category",
+        "label": "Lifestyle",
+        "collapsible": true,
+        "collapsed": false,
+        "items": [
+          {
+            "type": "link",
+            "label": "become-a-wizard",
+            "href": "/lifestyle/become-a-wizard",
+            "docId": "lifestyle/become-a-wizard"
+          },
+          {
+            "type": "link",
+            "label": "entrepreneurship",
+            "href": "/lifestyle/entrepreneurship",
+            "docId": "lifestyle/entrepreneurship"
+          },
+          {
+            "type": "link",
+            "label": "finance",
+            "href": "/lifestyle/finance",
+            "docId": "lifestyle/finance"
+          },
+          {
+            "type": "link",
+            "label": "freedom",
+            "href": "/lifestyle/freedom",
+            "docId": "lifestyle/freedom"
+          }
+        ],
+        "href": "/category/lifestyle"
+      }
+    ]
+  },
+  "docs": {
+    "about": {
+      "id": "about",
+      "title": "Code From Anywhere Course",
+      "description": "Welcome! I'm building a course here. Check back soon!",
+      "sidebar": "courseSidebar"
+    },
+    "beginner/css": {
+      "id": "beginner/css",
+      "title": "css",
+      "description": "",
+      "sidebar": "courseSidebar"
+    },
+    "beginner/distribution-monetisation": {
+      "id": "beginner/distribution-monetisation",
+      "title": "distribution-monetisation",
+      "description": "",
+      "sidebar": "courseSidebar"
+    },
+    "beginner/goal": {
+      "id": "beginner/goal",
+      "title": "goal",
+      "description": "",
+      "sidebar": "courseSidebar"
+    },
+    "beginner/html": {
+      "id": "beginner/html",
+      "title": "html",
+      "description": "",
+      "sidebar": "courseSidebar"
+    },
+    "beginner/json": {
+      "id": "beginner/json",
+      "title": "json",
+      "description": "",
+      "sidebar": "courseSidebar"
+    },
+    "beginner/markdown": {
+      "id": "beginner/markdown",
+      "title": "markdown",
+      "description": "",
+      "sidebar": "courseSidebar"
+    },
+    "beginner/setup": {
+      "id": "beginner/setup",
+      "title": "setup",
+      "description": "",
+      "sidebar": "courseSidebar"
+    },
+    "competent/config": {
+      "id": "competent/config",
+      "title": "config",
+      "description": "",
+      "sidebar": "courseSidebar"
+    },
+    "competent/data-storage": {
+      "id": "competent/data-storage",
+      "title": "data-storage",
+      "description": "",
+      "sidebar": "courseSidebar"
+    },
+    "competent/deploy-frontend": {
+      "id": "competent/deploy-frontend",
+      "title": "deploy-frontend",
+      "description": "",
+      "sidebar": "courseSidebar"
+    },
+    "competent/distribution": {
+      "id": "competent/distribution",
+      "title": "distribution",
+      "description": "",
+      "sidebar": "courseSidebar"
+    },
+    "competent/git": {
+      "id": "competent/git",
+      "title": "git",
+      "description": "",
+      "sidebar": "courseSidebar"
+    },
+    "competent/monetisation": {
+      "id": "competent/monetisation",
+      "title": "monetisation",
+      "description": "",
+      "sidebar": "courseSidebar"
+    },
+    "competent/npm-packages": {
+      "id": "competent/npm-packages",
+      "title": "npm-packages",
+      "description": "",
+      "sidebar": "courseSidebar"
+    },
+    "competent/react-nextjs": {
+      "id": "competent/react-nextjs",
+      "title": "react-nextjs",
+      "description": "",
+      "sidebar": "courseSidebar"
+    },
+    "competent/tailwind": {
+      "id": "competent/tailwind",
+      "title": "tailwind",
+      "description": "",
+      "sidebar": "courseSidebar"
+    },
+    "competent/typescript": {
+      "id": "competent/typescript",
+      "title": "typescript",
+      "description": "",
+      "sidebar": "courseSidebar"
+    },
+    "expert/core": {
+      "id": "expert/core",
+      "title": "core",
+      "description": "",
+      "sidebar": "courseSidebar"
+    },
+    "expert/deploy-backend": {
+      "id": "expert/deploy-backend",
+      "title": "deploy-backend",
+      "description": "",
+      "sidebar": "courseSidebar"
+    },
+    "expert/deploy-expo-app": {
+      "id": "expert/deploy-expo-app",
+      "title": "deploy-expo-app",
+      "description": "",
+      "sidebar": "courseSidebar"
+    },
+    "expert/dev-dashboard": {
+      "id": "expert/dev-dashboard",
+      "title": "dev-dashboard",
+      "description": "",
+      "sidebar": "courseSidebar"
+    },
+    "expert/distribution": {
+      "id": "expert/distribution",
+      "title": "distribution",
+      "description": "",
+      "sidebar": "courseSidebar"
+    },
+    "expert/monetisation": {
+      "id": "expert/monetisation",
+      "title": "monetisation",
+      "description": "",
+      "sidebar": "courseSidebar"
+    },
+    "expert/sensible": {
+      "id": "expert/sensible",
+      "title": "sensible",
+      "description": "",
+      "sidebar": "courseSidebar"
+    },
+    "expert/server": {
+      "id": "expert/server",
+      "title": "server",
+      "description": "",
+      "sidebar": "courseSidebar"
+    },
+    "expert/ui": {
+      "id": "expert/ui",
+      "title": "ui",
+      "description": "",
+      "sidebar": "courseSidebar"
+    },
+    "lifestyle/become-a-wizard": {
+      "id": "lifestyle/become-a-wizard",
+      "title": "become-a-wizard",
+      "description": "",
+      "sidebar": "courseSidebar"
+    },
+    "lifestyle/entrepreneurship": {
+      "id": "lifestyle/entrepreneurship",
+      "title": "entrepreneurship",
+      "description": "",
+      "sidebar": "courseSidebar"
+    },
+    "lifestyle/finance": {
+      "id": "lifestyle/finance",
+      "title": "finance",
+      "description": "",
+      "sidebar": "courseSidebar"
+    },
+    "lifestyle/freedom": {
+      "id": "lifestyle/freedom",
+      "title": "freedom",
+      "description": "",
+      "sidebar": "courseSidebar"
+    },
+    "wizard/automation": {
+      "id": "wizard/automation",
+      "title": "automation",
+      "description": "",
+      "sidebar": "courseSidebar"
+    },
+    "wizard/conventions-standards": {
+      "id": "wizard/conventions-standards",
+      "title": "conventions-standards",
+      "description": "",
+      "sidebar": "courseSidebar"
+    },
+    "wizard/decentralised-architectures": {
+      "id": "wizard/decentralised-architectures",
+      "title": "decentralised-architectures",
+      "description": "",
+      "sidebar": "courseSidebar"
+    },
+    "wizard/distribution": {
+      "id": "wizard/distribution",
+      "title": "distribution",
+      "description": "",
+      "sidebar": "courseSidebar"
+    },
+    "wizard/metascripting": {
+      "id": "wizard/metascripting",
+      "title": "metascripting",
+      "description": "",
+      "sidebar": "courseSidebar"
+    },
+    "wizard/monetisation": {
+      "id": "wizard/monetisation",
+      "title": "monetisation",
+      "description": "",
+      "sidebar": "courseSidebar"
+    },
+    "wizard/other-envrionmends": {
+      "id": "wizard/other-envrionmends",
+      "title": "other-envrionmends",
+      "description": "",
+      "sidebar": "courseSidebar"
+    },
+    "wizard/thinking-in-data": {
+      "id": "wizard/thinking-in-data",
+      "title": "thinking-in-data",
+      "description": "",
+      "sidebar": "courseSidebar"
+    },
+    "wizard/typescript-introspection": {
+      "id": "wizard/typescript-introspection",
+      "title": "typescript-introspection",
+      "description": "",
+      "sidebar": "courseSidebar"
+    }
+  }
+}

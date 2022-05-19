@@ -1,0 +1,15 @@
+{
+  "title": "Competent",
+  "slug": "/category/competent-1",
+  "permalink": "/category/competent-1",
+  "navigation": {
+    "previous": {
+      "title": "monetisation",
+      "permalink": "/competent/monetisation"
+    },
+    "next": {
+      "title": "become-a-wizard",
+      "permalink": "/irl/become-a-wizard"
+    }
+  }
+}

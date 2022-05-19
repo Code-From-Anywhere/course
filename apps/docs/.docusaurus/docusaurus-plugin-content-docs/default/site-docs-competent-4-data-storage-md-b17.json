@@ -1,0 +1,25 @@
+{
+  "unversionedId": "competent/data-storage",
+  "id": "competent/data-storage",
+  "title": "data-storage",
+  "description": "",
+  "source": "@site/../../docs/competent/4.data-storage.md",
+  "sourceDirName": "competent",
+  "slug": "/competent/data-storage",
+  "permalink": "/competent/data-storage",
+  "draft": false,
+  "editUrl": "https://github.com/Code-From-Anywhere/sensible/tree/main/apps/web/../../docs/competent/4.data-storage.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {},
+  "sidebar": "docSidebar",
+  "previous": {
+    "title": "react-nextjs",
+    "permalink": "/competent/react-nextjs"
+  },
+  "next": {
+    "title": "deploy-frontend",
+    "permalink": "/competent/deploy-frontend"
+  }
+}

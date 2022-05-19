@@ -1,0 +1,25 @@
+{
+  "unversionedId": "wizard/thinking-in-data",
+  "id": "wizard/thinking-in-data",
+  "title": "thinking-in-data",
+  "description": "",
+  "source": "@site/../../docs/wizard/3.thinking-in-data.md",
+  "sourceDirName": "wizard",
+  "slug": "/wizard/thinking-in-data",
+  "permalink": "/wizard/thinking-in-data",
+  "draft": false,
+  "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/wizard/3.thinking-in-data.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {},
+  "sidebar": "courseSidebar",
+  "previous": {
+    "title": "decentralised-architectures",
+    "permalink": "/wizard/decentralised-architectures"
+  },
+  "next": {
+    "title": "automation",
+    "permalink": "/wizard/automation"
+  }
+}

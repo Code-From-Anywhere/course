@@ -1,0 +1,24 @@
+{
+  "unversionedId": "wizard/metascripting",
+  "id": "wizard/metascripting",
+  "title": "metascripting",
+  "description": "",
+  "source": "@site/../../docs/wizard/metascripting.md",
+  "sourceDirName": "wizard",
+  "slug": "/wizard/metascripting",
+  "permalink": "/wizard/metascripting",
+  "draft": false,
+  "editUrl": "https://github.com/Code-From-Anywhere/sensible/tree/main/apps/web/../../docs/wizard/metascripting.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "docSidebar",
+  "previous": {
+    "title": "distribution",
+    "permalink": "/wizard/distribution"
+  },
+  "next": {
+    "title": "monetisation",
+    "permalink": "/wizard/monetisation"
+  }
+}

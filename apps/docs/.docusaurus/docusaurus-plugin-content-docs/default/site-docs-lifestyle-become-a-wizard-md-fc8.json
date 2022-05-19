@@ -1,0 +1,24 @@
+{
+  "unversionedId": "lifestyle/become-a-wizard",
+  "id": "lifestyle/become-a-wizard",
+  "title": "become-a-wizard",
+  "description": "",
+  "source": "@site/../../docs/lifestyle/become-a-wizard.md",
+  "sourceDirName": "lifestyle",
+  "slug": "/lifestyle/become-a-wizard",
+  "permalink": "/lifestyle/become-a-wizard",
+  "draft": false,
+  "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/lifestyle/become-a-wizard.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "courseSidebar",
+  "previous": {
+    "title": "Lifestyle",
+    "permalink": "/category/lifestyle"
+  },
+  "next": {
+    "title": "entrepreneurship",
+    "permalink": "/lifestyle/entrepreneurship"
+  }
+}

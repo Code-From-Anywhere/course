@@ -1,0 +1,20 @@
+{
+  "unversionedId": "wizard/monetisation",
+  "id": "wizard/monetisation",
+  "title": "monetisation",
+  "description": "",
+  "source": "@site/../../docs/wizard/monetisation.md",
+  "sourceDirName": "wizard",
+  "slug": "/wizard/monetisation",
+  "permalink": "/wizard/monetisation",
+  "draft": false,
+  "editUrl": "https://github.com/Code-From-Anywhere/sensible/tree/main/apps/web/../../docs/wizard/monetisation.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "docSidebar",
+  "previous": {
+    "title": "distribution",
+    "permalink": "/wizard/distribution"
+  }
+}

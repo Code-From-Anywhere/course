@@ -1,0 +1,24 @@
+{
+  "unversionedId": "todo",
+  "id": "todo",
+  "title": "Todo",
+  "description": "- Create folder structure and sections",
+  "source": "@site/../../docs/todo.md",
+  "sourceDirName": ".",
+  "slug": "/todo",
+  "permalink": "/todo",
+  "draft": false,
+  "editUrl": "https://github.com/Code-From-Anywhere/sensible/tree/main/apps/web/../../docs/todo.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "docSidebar",
+  "previous": {
+    "title": "Structure",
+    "permalink": "/structure"
+  },
+  "next": {
+    "title": "other-envrionmends",
+    "permalink": "/wizard/other-envrionmends"
+  }
+}

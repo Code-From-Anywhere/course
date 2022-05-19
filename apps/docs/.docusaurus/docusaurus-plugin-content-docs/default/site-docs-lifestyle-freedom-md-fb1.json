@@ -1,0 +1,20 @@
+{
+  "unversionedId": "lifestyle/freedom",
+  "id": "lifestyle/freedom",
+  "title": "freedom",
+  "description": "",
+  "source": "@site/../../docs/lifestyle/freedom.md",
+  "sourceDirName": "lifestyle",
+  "slug": "/lifestyle/freedom",
+  "permalink": "/lifestyle/freedom",
+  "draft": false,
+  "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/lifestyle/freedom.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "courseSidebar",
+  "previous": {
+    "title": "finance",
+    "permalink": "/lifestyle/finance"
+  }
+}

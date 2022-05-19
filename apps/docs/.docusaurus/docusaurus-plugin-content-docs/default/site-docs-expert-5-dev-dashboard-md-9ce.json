@@ -1,0 +1,25 @@
+{
+  "unversionedId": "expert/dev-dashboard",
+  "id": "expert/dev-dashboard",
+  "title": "dev-dashboard",
+  "description": "",
+  "source": "@site/../../docs/expert/5.dev-dashboard.md",
+  "sourceDirName": "expert",
+  "slug": "/expert/dev-dashboard",
+  "permalink": "/expert/dev-dashboard",
+  "draft": false,
+  "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/expert/5.dev-dashboard.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {},
+  "sidebar": "courseSidebar",
+  "previous": {
+    "title": "ui",
+    "permalink": "/expert/ui"
+  },
+  "next": {
+    "title": "deploy-backend",
+    "permalink": "/expert/deploy-backend"
+  }
+}

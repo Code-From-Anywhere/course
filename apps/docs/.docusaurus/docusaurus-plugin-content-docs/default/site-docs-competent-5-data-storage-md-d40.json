@@ -1,0 +1,25 @@
+{
+  "unversionedId": "competent/data-storage",
+  "id": "competent/data-storage",
+  "title": "data-storage",
+  "description": "",
+  "source": "@site/../../docs/competent/5.data-storage.md",
+  "sourceDirName": "competent",
+  "slug": "/competent/data-storage",
+  "permalink": "/competent/data-storage",
+  "draft": false,
+  "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/competent/5.data-storage.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {},
+  "sidebar": "courseSidebar",
+  "previous": {
+    "title": "deploy-frontend",
+    "permalink": "/competent/deploy-frontend"
+  },
+  "next": {
+    "title": "tailwind",
+    "permalink": "/competent/tailwind"
+  }
+}

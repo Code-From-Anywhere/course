@@ -1,0 +1,24 @@
+{
+  "unversionedId": "irl/entrepreneurship",
+  "id": "irl/entrepreneurship",
+  "title": "entrepreneurship",
+  "description": "",
+  "source": "@site/../../docs/irl/entrepreneurship.md",
+  "sourceDirName": "irl",
+  "slug": "/irl/entrepreneurship",
+  "permalink": "/irl/entrepreneurship",
+  "draft": false,
+  "editUrl": "https://github.com/Code-From-Anywhere/sensible/tree/main/apps/web/../../docs/irl/entrepreneurship.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "docSidebar",
+  "previous": {
+    "title": "become-a-wizard",
+    "permalink": "/irl/become-a-wizard"
+  },
+  "next": {
+    "title": "finance",
+    "permalink": "/irl/finance"
+  }
+}

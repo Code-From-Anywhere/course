@@ -1,0 +1,25 @@
+{
+  "unversionedId": "beginner/json",
+  "id": "beginner/json",
+  "title": "json",
+  "description": "",
+  "source": "@site/../../docs/beginner/4.json.md",
+  "sourceDirName": "beginner",
+  "slug": "/beginner/json",
+  "permalink": "/beginner/json",
+  "draft": false,
+  "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/beginner/4.json.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {},
+  "sidebar": "courseSidebar",
+  "previous": {
+    "title": "setup",
+    "permalink": "/beginner/setup"
+  },
+  "next": {
+    "title": "markdown",
+    "permalink": "/beginner/markdown"
+  }
+}

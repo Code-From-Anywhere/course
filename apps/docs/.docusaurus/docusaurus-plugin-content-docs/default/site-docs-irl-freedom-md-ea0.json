@@ -1,0 +1,20 @@
+{
+  "unversionedId": "irl/freedom",
+  "id": "irl/freedom",
+  "title": "freedom",
+  "description": "",
+  "source": "@site/../../docs/irl/freedom.md",
+  "sourceDirName": "irl",
+  "slug": "/irl/freedom",
+  "permalink": "/irl/freedom",
+  "draft": false,
+  "editUrl": "https://github.com/Code-From-Anywhere/sensible/tree/main/apps/web/../../docs/irl/freedom.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "docSidebar",
+  "previous": {
+    "title": "finance",
+    "permalink": "/irl/finance"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "unversionedId": "expert/deploy-backend",
+  "id": "expert/deploy-backend",
+  "title": "deploy-backend",
+  "description": "",
+  "source": "@site/../../docs/expert/6.deploy-backend.md",
+  "sourceDirName": "expert",
+  "slug": "/expert/deploy-backend",
+  "permalink": "/expert/deploy-backend",
+  "draft": false,
+  "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/expert/6.deploy-backend.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {},
+  "sidebar": "courseSidebar",
+  "previous": {
+    "title": "dev-dashboard",
+    "permalink": "/expert/dev-dashboard"
+  },
+  "next": {
+    "title": "deploy-expo-app",
+    "permalink": "/expert/deploy-expo-app"
+  }
+}

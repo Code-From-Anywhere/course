@@ -1,0 +1,25 @@
+{
+  "unversionedId": "competent/typescript",
+  "id": "competent/typescript",
+  "title": "typescript",
+  "description": "",
+  "source": "@site/../../docs/competent/3.typescript.md",
+  "sourceDirName": "competent",
+  "slug": "/competent/typescript",
+  "permalink": "/competent/typescript",
+  "draft": false,
+  "editUrl": "https://github.com/Code-From-Anywhere/sensible/tree/main/apps/web/../../docs/competent/3.typescript.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {},
+  "sidebar": "docSidebar",
+  "previous": {
+    "title": "deploy-frontend",
+    "permalink": "/competent/deploy-frontend"
+  },
+  "next": {
+    "title": "data-storage",
+    "permalink": "/competent/data-storage"
+  }
+}

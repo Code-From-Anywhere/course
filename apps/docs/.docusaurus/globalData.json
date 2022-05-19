@@ -1,0 +1,253 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/",
+          "mainDocId": "about",
+          "docs": [
+            {
+              "id": "about",
+              "path": "/about",
+              "sidebar": "courseSidebar"
+            },
+            {
+              "id": "beginner/css",
+              "path": "/beginner/css",
+              "sidebar": "courseSidebar"
+            },
+            {
+              "id": "beginner/distribution-monetisation",
+              "path": "/beginner/distribution-monetisation",
+              "sidebar": "courseSidebar"
+            },
+            {
+              "id": "beginner/goal",
+              "path": "/beginner/goal",
+              "sidebar": "courseSidebar"
+            },
+            {
+              "id": "beginner/html",
+              "path": "/beginner/html",
+              "sidebar": "courseSidebar"
+            },
+            {
+              "id": "beginner/json",
+              "path": "/beginner/json",
+              "sidebar": "courseSidebar"
+            },
+            {
+              "id": "beginner/markdown",
+              "path": "/beginner/markdown",
+              "sidebar": "courseSidebar"
+            },
+            {
+              "id": "beginner/setup",
+              "path": "/beginner/setup",
+              "sidebar": "courseSidebar"
+            },
+            {
+              "id": "competent/config",
+              "path": "/competent/config",
+              "sidebar": "courseSidebar"
+            },
+            {
+              "id": "competent/data-storage",
+              "path": "/competent/data-storage",
+              "sidebar": "courseSidebar"
+            },
+            {
+              "id": "competent/deploy-frontend",
+              "path": "/competent/deploy-frontend",
+              "sidebar": "courseSidebar"
+            },
+            {
+              "id": "competent/distribution",
+              "path": "/competent/distribution",
+              "sidebar": "courseSidebar"
+            },
+            {
+              "id": "competent/git",
+              "path": "/competent/git",
+              "sidebar": "courseSidebar"
+            },
+            {
+              "id": "competent/monetisation",
+              "path": "/competent/monetisation",
+              "sidebar": "courseSidebar"
+            },
+            {
+              "id": "competent/npm-packages",
+              "path": "/competent/npm-packages",
+              "sidebar": "courseSidebar"
+            },
+            {
+              "id": "competent/react-nextjs",
+              "path": "/competent/react-nextjs",
+              "sidebar": "courseSidebar"
+            },
+            {
+              "id": "competent/tailwind",
+              "path": "/competent/tailwind",
+              "sidebar": "courseSidebar"
+            },
+            {
+              "id": "competent/typescript",
+              "path": "/competent/typescript",
+              "sidebar": "courseSidebar"
+            },
+            {
+              "id": "expert/core",
+              "path": "/expert/core",
+              "sidebar": "courseSidebar"
+            },
+            {
+              "id": "expert/deploy-backend",
+              "path": "/expert/deploy-backend",
+              "sidebar": "courseSidebar"
+            },
+            {
+              "id": "expert/deploy-expo-app",
+              "path": "/expert/deploy-expo-app",
+              "sidebar": "courseSidebar"
+            },
+            {
+              "id": "expert/dev-dashboard",
+              "path": "/expert/dev-dashboard",
+              "sidebar": "courseSidebar"
+            },
+            {
+              "id": "expert/distribution",
+              "path": "/expert/distribution",
+              "sidebar": "courseSidebar"
+            },
+            {
+              "id": "expert/monetisation",
+              "path": "/expert/monetisation",
+              "sidebar": "courseSidebar"
+            },
+            {
+              "id": "expert/sensible",
+              "path": "/expert/sensible",
+              "sidebar": "courseSidebar"
+            },
+            {
+              "id": "expert/server",
+              "path": "/expert/server",
+              "sidebar": "courseSidebar"
+            },
+            {
+              "id": "expert/ui",
+              "path": "/expert/ui",
+              "sidebar": "courseSidebar"
+            },
+            {
+              "id": "lifestyle/become-a-wizard",
+              "path": "/lifestyle/become-a-wizard",
+              "sidebar": "courseSidebar"
+            },
+            {
+              "id": "lifestyle/entrepreneurship",
+              "path": "/lifestyle/entrepreneurship",
+              "sidebar": "courseSidebar"
+            },
+            {
+              "id": "lifestyle/finance",
+              "path": "/lifestyle/finance",
+              "sidebar": "courseSidebar"
+            },
+            {
+              "id": "lifestyle/freedom",
+              "path": "/lifestyle/freedom",
+              "sidebar": "courseSidebar"
+            },
+            {
+              "id": "wizard/automation",
+              "path": "/wizard/automation",
+              "sidebar": "courseSidebar"
+            },
+            {
+              "id": "wizard/conventions-standards",
+              "path": "/wizard/conventions-standards",
+              "sidebar": "courseSidebar"
+            },
+            {
+              "id": "wizard/decentralised-architectures",
+              "path": "/wizard/decentralised-architectures",
+              "sidebar": "courseSidebar"
+            },
+            {
+              "id": "wizard/distribution",
+              "path": "/wizard/distribution",
+              "sidebar": "courseSidebar"
+            },
+            {
+              "id": "wizard/metascripting",
+              "path": "/wizard/metascripting",
+              "sidebar": "courseSidebar"
+            },
+            {
+              "id": "wizard/monetisation",
+              "path": "/wizard/monetisation",
+              "sidebar": "courseSidebar"
+            },
+            {
+              "id": "wizard/other-envrionmends",
+              "path": "/wizard/other-envrionmends",
+              "sidebar": "courseSidebar"
+            },
+            {
+              "id": "wizard/thinking-in-data",
+              "path": "/wizard/thinking-in-data",
+              "sidebar": "courseSidebar"
+            },
+            {
+              "id": "wizard/typescript-introspection",
+              "path": "/wizard/typescript-introspection",
+              "sidebar": "courseSidebar"
+            },
+            {
+              "id": "/category/beginner",
+              "path": "/category/beginner",
+              "sidebar": "courseSidebar"
+            },
+            {
+              "id": "/category/competent",
+              "path": "/category/competent",
+              "sidebar": "courseSidebar"
+            },
+            {
+              "id": "/category/expert",
+              "path": "/category/expert",
+              "sidebar": "courseSidebar"
+            },
+            {
+              "id": "/category/wizard",
+              "path": "/category/wizard",
+              "sidebar": "courseSidebar"
+            },
+            {
+              "id": "/category/lifestyle",
+              "path": "/category/lifestyle",
+              "sidebar": "courseSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "courseSidebar": {
+              "link": {
+                "path": "/about",
+                "label": "about"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

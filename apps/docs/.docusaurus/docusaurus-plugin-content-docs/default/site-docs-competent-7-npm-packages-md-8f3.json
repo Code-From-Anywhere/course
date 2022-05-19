@@ -1,0 +1,25 @@
+{
+  "unversionedId": "competent/npm-packages",
+  "id": "competent/npm-packages",
+  "title": "npm-packages",
+  "description": "",
+  "source": "@site/../../docs/competent/7.npm-packages.md",
+  "sourceDirName": "competent",
+  "slug": "/competent/npm-packages",
+  "permalink": "/competent/npm-packages",
+  "draft": false,
+  "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/competent/7.npm-packages.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {},
+  "sidebar": "courseSidebar",
+  "previous": {
+    "title": "tailwind",
+    "permalink": "/competent/tailwind"
+  },
+  "next": {
+    "title": "config",
+    "permalink": "/competent/config"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "unversionedId": "competent/npm-packages",
+  "id": "competent/npm-packages",
+  "title": "npm-packages",
+  "description": "",
+  "source": "@site/../../docs/competent/6.npm-packages.md",
+  "sourceDirName": "competent",
+  "slug": "/competent/npm-packages",
+  "permalink": "/competent/npm-packages",
+  "draft": false,
+  "editUrl": "https://github.com/Code-From-Anywhere/sensible/tree/main/apps/web/../../docs/competent/6.npm-packages.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {},
+  "sidebar": "docSidebar",
+  "previous": {
+    "title": "data-storage",
+    "permalink": "/competent/data-storage"
+  },
+  "next": {
+    "title": "tailwind",
+    "permalink": "/competent/tailwind"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "about",
+  "id": "about",
+  "title": "Code From Anywhere Course",
+  "description": "Welcome! I'm building a course here. Check back soon!",
+  "source": "@site/../../docs/about.md",
+  "sourceDirName": ".",
+  "slug": "/about",
+  "permalink": "/about",
+  "draft": false,
+  "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/about.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "courseSidebar",
+  "next": {
+    "title": "Beginner",
+    "permalink": "/category/beginner"
+  }
+}

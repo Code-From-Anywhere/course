@@ -1,0 +1,20 @@
+{
+  "unversionedId": "wizard/typescript-introspection",
+  "id": "wizard/typescript-introspection",
+  "title": "typescript-introspection",
+  "description": "",
+  "source": "@site/../../docs/wizard/typescript-introspection.md",
+  "sourceDirName": "wizard",
+  "slug": "/wizard/typescript-introspection",
+  "permalink": "/wizard/typescript-introspection",
+  "draft": false,
+  "editUrl": "https://github.com/Code-From-Anywhere/sensible/tree/main/apps/web/../../docs/wizard/typescript-introspection.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "docSidebar",
+  "previous": {
+    "title": "monetisation",
+    "permalink": "/wizard/monetisation"
+  }
+}

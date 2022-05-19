@@ -1,0 +1,25 @@
+{
+  "unversionedId": "expert/ui",
+  "id": "expert/ui",
+  "title": "ui",
+  "description": "",
+  "source": "@site/../../docs/expert/4.ui.md",
+  "sourceDirName": "expert",
+  "slug": "/expert/ui",
+  "permalink": "/expert/ui",
+  "draft": false,
+  "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/expert/4.ui.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {},
+  "sidebar": "courseSidebar",
+  "previous": {
+    "title": "server",
+    "permalink": "/expert/server"
+  },
+  "next": {
+    "title": "dev-dashboard",
+    "permalink": "/expert/dev-dashboard"
+  }
+}
