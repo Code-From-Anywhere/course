@@ -45,21 +45,21 @@
             {
               "unversionedId": "beginner/css",
               "id": "beginner/css",
-              "title": "css",
-              "description": "",
-              "source": "@site/../../docs/beginner/7.css.md",
+              "title": "CSS",
+              "description": "Introduction",
+              "source": "@site/../../docs/beginner/6.css.md",
               "sourceDirName": "beginner",
               "slug": "/beginner/css",
               "permalink": "/beginner/css",
               "draft": false,
-              "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/beginner/7.css.md",
+              "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/beginner/6.css.md",
               "tags": [],
               "version": "current",
-              "sidebarPosition": 7,
+              "sidebarPosition": 6,
               "frontMatter": {},
               "sidebar": "courseSidebar",
               "previous": {
-                "title": "html",
+                "title": "HTML",
                 "permalink": "/beginner/html"
               },
               "next": {
@@ -70,8 +70,8 @@
             {
               "unversionedId": "beginner/goal",
               "id": "beginner/goal",
-              "title": "goal",
-              "description": "",
+              "title": "Setting a goal",
+              "description": "The first step is deciding what you want to get out of this course. It's very important that you're not only going to read the stuff I say here on these pages. You need to practice in order to become handy.",
               "source": "@site/../../docs/beginner/1.goal.md",
               "sourceDirName": "beginner",
               "slug": "/beginner/goal",
@@ -88,90 +88,90 @@
                 "permalink": "/category/-beginner"
               },
               "next": {
-                "title": "setup",
+                "title": "Setting things up",
                 "permalink": "/beginner/setup"
               }
             },
             {
               "unversionedId": "beginner/html",
               "id": "beginner/html",
-              "title": "html",
-              "description": "",
-              "source": "@site/../../docs/beginner/6.html.md",
+              "title": "HTML",
+              "description": "Introduction",
+              "source": "@site/../../docs/beginner/5.html.md",
               "sourceDirName": "beginner",
               "slug": "/beginner/html",
               "permalink": "/beginner/html",
               "draft": false,
-              "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/beginner/6.html.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 6,
-              "frontMatter": {},
-              "sidebar": "courseSidebar",
-              "previous": {
-                "title": "markdown",
-                "permalink": "/beginner/markdown"
-              },
-              "next": {
-                "title": "css",
-                "permalink": "/beginner/css"
-              }
-            },
-            {
-              "unversionedId": "beginner/json",
-              "id": "beginner/json",
-              "title": "json",
-              "description": "",
-              "source": "@site/../../docs/beginner/4.json.md",
-              "sourceDirName": "beginner",
-              "slug": "/beginner/json",
-              "permalink": "/beginner/json",
-              "draft": false,
-              "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/beginner/4.json.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 4,
-              "frontMatter": {},
-              "sidebar": "courseSidebar",
-              "previous": {
-                "title": "setup",
-                "permalink": "/beginner/setup"
-              },
-              "next": {
-                "title": "markdown",
-                "permalink": "/beginner/markdown"
-              }
-            },
-            {
-              "unversionedId": "beginner/markdown",
-              "id": "beginner/markdown",
-              "title": "markdown",
-              "description": "",
-              "source": "@site/../../docs/beginner/5.markdown.md",
-              "sourceDirName": "beginner",
-              "slug": "/beginner/markdown",
-              "permalink": "/beginner/markdown",
-              "draft": false,
-              "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/beginner/5.markdown.md",
+              "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/beginner/5.html.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 5,
               "frontMatter": {},
               "sidebar": "courseSidebar",
               "previous": {
-                "title": "json",
+                "title": "Markdown",
+                "permalink": "/beginner/markdown"
+              },
+              "next": {
+                "title": "CSS",
+                "permalink": "/beginner/css"
+              }
+            },
+            {
+              "unversionedId": "beginner/json",
+              "id": "beginner/json",
+              "title": "JSON",
+              "description": "JSON means JavaScript Object Notation. JSON is used in lots of places. It is very easy to use because JSON can directly be imported into JavaScript and be parsed as a JavaScript Object. It's great!",
+              "source": "@site/../../docs/beginner/3.json.md",
+              "sourceDirName": "beginner",
+              "slug": "/beginner/json",
+              "permalink": "/beginner/json",
+              "draft": false,
+              "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/beginner/3.json.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {},
+              "sidebar": "courseSidebar",
+              "previous": {
+                "title": "Setting things up",
+                "permalink": "/beginner/setup"
+              },
+              "next": {
+                "title": "Markdown",
+                "permalink": "/beginner/markdown"
+              }
+            },
+            {
+              "unversionedId": "beginner/markdown",
+              "id": "beginner/markdown",
+              "title": "Markdown",
+              "description": "Markdown is a handy way to write documents. You can save any file as a [filename].md file to create a markdown file. It uses a couple of syntactic rules that let you style things.",
+              "source": "@site/../../docs/beginner/4.markdown.md",
+              "sourceDirName": "beginner",
+              "slug": "/beginner/markdown",
+              "permalink": "/beginner/markdown",
+              "draft": false,
+              "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/beginner/4.markdown.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {},
+              "sidebar": "courseSidebar",
+              "previous": {
+                "title": "JSON",
                 "permalink": "/beginner/json"
               },
               "next": {
-                "title": "html",
+                "title": "HTML",
                 "permalink": "/beginner/html"
               }
             },
             {
               "unversionedId": "beginner/setup",
               "id": "beginner/setup",
-              "title": "setup",
-              "description": "",
+              "title": "Setting things up",
+              "description": "To start developing, I recommend the VSCode editor. I recommand having a Mac but it's not needed. It'd also be good to install Node.js already, but you'll only need that in the seconds section.",
               "source": "@site/../../docs/beginner/2.setup.md",
               "sourceDirName": "beginner",
               "slug": "/beginner/setup",
@@ -184,11 +184,11 @@
               "frontMatter": {},
               "sidebar": "courseSidebar",
               "previous": {
-                "title": "goal",
+                "title": "Setting a goal",
                 "permalink": "/beginner/goal"
               },
               "next": {
-                "title": "json",
+                "title": "JSON",
                 "permalink": "/beginner/json"
               }
             },

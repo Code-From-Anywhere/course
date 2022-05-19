@@ -22,37 +22,37 @@
         "items": [
           {
             "type": "link",
-            "label": "goal",
+            "label": "Setting a goal",
             "href": "/beginner/goal",
             "docId": "beginner/goal"
           },
           {
             "type": "link",
-            "label": "setup",
+            "label": "Setting things up",
             "href": "/beginner/setup",
             "docId": "beginner/setup"
           },
           {
             "type": "link",
-            "label": "json",
+            "label": "JSON",
             "href": "/beginner/json",
             "docId": "beginner/json"
           },
           {
             "type": "link",
-            "label": "markdown",
+            "label": "Markdown",
             "href": "/beginner/markdown",
             "docId": "beginner/markdown"
           },
           {
             "type": "link",
-            "label": "html",
+            "label": "HTML",
             "href": "/beginner/html",
             "docId": "beginner/html"
           },
           {
             "type": "link",
-            "label": "css",
+            "label": "CSS",
             "href": "/beginner/css",
             "docId": "beginner/css"
           }
@@ -298,38 +298,38 @@
     },
     "beginner/css": {
       "id": "beginner/css",
-      "title": "css",
-      "description": "",
+      "title": "CSS",
+      "description": "Introduction",
       "sidebar": "courseSidebar"
     },
     "beginner/goal": {
       "id": "beginner/goal",
-      "title": "goal",
-      "description": "",
+      "title": "Setting a goal",
+      "description": "The first step is deciding what you want to get out of this course. It's very important that you're not only going to read the stuff I say here on these pages. You need to practice in order to become handy.",
       "sidebar": "courseSidebar"
     },
     "beginner/html": {
       "id": "beginner/html",
-      "title": "html",
-      "description": "",
+      "title": "HTML",
+      "description": "Introduction",
       "sidebar": "courseSidebar"
     },
     "beginner/json": {
       "id": "beginner/json",
-      "title": "json",
-      "description": "",
+      "title": "JSON",
+      "description": "JSON means JavaScript Object Notation. JSON is used in lots of places. It is very easy to use because JSON can directly be imported into JavaScript and be parsed as a JavaScript Object. It's great!",
       "sidebar": "courseSidebar"
     },
     "beginner/markdown": {
       "id": "beginner/markdown",
-      "title": "markdown",
-      "description": "",
+      "title": "Markdown",
+      "description": "Markdown is a handy way to write documents. You can save any file as a [filename].md file to create a markdown file. It uses a couple of syntactic rules that let you style things.",
       "sidebar": "courseSidebar"
     },
     "beginner/setup": {
       "id": "beginner/setup",
-      "title": "setup",
-      "description": "",
+      "title": "Setting things up",
+      "description": "To start developing, I recommend the VSCode editor. I recommand having a Mac but it's not needed. It'd also be good to install Node.js already, but you'll only need that in the seconds section.",
       "sidebar": "courseSidebar"
     },
     "competent/config": {

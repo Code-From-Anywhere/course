@@ -44,7 +44,7 @@ export default [
   },
   {
     path: '/',
-    component: ComponentCreator('/', '437'),
+    component: ComponentCreator('/', '18b'),
     routes: [
       {
         path: '/about',
@@ -54,7 +54,7 @@ export default [
       },
       {
         path: '/beginner/css',
-        component: ComponentCreator('/beginner/css', 'b89'),
+        component: ComponentCreator('/beginner/css', 'e3d'),
         exact: true,
         sidebar: "courseSidebar"
       },
@@ -66,19 +66,19 @@ export default [
       },
       {
         path: '/beginner/html',
-        component: ComponentCreator('/beginner/html', '380'),
+        component: ComponentCreator('/beginner/html', '51d'),
         exact: true,
         sidebar: "courseSidebar"
       },
       {
         path: '/beginner/json',
-        component: ComponentCreator('/beginner/json', '133'),
+        component: ComponentCreator('/beginner/json', '243'),
         exact: true,
         sidebar: "courseSidebar"
       },
       {
         path: '/beginner/markdown',
-        component: ComponentCreator('/beginner/markdown', '0b8'),
+        component: ComponentCreator('/beginner/markdown', '507'),
         exact: true,
         sidebar: "courseSidebar"
       },

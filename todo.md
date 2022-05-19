@@ -5,11 +5,6 @@
 
 **BEGINNER**
 
-- goal: What do you want to share with the world?
-- json (json files): arrays, objects, numbers, strings, booleans
-- md (md files): headings, styles, links, images
-- html: intro, elements (html, head, title, meta, body, h1, h2, p, div, span, a, ul, ol, li, form, input, select, option, img, script), comments
-- css (style prop): intro, syntax, selectors, comments, styles (background-color, color (hex)), text-align, font-family, font-size, border, margin, padding, height, width, box model, flexbox model, position, display, z-index, overflow, opacity)
 - distribution
 - monetisation
 

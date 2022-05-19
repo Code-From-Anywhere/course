@@ -1,8 +1,8 @@
 {
   "unversionedId": "beginner/setup",
   "id": "beginner/setup",
-  "title": "setup",
-  "description": "",
+  "title": "Setting things up",
+  "description": "To start developing, I recommend the VSCode editor. I recommand having a Mac but it's not needed. It'd also be good to install Node.js already, but you'll only need that in the seconds section.",
   "source": "@site/../../docs/beginner/2.setup.md",
   "sourceDirName": "beginner",
   "slug": "/beginner/setup",
@@ -15,11 +15,11 @@
   "frontMatter": {},
   "sidebar": "courseSidebar",
   "previous": {
-    "title": "goal",
+    "title": "Setting a goal",
     "permalink": "/beginner/goal"
   },
   "next": {
-    "title": "json",
+    "title": "JSON",
     "permalink": "/beginner/json"
   }
 }

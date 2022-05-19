@@ -1,0 +1,25 @@
+{
+  "unversionedId": "beginner/css",
+  "id": "beginner/css",
+  "title": "CSS",
+  "description": "Introduction",
+  "source": "@site/../../docs/beginner/6.css.md",
+  "sourceDirName": "beginner",
+  "slug": "/beginner/css",
+  "permalink": "/beginner/css",
+  "draft": false,
+  "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/beginner/6.css.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {},
+  "sidebar": "courseSidebar",
+  "previous": {
+    "title": "HTML",
+    "permalink": "/beginner/html"
+  },
+  "next": {
+    "title": "🦜 Competent",
+    "permalink": "/category/-competent"
+  }
+}

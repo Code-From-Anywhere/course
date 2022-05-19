@@ -1,0 +1,25 @@
+{
+  "unversionedId": "beginner/json",
+  "id": "beginner/json",
+  "title": "JSON",
+  "description": "JSON means JavaScript Object Notation. JSON is used in lots of places. It is very easy to use because JSON can directly be imported into JavaScript and be parsed as a JavaScript Object. It's great!",
+  "source": "@site/../../docs/beginner/3.json.md",
+  "sourceDirName": "beginner",
+  "slug": "/beginner/json",
+  "permalink": "/beginner/json",
+  "draft": false,
+  "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/beginner/3.json.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {},
+  "sidebar": "courseSidebar",
+  "previous": {
+    "title": "Setting things up",
+    "permalink": "/beginner/setup"
+  },
+  "next": {
+    "title": "Markdown",
+    "permalink": "/beginner/markdown"
+  }
+}

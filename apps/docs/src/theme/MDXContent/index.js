@@ -8,7 +8,7 @@ const PageFooterSection = () => {
     typeof window === "undefined"
       ? "codefromanywhere.com"
       : window.location.href;
-  const text = `I learned so much on ${location}!`;
+  const text = `I learned so much on ${location}! #CodeFromAnywhere`;
   const twitterUrl = encodeURI(`https://twitter.com/intent/tweet?text=${text}`);
   return (
     <div className="pt-20">

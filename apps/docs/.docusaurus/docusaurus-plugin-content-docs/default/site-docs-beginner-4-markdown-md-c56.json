@@ -1,0 +1,25 @@
+{
+  "unversionedId": "beginner/markdown",
+  "id": "beginner/markdown",
+  "title": "Markdown",
+  "description": "Markdown is a handy way to write documents. You can save any file as a [filename].md file to create a markdown file. It uses a couple of syntactic rules that let you style things.",
+  "source": "@site/../../docs/beginner/4.markdown.md",
+  "sourceDirName": "beginner",
+  "slug": "/beginner/markdown",
+  "permalink": "/beginner/markdown",
+  "draft": false,
+  "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/beginner/4.markdown.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {},
+  "sidebar": "courseSidebar",
+  "previous": {
+    "title": "JSON",
+    "permalink": "/beginner/json"
+  },
+  "next": {
+    "title": "HTML",
+    "permalink": "/beginner/html"
+  }
+}
