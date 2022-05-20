@@ -245,6 +245,30 @@
               }
             },
             {
+              "unversionedId": "events",
+              "id": "events",
+              "title": "events",
+              "description": "Join us here to see our meetings",
+              "source": "@site/../../docs/events.md",
+              "sourceDirName": ".",
+              "slug": "/events",
+              "permalink": "/events",
+              "draft": false,
+              "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/events.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "courseSidebar",
+              "previous": {
+                "title": "Services",
+                "permalink": "/services"
+              },
+              "next": {
+                "title": "TODO",
+                "permalink": "/todo"
+              }
+            },
+            {
               "unversionedId": "frontend/apply",
               "id": "frontend/apply",
               "title": "Become a frontend dev",
@@ -817,8 +841,8 @@
                 "permalink": "/lifestyle/productivity"
               },
               "next": {
-                "title": "TODO",
-                "permalink": "/todo"
+                "title": "events",
+                "permalink": "/events"
               }
             },
             {
@@ -839,8 +863,8 @@
               },
               "sidebar": "courseSidebar",
               "previous": {
-                "title": "Services",
-                "permalink": "/services"
+                "title": "events",
+                "permalink": "/events"
               }
             },
             {
@@ -1273,6 +1297,10 @@
               {
                 "type": "doc",
                 "id": "services"
+              },
+              {
+                "type": "doc",
+                "id": "events"
               },
               {
                 "type": "doc",

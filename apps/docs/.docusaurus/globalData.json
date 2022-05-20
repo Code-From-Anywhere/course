@@ -56,6 +56,11 @@
               "sidebar": "courseSidebar"
             },
             {
+              "id": "events",
+              "path": "/events",
+              "sidebar": "courseSidebar"
+            },
+            {
               "id": "frontend/apply",
               "path": "/frontend/apply",
               "sidebar": "courseSidebar"

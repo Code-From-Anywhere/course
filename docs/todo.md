@@ -28,6 +28,7 @@ Lifestyle (4)
 3. Todolist component super tof! Gewoon een array van dingen die je kan doen hier.
 4. Upload alle md naar Medium (en dev.to) dmv controller. Components worden hier weggestripped.
 5. Exclusive content promo on every page leading to "coaching & more" page. Doe dit d.m.v. mdx met een component met de slug in als prop. Laat deze component andere dingen tonen afhankelijk van api, maar vooral blogs, social media posts, upsells en social media buttons. Kan in het begin gewoon hardcoded zijn, later vervangen door API + backend. Catch hier ook emails voor mensen die meer willen. In deze email geef ik wat, maar ook vraag ik of ze een social media post willen plaatsen hoe blij ze ermee zijn, als ze dat gedaan hebben, dan krijgen ze meer.
+6. Custom chat on every page (without login until it gets misused)
 
 ## Nog later
 

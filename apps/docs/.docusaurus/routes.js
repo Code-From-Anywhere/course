@@ -44,7 +44,7 @@ export default [
   },
   {
     path: '/',
-    component: ComponentCreator('/', '0e2'),
+    component: ComponentCreator('/', 'c6e'),
     routes: [
       {
         path: '/about',
@@ -127,6 +127,12 @@ export default [
       {
         path: '/category/️-wizard',
         component: ComponentCreator('/category/️-wizard', '8cd'),
+        exact: true,
+        sidebar: "courseSidebar"
+      },
+      {
+        path: '/events',
+        component: ComponentCreator('/events', '50b'),
         exact: true,
         sidebar: "courseSidebar"
       },

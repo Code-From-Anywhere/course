@@ -295,6 +295,12 @@
       },
       {
         "type": "link",
+        "label": "events",
+        "href": "/events",
+        "docId": "events"
+      },
+      {
+        "type": "link",
         "label": "TODO",
         "href": "/todo",
         "docId": "todo"
@@ -354,6 +360,12 @@
       "id": "beginner/terminal",
       "title": "Knowing your terminal",
       "description": "Important commands (I'll explain later, in the meantime you can google yourself. This should be second nature for you)",
+      "sidebar": "courseSidebar"
+    },
+    "events": {
+      "id": "events",
+      "title": "events",
+      "description": "Join us here to see our meetings",
       "sidebar": "courseSidebar"
     },
     "frontend/apply": {
