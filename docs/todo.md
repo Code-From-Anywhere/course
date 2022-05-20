@@ -8,8 +8,9 @@ Richt 100% op de content creation. Maak alles af dit weekend.
 
 Frontend
 
-- TS
-- React, Nextjs
+- React
+- Nextjs
+- Typescript
 - Deploy frontend
 - Data storage
 - Tailwind
@@ -21,28 +22,50 @@ Fullstack (9)
 Wizard (8)
 Lifestyle (4)
 
-## Later:
+## Structure
 
-1. Vertaal alles in het Nederlands. Probeer hier een API voor te vinden of via google translate controller.
-2. Voeg hier en daar wat goede instructionele videos toe om dingen duidelijker te maken, zowel engels als Nederlands. Dit kan dmv een mdx bestand met video component dat elke taal accepteert, e.g. `<Video url={{nl:"URL", en: "URL" }}>`
-3. Todolist component super tof! Gewoon een array van dingen die je kan doen hier.
-4. Upload alle md naar Medium (en dev.to) dmv controller. Components worden hier weggestripped.
-5. Exclusive content promo on every page leading to "coaching & more" page. Doe dit d.m.v. mdx met een component met de slug in als prop. Laat deze component andere dingen tonen afhankelijk van api, maar vooral blogs, social media posts, upsells en social media buttons. Kan in het begin gewoon hardcoded zijn, later vervangen door API + backend. Catch hier ook emails voor mensen die meer willen. In deze email geef ik wat, maar ook vraag ik of ze een social media post willen plaatsen hoe blij ze ermee zijn, als ze dat gedaan hebben, dan krijgen ze meer.
-6. Custom chat on every page (without login until it gets misused)
+Details sections:
 
-## Nog later
+- Challenges / Let's do this (Nike)
+- Wizard Stuff
+- More details / Background (Mostly outward links)
+- Not to do list
+
+## Ideas
+
+- [ ] Translate to top 10 languages using Google Translate controller
+- [ ] Blog controller
+- [ ] `<Video url={{nl:"URL", en: "URL" }}>`
+- [ ] `<Todo><li>x</li><li>y</li><li>z</li></Todo>` for user to mark todos. Connected to localStorage or account
+- [ ] `<Ads slug="folder/path/page-slug" location="header|footer|banner" />` Cross-promoting ourselves! Exclusive content, Services, Social media posts, Blogs, Chat. Incentivise sharing of anything #CodeFromAnywhere related.
+- [ ] Leveled distribution engine
+- [ ] User Credit System with purchase and doing other things for them
+- [ ] Add limits to content consumption when credit runs out
+- [ ] Newsletter
+- [ ] Make the course more reachable (offline, electron, expo, vscode, chrome)
+- [ ] Community: Currenlty it's all in slack. This is already great. In the end, we need to move this more to the front so google can pick it up. The amount of communication that's that's not traceable should be minimised. It would be a lot of fun to create a social network on top of the Docusaurus, but I'm not sure that's the right place. But a plugable Content Creation CMS x King OS thingy that syncs with github would be amazing, and it would also be compatible with Docusaurus so that's great.
+- [ ] Job marketplace (see below)
+
+## Don't do this
 
 - Setup a hierarchy using the Category type so I can CRUD new sections easily (use fs as base to generate hierarchy)
 - Move away from docusaurus once my own md site generator is ready
-- Once my leveled distribution engine is ready, add limits to content consumption with monetisation
-- Make it possible to mark a section as done for yourself (device local storage)
-- Once my distribution engine is ready, add incentives for people to return to the course (emails, push notifications, etc)
-- Make the course more reachable (offline, electron, expo, vscode, chrome)
 
-## Structure
+## Job marketplace
 
-- Every section has "let's do this"-section that tells you the possibilities so you get excited and try them out
-- Every section has "wizard stuff"-section to recommend our conventions and ways of working.
-- Every section has a "background"-section that provides quality additional resources
-- Every section has "share"-buttons that make it easy to share your results with other students in a structured way (use social media). The things you share can also be posted to the website using a form.
-- Every section has a "not-to-do-list"-section that shows you the common pitfalls and recommendations of what NOT to do.
+Once we really get a big audience of developers, we'll see 2 things:
+
+1. developers are looking for better opportunities
+2. companies will see there are a lot of developers here
+
+We can offer developers to be found more easily by companies by sharing their details with them. We can set up multiple channels (King OS) where all info of all developers (using their privacy policy) is shared.
+
+Those developers don't need king OS themselves anymore, we do the marketing of them for them. It's abstracted away. Much better for the POC!
+
+All companies traffic go to codefromanywhere.com because of the free resource of developer information.
+
+This should not be our main source of income though. It doesn't matter. We will find a way once we provide so much value.
+
+We should uphold our standards though, that's really important! A company can only post a job here if it aligns well enough with our philosophy.
+
+This thing can already be made, we can start experimenting with it without giving it a menu on the site. It's a behind-the-scenes process we use King OS for.
