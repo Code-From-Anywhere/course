@@ -19,6 +19,10 @@ The course contains 5 sections
 
 Once you're done with this course, you'll be able to make apps (simple versions of things like Facebook, GitHub, Uber, Medium, or whatever) in a matter of weeks. If you are able to achieve wizardry this could even be days.
 
+## A word from me...
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/D13goXBeMIc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Still free
 
 This course is completely free for now but it will not be long before I implement my monetisation strategy! So you better take the chance now that it's still possible.
@@ -69,7 +73,3 @@ Do you have money? If you want to work with us, check [our services](/services)
 Do you need money:? If you want to work with us, check [becoming a wizard](/wizard/become-a-wizard)
 
 </details>
-
-## A word from me...
-
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/D13goXBeMIc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
