@@ -184,6 +184,12 @@
           },
           {
             "type": "link",
+            "label": "Deployment web",
+            "href": "/fullstack/deploy-web",
+            "docId": "fullstack/deploy-web"
+          },
+          {
+            "type": "link",
             "label": "Become a full-stack dev",
             "href": "/fullstack/apply",
             "docId": "fullstack/apply"
@@ -271,6 +277,12 @@
             "label": "Entrepreneurship",
             "href": "/lifestyle/entrepreneurship",
             "docId": "lifestyle/entrepreneurship"
+          },
+          {
+            "type": "link",
+            "label": "Productivity",
+            "href": "/lifestyle/productivity",
+            "docId": "lifestyle/productivity"
           }
         ],
         "href": "/category/-lifestyle"
@@ -410,6 +422,12 @@
       "description": "Once you shared the UI with react-with-native your app should also work fine on native cross-platform mobile with sensible's built-in expo support.",
       "sidebar": "courseSidebar"
     },
+    "fullstack/deploy-web": {
+      "id": "fullstack/deploy-web",
+      "title": "Deployment web",
+      "description": "Sensible is built on top of a yarn workspace. Your Next.js frontend relies on other packages inside the sensible project, so they also have to be installed and built.",
+      "sidebar": "courseSidebar"
+    },
     "fullstack/dev-dashboard": {
       "id": "fullstack/dev-dashboard",
       "title": "Dev Dashboard",
@@ -450,6 +468,12 @@
       "id": "lifestyle/freedom",
       "title": "Freedom",
       "description": "Coming soon",
+      "sidebar": "courseSidebar"
+    },
+    "lifestyle/productivity": {
+      "id": "lifestyle/productivity",
+      "title": "Productivity",
+      "description": "It's something I think about a lot. Here I will try to summarise everything I've learned over the last 20+ years.",
       "sidebar": "courseSidebar"
     },
     "wizard/automation": {

@@ -121,6 +121,11 @@
               "sidebar": "courseSidebar"
             },
             {
+              "id": "fullstack/deploy-web",
+              "path": "/fullstack/deploy-web",
+              "sidebar": "courseSidebar"
+            },
+            {
               "id": "fullstack/dev-dashboard",
               "path": "/fullstack/dev-dashboard",
               "sidebar": "courseSidebar"
@@ -153,6 +158,11 @@
             {
               "id": "lifestyle/freedom",
               "path": "/lifestyle/freedom",
+              "sidebar": "courseSidebar"
+            },
+            {
+              "id": "lifestyle/productivity",
+              "path": "/lifestyle/productivity",
               "sidebar": "courseSidebar"
             },
             {

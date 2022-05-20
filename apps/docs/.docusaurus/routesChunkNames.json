@@ -49,7 +49,7 @@
     },
     "config": "config---5-e-9-4f3"
   },
-  "/-d0b": {
+  "/-116": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
       "plugin": "plugin---049-9ad"
@@ -148,9 +148,9 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---frontend-typescript-5-d-1-d9e"
   },
-  "/fullstack/apply-6c2": {
+  "/fullstack/apply-92f": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---fullstack-apply-1-fd-cbb"
+    "content": "content---fullstack-applyed-4-9d3"
   },
   "/fullstack/core-193": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -163,6 +163,10 @@
   "/fullstack/deploy-expo-app-544": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---fullstack-deploy-expo-appfb-4-4f5"
+  },
+  "/fullstack/deploy-web-e6c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---fullstack-deploy-webee-7-c7a"
   },
   "/fullstack/dev-dashboard-93d": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -191,6 +195,10 @@
   "/lifestyle/freedom-663": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---lifestyle-freedom-468-a89"
+  },
+  "/lifestyle/productivity-dfb": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---lifestyle-productivity-386-06b"
   },
   "/wizard/automation-5a5": {
     "__comp": "__comp---theme-doc-item-178-a40",

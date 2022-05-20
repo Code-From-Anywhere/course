@@ -1,0 +1,21 @@
+{
+  "unversionedId": "lifestyle/productivity",
+  "id": "lifestyle/productivity",
+  "title": "Productivity",
+  "description": "It's something I think about a lot. Here I will try to summarise everything I've learned over the last 20+ years.",
+  "source": "@site/../../docs/lifestyle/4.productivity.md",
+  "sourceDirName": "lifestyle",
+  "slug": "/lifestyle/productivity",
+  "permalink": "/lifestyle/productivity",
+  "draft": false,
+  "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/lifestyle/4.productivity.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {},
+  "sidebar": "courseSidebar",
+  "previous": {
+    "title": "Entrepreneurship",
+    "permalink": "/lifestyle/entrepreneurship"
+  }
+}

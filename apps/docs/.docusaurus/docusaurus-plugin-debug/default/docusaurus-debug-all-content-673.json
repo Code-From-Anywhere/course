@@ -474,20 +474,20 @@
               "id": "fullstack/apply",
               "title": "Become a full-stack dev",
               "description": "You're now a full-stack developer. You may not know everything of course... But you'll know the basics. Just get that €75 an hour freelancing gig, and keep reading!",
-              "source": "@site/../../docs/fullstack/8.apply.md",
+              "source": "@site/../../docs/fullstack/9.apply.md",
               "sourceDirName": "fullstack",
               "slug": "/fullstack/apply",
               "permalink": "/fullstack/apply",
               "draft": false,
-              "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/fullstack/8.apply.md",
+              "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/fullstack/9.apply.md",
               "tags": [],
               "version": "current",
-              "sidebarPosition": 8,
+              "sidebarPosition": 9,
               "frontMatter": {},
               "sidebar": "courseSidebar",
               "previous": {
-                "title": "Deploying with expo",
-                "permalink": "/fullstack/deploy-expo-app"
+                "title": "Deployment web",
+                "permalink": "/fullstack/deploy-web"
               },
               "next": {
                 "title": "🧙‍♂️ Wizard",
@@ -563,6 +563,31 @@
               "previous": {
                 "title": "Deploy backend",
                 "permalink": "/fullstack/deploy-backend"
+              },
+              "next": {
+                "title": "Deployment web",
+                "permalink": "/fullstack/deploy-web"
+              }
+            },
+            {
+              "unversionedId": "fullstack/deploy-web",
+              "id": "fullstack/deploy-web",
+              "title": "Deployment web",
+              "description": "Sensible is built on top of a yarn workspace. Your Next.js frontend relies on other packages inside the sensible project, so they also have to be installed and built.",
+              "source": "@site/../../docs/fullstack/8.deploy-web.md",
+              "sourceDirName": "fullstack",
+              "slug": "/fullstack/deploy-web",
+              "permalink": "/fullstack/deploy-web",
+              "draft": false,
+              "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/fullstack/8.deploy-web.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 8,
+              "frontMatter": {},
+              "sidebar": "courseSidebar",
+              "previous": {
+                "title": "Deploying with expo",
+                "permalink": "/fullstack/deploy-expo-app"
               },
               "next": {
                 "title": "Become a full-stack dev",
@@ -688,6 +713,10 @@
               "previous": {
                 "title": "Freedom",
                 "permalink": "/lifestyle/freedom"
+              },
+              "next": {
+                "title": "Productivity",
+                "permalink": "/lifestyle/productivity"
               }
             },
             {
@@ -736,6 +765,27 @@
                 "permalink": "/lifestyle/finance"
               },
               "next": {
+                "title": "Entrepreneurship",
+                "permalink": "/lifestyle/entrepreneurship"
+              }
+            },
+            {
+              "unversionedId": "lifestyle/productivity",
+              "id": "lifestyle/productivity",
+              "title": "Productivity",
+              "description": "It's something I think about a lot. Here I will try to summarise everything I've learned over the last 20+ years.",
+              "source": "@site/../../docs/lifestyle/4.productivity.md",
+              "sourceDirName": "lifestyle",
+              "slug": "/lifestyle/productivity",
+              "permalink": "/lifestyle/productivity",
+              "draft": false,
+              "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/lifestyle/4.productivity.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {},
+              "sidebar": "courseSidebar",
+              "previous": {
                 "title": "Entrepreneurship",
                 "permalink": "/lifestyle/entrepreneurship"
               }
@@ -1080,6 +1130,10 @@
                   },
                   {
                     "type": "doc",
+                    "id": "fullstack/deploy-web"
+                  },
+                  {
+                    "type": "doc",
                     "id": "fullstack/apply"
                   }
                 ],
@@ -1151,6 +1205,10 @@
                   {
                     "type": "doc",
                     "id": "lifestyle/entrepreneurship"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "lifestyle/productivity"
                   }
                 ],
                 "link": {

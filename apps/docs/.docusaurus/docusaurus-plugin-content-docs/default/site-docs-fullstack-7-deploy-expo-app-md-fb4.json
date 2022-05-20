@@ -19,7 +19,7 @@
     "permalink": "/fullstack/deploy-backend"
   },
   "next": {
-    "title": "Become a full-stack dev",
-    "permalink": "/fullstack/apply"
+    "title": "Deployment web",
+    "permalink": "/fullstack/deploy-web"
   }
 }

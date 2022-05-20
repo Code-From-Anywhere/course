@@ -17,5 +17,9 @@
   "previous": {
     "title": "Freedom",
     "permalink": "/lifestyle/freedom"
+  },
+  "next": {
+    "title": "Productivity",
+    "permalink": "/lifestyle/productivity"
   }
 }

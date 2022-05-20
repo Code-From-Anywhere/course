@@ -44,7 +44,7 @@ export default [
   },
   {
     path: '/',
-    component: ComponentCreator('/', 'd0b'),
+    component: ComponentCreator('/', '116'),
     routes: [
       {
         path: '/about',
@@ -186,7 +186,7 @@ export default [
       },
       {
         path: '/fullstack/apply',
-        component: ComponentCreator('/fullstack/apply', '6c2'),
+        component: ComponentCreator('/fullstack/apply', '92f'),
         exact: true,
         sidebar: "courseSidebar"
       },
@@ -205,6 +205,12 @@ export default [
       {
         path: '/fullstack/deploy-expo-app',
         component: ComponentCreator('/fullstack/deploy-expo-app', '544'),
+        exact: true,
+        sidebar: "courseSidebar"
+      },
+      {
+        path: '/fullstack/deploy-web',
+        component: ComponentCreator('/fullstack/deploy-web', 'e6c'),
         exact: true,
         sidebar: "courseSidebar"
       },
@@ -247,6 +253,12 @@ export default [
       {
         path: '/lifestyle/freedom',
         component: ComponentCreator('/lifestyle/freedom', '663'),
+        exact: true,
+        sidebar: "courseSidebar"
+      },
+      {
+        path: '/lifestyle/productivity',
+        component: ComponentCreator('/lifestyle/productivity', 'dfb'),
         exact: true,
         sidebar: "courseSidebar"
       },
