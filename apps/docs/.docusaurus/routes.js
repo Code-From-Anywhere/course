@@ -44,7 +44,7 @@ export default [
   },
   {
     path: '/',
-    component: ComponentCreator('/', 'bbb'),
+    component: ComponentCreator('/', 'b0d'),
     routes: [
       {
         path: '/about',
@@ -197,18 +197,6 @@ export default [
         sidebar: "courseSidebar"
       },
       {
-        path: '/expert/distribution',
-        component: ComponentCreator('/expert/distribution', 'bbc'),
-        exact: true,
-        sidebar: "courseSidebar"
-      },
-      {
-        path: '/expert/monetisation',
-        component: ComponentCreator('/expert/monetisation', '231'),
-        exact: true,
-        sidebar: "courseSidebar"
-      },
-      {
         path: '/expert/sensible',
         component: ComponentCreator('/expert/sensible', '0df'),
         exact: true,
@@ -223,6 +211,12 @@ export default [
       {
         path: '/expert/ui',
         component: ComponentCreator('/expert/ui', '070'),
+        exact: true,
+        sidebar: "courseSidebar"
+      },
+      {
+        path: '/expert/what-now',
+        component: ComponentCreator('/expert/what-now', '376'),
         exact: true,
         sidebar: "courseSidebar"
       },
@@ -269,26 +263,14 @@ export default [
         sidebar: "courseSidebar"
       },
       {
-        path: '/wizard/distribution',
-        component: ComponentCreator('/wizard/distribution', '1c0'),
-        exact: true,
-        sidebar: "courseSidebar"
-      },
-      {
         path: '/wizard/metascripting',
         component: ComponentCreator('/wizard/metascripting', '81d'),
         exact: true,
         sidebar: "courseSidebar"
       },
       {
-        path: '/wizard/monetisation',
-        component: ComponentCreator('/wizard/monetisation', '9d6'),
-        exact: true,
-        sidebar: "courseSidebar"
-      },
-      {
-        path: '/wizard/other-envrionmends',
-        component: ComponentCreator('/wizard/other-envrionmends', '81d'),
+        path: '/wizard/other-envrionments',
+        component: ComponentCreator('/wizard/other-envrionments', 'de2'),
         exact: true,
         sidebar: "courseSidebar"
       },

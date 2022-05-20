@@ -1,8 +1,8 @@
 {
   "unversionedId": "expert/server",
   "id": "expert/server",
-  "title": "server",
-  "description": "",
+  "title": "Server",
+  "description": "On the server (/apps/server) you'll implement your endpoints and make them available to the public.",
   "source": "@site/../../docs/expert/3.server.md",
   "sourceDirName": "expert",
   "slug": "/expert/server",
@@ -15,11 +15,11 @@
   "frontMatter": {},
   "sidebar": "courseSidebar",
   "previous": {
-    "title": "core",
+    "title": "Core",
     "permalink": "/expert/core"
   },
   "next": {
-    "title": "ui",
+    "title": "UI",
     "permalink": "/expert/ui"
   }
 }

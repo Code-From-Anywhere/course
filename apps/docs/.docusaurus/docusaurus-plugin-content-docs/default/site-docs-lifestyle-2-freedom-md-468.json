@@ -1,8 +1,8 @@
 {
   "unversionedId": "lifestyle/freedom",
   "id": "lifestyle/freedom",
-  "title": "freedom",
-  "description": "",
+  "title": "Freedom",
+  "description": "Coming soon",
   "source": "@site/../../docs/lifestyle/2.freedom.md",
   "sourceDirName": "lifestyle",
   "slug": "/lifestyle/freedom",
@@ -15,11 +15,11 @@
   "frontMatter": {},
   "sidebar": "courseSidebar",
   "previous": {
-    "title": "finance",
+    "title": "Finance",
     "permalink": "/lifestyle/finance"
   },
   "next": {
-    "title": "entrepreneurship",
+    "title": "Entrepreneurship",
     "permalink": "/lifestyle/entrepreneurship"
   }
 }

@@ -1,8 +1,8 @@
 {
   "unversionedId": "expert/sensible",
   "id": "expert/sensible",
-  "title": "sensible",
-  "description": "",
+  "title": "Going full stack",
+  "description": "Let's go full stack baby! Yes, that's right.",
   "source": "@site/../../docs/expert/1.sensible.md",
   "sourceDirName": "expert",
   "slug": "/expert/sensible",
@@ -19,7 +19,7 @@
     "permalink": "/category/-expert"
   },
   "next": {
-    "title": "core",
+    "title": "Core",
     "permalink": "/expert/core"
   }
 }

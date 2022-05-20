@@ -1,8 +1,8 @@
 {
   "unversionedId": "expert/ui",
   "id": "expert/ui",
-  "title": "ui",
-  "description": "",
+  "title": "UI",
+  "description": "In the /packages/ui folder you'll create most of your UI. This UI can be shared with multiple frontends this way, not just Next.js!",
   "source": "@site/../../docs/expert/4.ui.md",
   "sourceDirName": "expert",
   "slug": "/expert/ui",
@@ -15,11 +15,11 @@
   "frontMatter": {},
   "sidebar": "courseSidebar",
   "previous": {
-    "title": "server",
+    "title": "Server",
     "permalink": "/expert/server"
   },
   "next": {
-    "title": "dev-dashboard",
+    "title": "Dev Dashboard",
     "permalink": "/expert/dev-dashboard"
   }
 }

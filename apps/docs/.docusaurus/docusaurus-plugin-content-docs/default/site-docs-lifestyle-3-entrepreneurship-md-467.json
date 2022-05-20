@@ -1,8 +1,8 @@
 {
   "unversionedId": "lifestyle/entrepreneurship",
   "id": "lifestyle/entrepreneurship",
-  "title": "entrepreneurship",
-  "description": "",
+  "title": "Entrepreneurship",
+  "description": "Coming soon",
   "source": "@site/../../docs/lifestyle/3.entrepreneurship.md",
   "sourceDirName": "lifestyle",
   "slug": "/lifestyle/entrepreneurship",
@@ -15,11 +15,11 @@
   "frontMatter": {},
   "sidebar": "courseSidebar",
   "previous": {
-    "title": "freedom",
+    "title": "Freedom",
     "permalink": "/lifestyle/freedom"
   },
   "next": {
-    "title": "become-a-wizard",
+    "title": "Become a wizard",
     "permalink": "/lifestyle/become-a-wizard"
   }
 }

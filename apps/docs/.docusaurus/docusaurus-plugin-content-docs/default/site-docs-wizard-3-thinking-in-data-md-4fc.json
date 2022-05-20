@@ -1,8 +1,8 @@
 {
   "unversionedId": "wizard/thinking-in-data",
   "id": "wizard/thinking-in-data",
-  "title": "thinking-in-data",
-  "description": "",
+  "title": "Thinking in data",
+  "description": "Coming soon",
   "source": "@site/../../docs/wizard/3.thinking-in-data.md",
   "sourceDirName": "wizard",
   "slug": "/wizard/thinking-in-data",
@@ -15,11 +15,11 @@
   "frontMatter": {},
   "sidebar": "courseSidebar",
   "previous": {
-    "title": "decentralised-architectures",
+    "title": "Decentralised architectures",
     "permalink": "/wizard/decentralised-architectures"
   },
   "next": {
-    "title": "automation",
+    "title": "Automation",
     "permalink": "/wizard/automation"
   }
 }

@@ -1,0 +1,25 @@
+{
+  "unversionedId": "expert/what-now",
+  "id": "expert/what-now",
+  "title": "What's next?",
+  "description": "You're now a full-stack developer. You may not know everything of course... But you'll know the basics. Just get that €75 an hour freelancing gig, and keep reading!",
+  "source": "@site/../../docs/expert/8.what-now.md",
+  "sourceDirName": "expert",
+  "slug": "/expert/what-now",
+  "permalink": "/expert/what-now",
+  "draft": false,
+  "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/expert/8.what-now.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {},
+  "sidebar": "courseSidebar",
+  "previous": {
+    "title": "Deploying with expo",
+    "permalink": "/expert/deploy-expo-app"
+  },
+  "next": {
+    "title": "🧙‍♂️ Wizard",
+    "permalink": "/category/️-wizard"
+  }
+}

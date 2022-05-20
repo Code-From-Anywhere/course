@@ -111,16 +111,6 @@
               "sidebar": "courseSidebar"
             },
             {
-              "id": "expert/distribution",
-              "path": "/expert/distribution",
-              "sidebar": "courseSidebar"
-            },
-            {
-              "id": "expert/monetisation",
-              "path": "/expert/monetisation",
-              "sidebar": "courseSidebar"
-            },
-            {
               "id": "expert/sensible",
               "path": "/expert/sensible",
               "sidebar": "courseSidebar"
@@ -133,6 +123,11 @@
             {
               "id": "expert/ui",
               "path": "/expert/ui",
+              "sidebar": "courseSidebar"
+            },
+            {
+              "id": "expert/what-now",
+              "path": "/expert/what-now",
               "sidebar": "courseSidebar"
             },
             {
@@ -171,23 +166,13 @@
               "sidebar": "courseSidebar"
             },
             {
-              "id": "wizard/distribution",
-              "path": "/wizard/distribution",
-              "sidebar": "courseSidebar"
-            },
-            {
               "id": "wizard/metascripting",
               "path": "/wizard/metascripting",
               "sidebar": "courseSidebar"
             },
             {
-              "id": "wizard/monetisation",
-              "path": "/wizard/monetisation",
-              "sidebar": "courseSidebar"
-            },
-            {
-              "id": "wizard/other-envrionmends",
-              "path": "/wizard/other-envrionmends",
+              "id": "wizard/other-envrionments",
+              "path": "/wizard/other-envrionments",
               "sidebar": "courseSidebar"
             },
             {

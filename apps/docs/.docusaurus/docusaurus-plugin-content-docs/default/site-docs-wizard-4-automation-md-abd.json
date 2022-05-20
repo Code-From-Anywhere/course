@@ -1,8 +1,8 @@
 {
   "unversionedId": "wizard/automation",
   "id": "wizard/automation",
-  "title": "automation",
-  "description": "",
+  "title": "Automation",
+  "description": "Coming soon",
   "source": "@site/../../docs/wizard/4.automation.md",
   "sourceDirName": "wizard",
   "slug": "/wizard/automation",
@@ -15,11 +15,11 @@
   "frontMatter": {},
   "sidebar": "courseSidebar",
   "previous": {
-    "title": "thinking-in-data",
+    "title": "Thinking in data",
     "permalink": "/wizard/thinking-in-data"
   },
   "next": {
-    "title": "metascripting",
+    "title": "Metascripting",
     "permalink": "/wizard/metascripting"
   }
 }

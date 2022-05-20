@@ -1,7 +1,7 @@
 {
   "unversionedId": "expert/distribution",
   "id": "expert/distribution",
-  "title": "distribution",
+  "title": "What's next?",
   "description": "",
   "source": "@site/../../docs/expert/8.distribution.md",
   "sourceDirName": "expert",
@@ -15,7 +15,7 @@
   "frontMatter": {},
   "sidebar": "courseSidebar",
   "previous": {
-    "title": "deploy-expo-app",
+    "title": "Deploying with expo",
     "permalink": "/expert/deploy-expo-app"
   },
   "next": {

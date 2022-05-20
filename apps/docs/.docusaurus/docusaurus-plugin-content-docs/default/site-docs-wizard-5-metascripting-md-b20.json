@@ -1,8 +1,8 @@
 {
   "unversionedId": "wizard/metascripting",
   "id": "wizard/metascripting",
-  "title": "metascripting",
-  "description": "",
+  "title": "Metascripting",
+  "description": "Coming soon",
   "source": "@site/../../docs/wizard/5.metascripting.md",
   "sourceDirName": "wizard",
   "slug": "/wizard/metascripting",
@@ -15,11 +15,11 @@
   "frontMatter": {},
   "sidebar": "courseSidebar",
   "previous": {
-    "title": "automation",
+    "title": "Automation",
     "permalink": "/wizard/automation"
   },
   "next": {
-    "title": "typescript-introspection",
+    "title": "Typescript introspection",
     "permalink": "/wizard/typescript-introspection"
   }
 }

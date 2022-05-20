@@ -1,8 +1,8 @@
 {
   "unversionedId": "expert/dev-dashboard",
   "id": "expert/dev-dashboard",
-  "title": "dev-dashboard",
-  "description": "",
+  "title": "Dev Dashboard",
+  "description": "On the dev dashboard you'll find all you need to know about your app",
   "source": "@site/../../docs/expert/5.dev-dashboard.md",
   "sourceDirName": "expert",
   "slug": "/expert/dev-dashboard",
@@ -15,11 +15,11 @@
   "frontMatter": {},
   "sidebar": "courseSidebar",
   "previous": {
-    "title": "ui",
+    "title": "UI",
     "permalink": "/expert/ui"
   },
   "next": {
-    "title": "deploy-backend",
+    "title": "Deploy backend",
     "permalink": "/expert/deploy-backend"
   }
 }

@@ -1,8 +1,8 @@
 {
   "unversionedId": "expert/deploy-expo-app",
   "id": "expert/deploy-expo-app",
-  "title": "deploy-expo-app",
-  "description": "",
+  "title": "Deploying with expo",
+  "description": "Once you shared the UI with react-with-native your app should also work fine on native cross-platform mobile with sensible's built-in expo support.",
   "source": "@site/../../docs/expert/7.deploy-expo-app.md",
   "sourceDirName": "expert",
   "slug": "/expert/deploy-expo-app",
@@ -15,11 +15,11 @@
   "frontMatter": {},
   "sidebar": "courseSidebar",
   "previous": {
-    "title": "deploy-backend",
+    "title": "Deploy backend",
     "permalink": "/expert/deploy-backend"
   },
   "next": {
-    "title": "distribution",
-    "permalink": "/expert/distribution"
+    "title": "What's next?",
+    "permalink": "/expert/what-now"
   }
 }

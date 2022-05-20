@@ -1,8 +1,8 @@
 {
   "unversionedId": "lifestyle/become-a-wizard",
   "id": "lifestyle/become-a-wizard",
-  "title": "become-a-wizard",
-  "description": "",
+  "title": "Become a wizard",
+  "description": "Coming soon",
   "source": "@site/../../docs/lifestyle/4.become-a-wizard.md",
   "sourceDirName": "lifestyle",
   "slug": "/lifestyle/become-a-wizard",
@@ -15,7 +15,7 @@
   "frontMatter": {},
   "sidebar": "courseSidebar",
   "previous": {
-    "title": "entrepreneurship",
+    "title": "Entrepreneurship",
     "permalink": "/lifestyle/entrepreneurship"
   }
 }

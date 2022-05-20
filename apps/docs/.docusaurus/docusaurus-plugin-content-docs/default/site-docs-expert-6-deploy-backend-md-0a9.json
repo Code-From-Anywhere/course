@@ -1,8 +1,8 @@
 {
   "unversionedId": "expert/deploy-backend",
   "id": "expert/deploy-backend",
-  "title": "deploy-backend",
-  "description": "",
+  "title": "Deploy backend",
+  "description": "This is a big one!",
   "source": "@site/../../docs/expert/6.deploy-backend.md",
   "sourceDirName": "expert",
   "slug": "/expert/deploy-backend",
@@ -15,11 +15,11 @@
   "frontMatter": {},
   "sidebar": "courseSidebar",
   "previous": {
-    "title": "dev-dashboard",
+    "title": "Dev Dashboard",
     "permalink": "/expert/dev-dashboard"
   },
   "next": {
-    "title": "deploy-expo-app",
+    "title": "Deploying with expo",
     "permalink": "/expert/deploy-expo-app"
   }
 }

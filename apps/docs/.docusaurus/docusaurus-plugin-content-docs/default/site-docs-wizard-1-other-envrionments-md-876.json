@@ -1,0 +1,25 @@
+{
+  "unversionedId": "wizard/other-envrionments",
+  "id": "wizard/other-envrionments",
+  "title": "Other environments",
+  "description": "VSCode",
+  "source": "@site/../../docs/wizard/1.other-envrionments.md",
+  "sourceDirName": "wizard",
+  "slug": "/wizard/other-envrionments",
+  "permalink": "/wizard/other-envrionments",
+  "draft": false,
+  "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/wizard/1.other-envrionments.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {},
+  "sidebar": "courseSidebar",
+  "previous": {
+    "title": "🧙‍♂️ Wizard",
+    "permalink": "/category/️-wizard"
+  },
+  "next": {
+    "title": "Decentralised architectures",
+    "permalink": "/wizard/decentralised-architectures"
+  }
+}

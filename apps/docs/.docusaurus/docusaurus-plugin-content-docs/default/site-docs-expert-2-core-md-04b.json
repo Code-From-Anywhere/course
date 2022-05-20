@@ -1,8 +1,8 @@
 {
   "unversionedId": "expert/core",
   "id": "expert/core",
-  "title": "core",
-  "description": "",
+  "title": "Core",
+  "description": "In /packages/core you'll want to define your type interfaces and endpoints.",
   "source": "@site/../../docs/expert/2.core.md",
   "sourceDirName": "expert",
   "slug": "/expert/core",
@@ -15,11 +15,11 @@
   "frontMatter": {},
   "sidebar": "courseSidebar",
   "previous": {
-    "title": "sensible",
+    "title": "Going full stack",
     "permalink": "/expert/sensible"
   },
   "next": {
-    "title": "server",
+    "title": "Server",
     "permalink": "/expert/server"
   }
 }

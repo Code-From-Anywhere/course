@@ -1,0 +1,25 @@
+{
+  "unversionedId": "wizard/other-envrionmentys",
+  "id": "wizard/other-envrionmentys",
+  "title": "other-envrionmentys",
+  "description": "",
+  "source": "@site/../../docs/wizard/1.other-envrionmentys.md",
+  "sourceDirName": "wizard",
+  "slug": "/wizard/other-envrionmentys",
+  "permalink": "/wizard/other-envrionmentys",
+  "draft": false,
+  "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/wizard/1.other-envrionmentys.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {},
+  "sidebar": "courseSidebar",
+  "previous": {
+    "title": "🧙‍♂️ Wizard",
+    "permalink": "/category/️-wizard"
+  },
+  "next": {
+    "title": "decentralised-architectures",
+    "permalink": "/wizard/decentralised-architectures"
+  }
+}

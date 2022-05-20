@@ -130,57 +130,51 @@
         "items": [
           {
             "type": "link",
-            "label": "sensible",
+            "label": "Going full stack",
             "href": "/expert/sensible",
             "docId": "expert/sensible"
           },
           {
             "type": "link",
-            "label": "core",
+            "label": "Core",
             "href": "/expert/core",
             "docId": "expert/core"
           },
           {
             "type": "link",
-            "label": "server",
+            "label": "Server",
             "href": "/expert/server",
             "docId": "expert/server"
           },
           {
             "type": "link",
-            "label": "ui",
+            "label": "UI",
             "href": "/expert/ui",
             "docId": "expert/ui"
           },
           {
             "type": "link",
-            "label": "dev-dashboard",
+            "label": "Dev Dashboard",
             "href": "/expert/dev-dashboard",
             "docId": "expert/dev-dashboard"
           },
           {
             "type": "link",
-            "label": "deploy-backend",
+            "label": "Deploy backend",
             "href": "/expert/deploy-backend",
             "docId": "expert/deploy-backend"
           },
           {
             "type": "link",
-            "label": "deploy-expo-app",
+            "label": "Deploying with expo",
             "href": "/expert/deploy-expo-app",
             "docId": "expert/deploy-expo-app"
           },
           {
             "type": "link",
-            "label": "distribution",
-            "href": "/expert/distribution",
-            "docId": "expert/distribution"
-          },
-          {
-            "type": "link",
-            "label": "monetisation",
-            "href": "/expert/monetisation",
-            "docId": "expert/monetisation"
+            "label": "What's next?",
+            "href": "/expert/what-now",
+            "docId": "expert/what-now"
           }
         ],
         "href": "/category/-expert"
@@ -193,57 +187,45 @@
         "items": [
           {
             "type": "link",
-            "label": "other-envrionmends",
-            "href": "/wizard/other-envrionmends",
-            "docId": "wizard/other-envrionmends"
+            "label": "Other environments",
+            "href": "/wizard/other-envrionments",
+            "docId": "wizard/other-envrionments"
           },
           {
             "type": "link",
-            "label": "decentralised-architectures",
+            "label": "Decentralised architectures",
             "href": "/wizard/decentralised-architectures",
             "docId": "wizard/decentralised-architectures"
           },
           {
             "type": "link",
-            "label": "thinking-in-data",
+            "label": "Thinking in data",
             "href": "/wizard/thinking-in-data",
             "docId": "wizard/thinking-in-data"
           },
           {
             "type": "link",
-            "label": "automation",
+            "label": "Automation",
             "href": "/wizard/automation",
             "docId": "wizard/automation"
           },
           {
             "type": "link",
-            "label": "metascripting",
+            "label": "Metascripting",
             "href": "/wizard/metascripting",
             "docId": "wizard/metascripting"
           },
           {
             "type": "link",
-            "label": "typescript-introspection",
+            "label": "Typescript introspection",
             "href": "/wizard/typescript-introspection",
             "docId": "wizard/typescript-introspection"
           },
           {
             "type": "link",
-            "label": "conventions-standards",
+            "label": "Conventions & standards",
             "href": "/wizard/conventions-standards",
             "docId": "wizard/conventions-standards"
-          },
-          {
-            "type": "link",
-            "label": "distribution",
-            "href": "/wizard/distribution",
-            "docId": "wizard/distribution"
-          },
-          {
-            "type": "link",
-            "label": "monetisation",
-            "href": "/wizard/monetisation",
-            "docId": "wizard/monetisation"
           }
         ],
         "href": "/category/️-wizard"
@@ -256,25 +238,25 @@
         "items": [
           {
             "type": "link",
-            "label": "finance",
+            "label": "Finance",
             "href": "/lifestyle/finance",
             "docId": "lifestyle/finance"
           },
           {
             "type": "link",
-            "label": "freedom",
+            "label": "Freedom",
             "href": "/lifestyle/freedom",
             "docId": "lifestyle/freedom"
           },
           {
             "type": "link",
-            "label": "entrepreneurship",
+            "label": "Entrepreneurship",
             "href": "/lifestyle/entrepreneurship",
             "docId": "lifestyle/entrepreneurship"
           },
           {
             "type": "link",
-            "label": "become-a-wizard",
+            "label": "Become a wizard",
             "href": "/lifestyle/become-a-wizard",
             "docId": "lifestyle/become-a-wizard"
           }
@@ -382,134 +364,116 @@
     },
     "expert/core": {
       "id": "expert/core",
-      "title": "core",
-      "description": "",
+      "title": "Core",
+      "description": "In /packages/core you'll want to define your type interfaces and endpoints.",
       "sidebar": "courseSidebar"
     },
     "expert/deploy-backend": {
       "id": "expert/deploy-backend",
-      "title": "deploy-backend",
-      "description": "",
+      "title": "Deploy backend",
+      "description": "This is a big one!",
       "sidebar": "courseSidebar"
     },
     "expert/deploy-expo-app": {
       "id": "expert/deploy-expo-app",
-      "title": "deploy-expo-app",
-      "description": "",
+      "title": "Deploying with expo",
+      "description": "Once you shared the UI with react-with-native your app should also work fine on native cross-platform mobile with sensible's built-in expo support.",
       "sidebar": "courseSidebar"
     },
     "expert/dev-dashboard": {
       "id": "expert/dev-dashboard",
-      "title": "dev-dashboard",
-      "description": "",
-      "sidebar": "courseSidebar"
-    },
-    "expert/distribution": {
-      "id": "expert/distribution",
-      "title": "distribution",
-      "description": "",
-      "sidebar": "courseSidebar"
-    },
-    "expert/monetisation": {
-      "id": "expert/monetisation",
-      "title": "monetisation",
-      "description": "",
+      "title": "Dev Dashboard",
+      "description": "On the dev dashboard you'll find all you need to know about your app",
       "sidebar": "courseSidebar"
     },
     "expert/sensible": {
       "id": "expert/sensible",
-      "title": "sensible",
-      "description": "",
+      "title": "Going full stack",
+      "description": "Let's go full stack baby! Yes, that's right.",
       "sidebar": "courseSidebar"
     },
     "expert/server": {
       "id": "expert/server",
-      "title": "server",
-      "description": "",
+      "title": "Server",
+      "description": "On the server (/apps/server) you'll implement your endpoints and make them available to the public.",
       "sidebar": "courseSidebar"
     },
     "expert/ui": {
       "id": "expert/ui",
-      "title": "ui",
-      "description": "",
+      "title": "UI",
+      "description": "In the /packages/ui folder you'll create most of your UI. This UI can be shared with multiple frontends this way, not just Next.js!",
+      "sidebar": "courseSidebar"
+    },
+    "expert/what-now": {
+      "id": "expert/what-now",
+      "title": "What's next?",
+      "description": "You're now a full-stack developer. You may not know everything of course... But you'll know the basics. Just get that €75 an hour freelancing gig, and keep reading!",
       "sidebar": "courseSidebar"
     },
     "lifestyle/become-a-wizard": {
       "id": "lifestyle/become-a-wizard",
-      "title": "become-a-wizard",
-      "description": "",
+      "title": "Become a wizard",
+      "description": "Coming soon",
       "sidebar": "courseSidebar"
     },
     "lifestyle/entrepreneurship": {
       "id": "lifestyle/entrepreneurship",
-      "title": "entrepreneurship",
-      "description": "",
+      "title": "Entrepreneurship",
+      "description": "Coming soon",
       "sidebar": "courseSidebar"
     },
     "lifestyle/finance": {
       "id": "lifestyle/finance",
-      "title": "finance",
-      "description": "",
+      "title": "Finance",
+      "description": "Coming soon",
       "sidebar": "courseSidebar"
     },
     "lifestyle/freedom": {
       "id": "lifestyle/freedom",
-      "title": "freedom",
-      "description": "",
+      "title": "Freedom",
+      "description": "Coming soon",
       "sidebar": "courseSidebar"
     },
     "wizard/automation": {
       "id": "wizard/automation",
-      "title": "automation",
-      "description": "",
+      "title": "Automation",
+      "description": "Coming soon",
       "sidebar": "courseSidebar"
     },
     "wizard/conventions-standards": {
       "id": "wizard/conventions-standards",
-      "title": "conventions-standards",
-      "description": "",
+      "title": "Conventions & standards",
+      "description": "Coming soon",
       "sidebar": "courseSidebar"
     },
     "wizard/decentralised-architectures": {
       "id": "wizard/decentralised-architectures",
-      "title": "decentralised-architectures",
-      "description": "",
-      "sidebar": "courseSidebar"
-    },
-    "wizard/distribution": {
-      "id": "wizard/distribution",
-      "title": "distribution",
-      "description": "",
+      "title": "Decentralised architectures",
+      "description": "Coming soon...",
       "sidebar": "courseSidebar"
     },
     "wizard/metascripting": {
       "id": "wizard/metascripting",
-      "title": "metascripting",
-      "description": "",
+      "title": "Metascripting",
+      "description": "Coming soon",
       "sidebar": "courseSidebar"
     },
-    "wizard/monetisation": {
-      "id": "wizard/monetisation",
-      "title": "monetisation",
-      "description": "",
-      "sidebar": "courseSidebar"
-    },
-    "wizard/other-envrionmends": {
-      "id": "wizard/other-envrionmends",
-      "title": "other-envrionmends",
-      "description": "",
+    "wizard/other-envrionments": {
+      "id": "wizard/other-envrionments",
+      "title": "Other environments",
+      "description": "VSCode",
       "sidebar": "courseSidebar"
     },
     "wizard/thinking-in-data": {
       "id": "wizard/thinking-in-data",
-      "title": "thinking-in-data",
-      "description": "",
+      "title": "Thinking in data",
+      "description": "Coming soon",
       "sidebar": "courseSidebar"
     },
     "wizard/typescript-introspection": {
       "id": "wizard/typescript-introspection",
-      "title": "typescript-introspection",
-      "description": "",
+      "title": "Typescript introspection",
+      "description": "Coming soon",
       "sidebar": "courseSidebar"
     }
   }

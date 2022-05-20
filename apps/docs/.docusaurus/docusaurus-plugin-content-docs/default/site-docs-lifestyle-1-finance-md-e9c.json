@@ -1,8 +1,8 @@
 {
   "unversionedId": "lifestyle/finance",
   "id": "lifestyle/finance",
-  "title": "finance",
-  "description": "",
+  "title": "Finance",
+  "description": "Coming soon",
   "source": "@site/../../docs/lifestyle/1.finance.md",
   "sourceDirName": "lifestyle",
   "slug": "/lifestyle/finance",
@@ -19,7 +19,7 @@
     "permalink": "/category/-lifestyle"
   },
   "next": {
-    "title": "freedom",
+    "title": "Freedom",
     "permalink": "/lifestyle/freedom"
   }
 }

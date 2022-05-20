@@ -3,29 +3,6 @@
 - Make it possible for users to create social media posts from every page
 - Make it possible for trusted CFA members to approve those posts and sort them
 
-**COMPETENT**
-
-- react, nextjs (compile to html): functional components, props, events, useState, useEffect
-- deploy frontend: vercel, domains, dns
-- data storage (variable storage, localstorage, json storage, markdown storage, useState, context->useStore)
-- tailwind (compile to css): setup, abbreviations
-- npm packages
-- config: package.json (scripts, (dev)Dependencies, workspaces, eslint, prettier
-- distribution
-- monetisation
-
-**EXPERT**
-
-- sensible: why, birdseye, setup
-- core: why, types, operations, user-actions, endpoints
-- server: nodejs intro, lib, cli, api, storage, makeEndpoint
-- ui: react-with-native for expo support (cover beginner + competent and show the difference), api
-- dev dashboard (docs, recents, errors, api interactions)
-- deploy backend: macos nginx, ubuntu nginx
-- deploy expo app
-- distribution
-- monetisation
-
 **WIZARD**
 
 - other environments: vscode, chrome, electron

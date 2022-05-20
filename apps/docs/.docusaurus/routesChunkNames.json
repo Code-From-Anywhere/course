@@ -49,7 +49,7 @@
     },
     "config": "config---5-e-9-4f3"
   },
-  "/-bbb": {
+  "/-b0d": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
       "plugin": "plugin---049-9ad"
@@ -156,14 +156,6 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---expert-dev-dashboard-9-ce-6ab"
   },
-  "/expert/distribution-bbc": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---expert-distribution-7-fc-057"
-  },
-  "/expert/monetisation-231": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---expert-monetisationd-60-cee"
-  },
   "/expert/sensible-0df": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---expert-sensible-1-e-0-9b6"
@@ -175,6 +167,10 @@
   "/expert/ui-070": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---expert-ui-14-e-2a0"
+  },
+  "/expert/what-now-376": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---expert-what-now-10-c-967"
   },
   "/lifestyle/become-a-wizard-dea": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -204,21 +200,13 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---wizard-decentralised-architectures-9-f-5-225"
   },
-  "/wizard/distribution-1c0": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---wizard-distribution-436-ede"
-  },
   "/wizard/metascripting-81d": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---wizard-metascriptingb-20-592"
   },
-  "/wizard/monetisation-9d6": {
+  "/wizard/other-envrionments-de2": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---wizard-monetisation-799-e58"
-  },
-  "/wizard/other-envrionmends-81d": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---wizard-other-envrionmendsa-69-e3a"
+    "content": "content---wizard-other-envrionments-876-983"
   },
   "/wizard/thinking-in-data-20d": {
     "__comp": "__comp---theme-doc-item-178-a40",

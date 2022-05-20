@@ -1,8 +1,8 @@
 {
   "unversionedId": "wizard/typescript-introspection",
   "id": "wizard/typescript-introspection",
-  "title": "typescript-introspection",
-  "description": "",
+  "title": "Typescript introspection",
+  "description": "Coming soon",
   "source": "@site/../../docs/wizard/6.typescript-introspection.md",
   "sourceDirName": "wizard",
   "slug": "/wizard/typescript-introspection",
@@ -15,11 +15,11 @@
   "frontMatter": {},
   "sidebar": "courseSidebar",
   "previous": {
-    "title": "metascripting",
+    "title": "Metascripting",
     "permalink": "/wizard/metascripting"
   },
   "next": {
-    "title": "conventions-standards",
+    "title": "Conventions & standards",
     "permalink": "/wizard/conventions-standards"
   }
 }

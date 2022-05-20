@@ -1,8 +1,8 @@
 {
   "unversionedId": "wizard/decentralised-architectures",
   "id": "wizard/decentralised-architectures",
-  "title": "decentralised-architectures",
-  "description": "",
+  "title": "Decentralised architectures",
+  "description": "Coming soon...",
   "source": "@site/../../docs/wizard/2.decentralised-architectures.md",
   "sourceDirName": "wizard",
   "slug": "/wizard/decentralised-architectures",
@@ -15,11 +15,11 @@
   "frontMatter": {},
   "sidebar": "courseSidebar",
   "previous": {
-    "title": "other-envrionmends",
-    "permalink": "/wizard/other-envrionmends"
+    "title": "Other environments",
+    "permalink": "/wizard/other-envrionments"
   },
   "next": {
-    "title": "thinking-in-data",
+    "title": "Thinking in data",
     "permalink": "/wizard/thinking-in-data"
   }
 }

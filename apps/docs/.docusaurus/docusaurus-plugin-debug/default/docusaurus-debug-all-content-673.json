@@ -420,8 +420,8 @@
             {
               "unversionedId": "expert/core",
               "id": "expert/core",
-              "title": "core",
-              "description": "",
+              "title": "Core",
+              "description": "In /packages/core you'll want to define your type interfaces and endpoints.",
               "source": "@site/../../docs/expert/2.core.md",
               "sourceDirName": "expert",
               "slug": "/expert/core",
@@ -434,19 +434,19 @@
               "frontMatter": {},
               "sidebar": "courseSidebar",
               "previous": {
-                "title": "sensible",
+                "title": "Going full stack",
                 "permalink": "/expert/sensible"
               },
               "next": {
-                "title": "server",
+                "title": "Server",
                 "permalink": "/expert/server"
               }
             },
             {
               "unversionedId": "expert/deploy-backend",
               "id": "expert/deploy-backend",
-              "title": "deploy-backend",
-              "description": "",
+              "title": "Deploy backend",
+              "description": "This is a big one!",
               "source": "@site/../../docs/expert/6.deploy-backend.md",
               "sourceDirName": "expert",
               "slug": "/expert/deploy-backend",
@@ -459,19 +459,19 @@
               "frontMatter": {},
               "sidebar": "courseSidebar",
               "previous": {
-                "title": "dev-dashboard",
+                "title": "Dev Dashboard",
                 "permalink": "/expert/dev-dashboard"
               },
               "next": {
-                "title": "deploy-expo-app",
+                "title": "Deploying with expo",
                 "permalink": "/expert/deploy-expo-app"
               }
             },
             {
               "unversionedId": "expert/deploy-expo-app",
               "id": "expert/deploy-expo-app",
-              "title": "deploy-expo-app",
-              "description": "",
+              "title": "Deploying with expo",
+              "description": "Once you shared the UI with react-with-native your app should also work fine on native cross-platform mobile with sensible's built-in expo support.",
               "source": "@site/../../docs/expert/7.deploy-expo-app.md",
               "sourceDirName": "expert",
               "slug": "/expert/deploy-expo-app",
@@ -484,19 +484,19 @@
               "frontMatter": {},
               "sidebar": "courseSidebar",
               "previous": {
-                "title": "deploy-backend",
+                "title": "Deploy backend",
                 "permalink": "/expert/deploy-backend"
               },
               "next": {
-                "title": "distribution",
-                "permalink": "/expert/distribution"
+                "title": "What's next?",
+                "permalink": "/expert/what-now"
               }
             },
             {
               "unversionedId": "expert/dev-dashboard",
               "id": "expert/dev-dashboard",
-              "title": "dev-dashboard",
-              "description": "",
+              "title": "Dev Dashboard",
+              "description": "On the dev dashboard you'll find all you need to know about your app",
               "source": "@site/../../docs/expert/5.dev-dashboard.md",
               "sourceDirName": "expert",
               "slug": "/expert/dev-dashboard",
@@ -509,69 +509,19 @@
               "frontMatter": {},
               "sidebar": "courseSidebar",
               "previous": {
-                "title": "ui",
+                "title": "UI",
                 "permalink": "/expert/ui"
               },
               "next": {
-                "title": "deploy-backend",
+                "title": "Deploy backend",
                 "permalink": "/expert/deploy-backend"
-              }
-            },
-            {
-              "unversionedId": "expert/distribution",
-              "id": "expert/distribution",
-              "title": "distribution",
-              "description": "",
-              "source": "@site/../../docs/expert/8.distribution.md",
-              "sourceDirName": "expert",
-              "slug": "/expert/distribution",
-              "permalink": "/expert/distribution",
-              "draft": false,
-              "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/expert/8.distribution.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 8,
-              "frontMatter": {},
-              "sidebar": "courseSidebar",
-              "previous": {
-                "title": "deploy-expo-app",
-                "permalink": "/expert/deploy-expo-app"
-              },
-              "next": {
-                "title": "monetisation",
-                "permalink": "/expert/monetisation"
-              }
-            },
-            {
-              "unversionedId": "expert/monetisation",
-              "id": "expert/monetisation",
-              "title": "monetisation",
-              "description": "",
-              "source": "@site/../../docs/expert/9.monetisation.md",
-              "sourceDirName": "expert",
-              "slug": "/expert/monetisation",
-              "permalink": "/expert/monetisation",
-              "draft": false,
-              "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/expert/9.monetisation.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 9,
-              "frontMatter": {},
-              "sidebar": "courseSidebar",
-              "previous": {
-                "title": "distribution",
-                "permalink": "/expert/distribution"
-              },
-              "next": {
-                "title": "🧙‍♂️ Wizard",
-                "permalink": "/category/️-wizard"
               }
             },
             {
               "unversionedId": "expert/sensible",
               "id": "expert/sensible",
-              "title": "sensible",
-              "description": "",
+              "title": "Going full stack",
+              "description": "Let's go full stack baby! Yes, that's right.",
               "source": "@site/../../docs/expert/1.sensible.md",
               "sourceDirName": "expert",
               "slug": "/expert/sensible",
@@ -588,15 +538,15 @@
                 "permalink": "/category/-expert"
               },
               "next": {
-                "title": "core",
+                "title": "Core",
                 "permalink": "/expert/core"
               }
             },
             {
               "unversionedId": "expert/server",
               "id": "expert/server",
-              "title": "server",
-              "description": "",
+              "title": "Server",
+              "description": "On the server (/apps/server) you'll implement your endpoints and make them available to the public.",
               "source": "@site/../../docs/expert/3.server.md",
               "sourceDirName": "expert",
               "slug": "/expert/server",
@@ -609,19 +559,19 @@
               "frontMatter": {},
               "sidebar": "courseSidebar",
               "previous": {
-                "title": "core",
+                "title": "Core",
                 "permalink": "/expert/core"
               },
               "next": {
-                "title": "ui",
+                "title": "UI",
                 "permalink": "/expert/ui"
               }
             },
             {
               "unversionedId": "expert/ui",
               "id": "expert/ui",
-              "title": "ui",
-              "description": "",
+              "title": "UI",
+              "description": "In the /packages/ui folder you'll create most of your UI. This UI can be shared with multiple frontends this way, not just Next.js!",
               "source": "@site/../../docs/expert/4.ui.md",
               "sourceDirName": "expert",
               "slug": "/expert/ui",
@@ -634,19 +584,44 @@
               "frontMatter": {},
               "sidebar": "courseSidebar",
               "previous": {
-                "title": "server",
+                "title": "Server",
                 "permalink": "/expert/server"
               },
               "next": {
-                "title": "dev-dashboard",
+                "title": "Dev Dashboard",
                 "permalink": "/expert/dev-dashboard"
+              }
+            },
+            {
+              "unversionedId": "expert/what-now",
+              "id": "expert/what-now",
+              "title": "What's next?",
+              "description": "You're now a full-stack developer. You may not know everything of course... But you'll know the basics. Just get that €75 an hour freelancing gig, and keep reading!",
+              "source": "@site/../../docs/expert/8.what-now.md",
+              "sourceDirName": "expert",
+              "slug": "/expert/what-now",
+              "permalink": "/expert/what-now",
+              "draft": false,
+              "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/expert/8.what-now.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 8,
+              "frontMatter": {},
+              "sidebar": "courseSidebar",
+              "previous": {
+                "title": "Deploying with expo",
+                "permalink": "/expert/deploy-expo-app"
+              },
+              "next": {
+                "title": "🧙‍♂️ Wizard",
+                "permalink": "/category/️-wizard"
               }
             },
             {
               "unversionedId": "lifestyle/become-a-wizard",
               "id": "lifestyle/become-a-wizard",
-              "title": "become-a-wizard",
-              "description": "",
+              "title": "Become a wizard",
+              "description": "Coming soon",
               "source": "@site/../../docs/lifestyle/4.become-a-wizard.md",
               "sourceDirName": "lifestyle",
               "slug": "/lifestyle/become-a-wizard",
@@ -659,15 +634,15 @@
               "frontMatter": {},
               "sidebar": "courseSidebar",
               "previous": {
-                "title": "entrepreneurship",
+                "title": "Entrepreneurship",
                 "permalink": "/lifestyle/entrepreneurship"
               }
             },
             {
               "unversionedId": "lifestyle/entrepreneurship",
               "id": "lifestyle/entrepreneurship",
-              "title": "entrepreneurship",
-              "description": "",
+              "title": "Entrepreneurship",
+              "description": "Coming soon",
               "source": "@site/../../docs/lifestyle/3.entrepreneurship.md",
               "sourceDirName": "lifestyle",
               "slug": "/lifestyle/entrepreneurship",
@@ -680,19 +655,19 @@
               "frontMatter": {},
               "sidebar": "courseSidebar",
               "previous": {
-                "title": "freedom",
+                "title": "Freedom",
                 "permalink": "/lifestyle/freedom"
               },
               "next": {
-                "title": "become-a-wizard",
+                "title": "Become a wizard",
                 "permalink": "/lifestyle/become-a-wizard"
               }
             },
             {
               "unversionedId": "lifestyle/finance",
               "id": "lifestyle/finance",
-              "title": "finance",
-              "description": "",
+              "title": "Finance",
+              "description": "Coming soon",
               "source": "@site/../../docs/lifestyle/1.finance.md",
               "sourceDirName": "lifestyle",
               "slug": "/lifestyle/finance",
@@ -709,15 +684,15 @@
                 "permalink": "/category/-lifestyle"
               },
               "next": {
-                "title": "freedom",
+                "title": "Freedom",
                 "permalink": "/lifestyle/freedom"
               }
             },
             {
               "unversionedId": "lifestyle/freedom",
               "id": "lifestyle/freedom",
-              "title": "freedom",
-              "description": "",
+              "title": "Freedom",
+              "description": "Coming soon",
               "source": "@site/../../docs/lifestyle/2.freedom.md",
               "sourceDirName": "lifestyle",
               "slug": "/lifestyle/freedom",
@@ -730,19 +705,19 @@
               "frontMatter": {},
               "sidebar": "courseSidebar",
               "previous": {
-                "title": "finance",
+                "title": "Finance",
                 "permalink": "/lifestyle/finance"
               },
               "next": {
-                "title": "entrepreneurship",
+                "title": "Entrepreneurship",
                 "permalink": "/lifestyle/entrepreneurship"
               }
             },
             {
               "unversionedId": "wizard/automation",
               "id": "wizard/automation",
-              "title": "automation",
-              "description": "",
+              "title": "Automation",
+              "description": "Coming soon",
               "source": "@site/../../docs/wizard/4.automation.md",
               "sourceDirName": "wizard",
               "slug": "/wizard/automation",
@@ -755,19 +730,19 @@
               "frontMatter": {},
               "sidebar": "courseSidebar",
               "previous": {
-                "title": "thinking-in-data",
+                "title": "Thinking in data",
                 "permalink": "/wizard/thinking-in-data"
               },
               "next": {
-                "title": "metascripting",
+                "title": "Metascripting",
                 "permalink": "/wizard/metascripting"
               }
             },
             {
               "unversionedId": "wizard/conventions-standards",
               "id": "wizard/conventions-standards",
-              "title": "conventions-standards",
-              "description": "",
+              "title": "Conventions & standards",
+              "description": "Coming soon",
               "source": "@site/../../docs/wizard/7.conventions-standards.md",
               "sourceDirName": "wizard",
               "slug": "/wizard/conventions-standards",
@@ -780,19 +755,19 @@
               "frontMatter": {},
               "sidebar": "courseSidebar",
               "previous": {
-                "title": "typescript-introspection",
+                "title": "Typescript introspection",
                 "permalink": "/wizard/typescript-introspection"
               },
               "next": {
-                "title": "distribution",
-                "permalink": "/wizard/distribution"
+                "title": "🏝 Lifestyle",
+                "permalink": "/category/-lifestyle"
               }
             },
             {
               "unversionedId": "wizard/decentralised-architectures",
               "id": "wizard/decentralised-architectures",
-              "title": "decentralised-architectures",
-              "description": "",
+              "title": "Decentralised architectures",
+              "description": "Coming soon...",
               "source": "@site/../../docs/wizard/2.decentralised-architectures.md",
               "sourceDirName": "wizard",
               "slug": "/wizard/decentralised-architectures",
@@ -805,44 +780,19 @@
               "frontMatter": {},
               "sidebar": "courseSidebar",
               "previous": {
-                "title": "other-envrionmends",
-                "permalink": "/wizard/other-envrionmends"
+                "title": "Other environments",
+                "permalink": "/wizard/other-envrionments"
               },
               "next": {
-                "title": "thinking-in-data",
+                "title": "Thinking in data",
                 "permalink": "/wizard/thinking-in-data"
-              }
-            },
-            {
-              "unversionedId": "wizard/distribution",
-              "id": "wizard/distribution",
-              "title": "distribution",
-              "description": "",
-              "source": "@site/../../docs/wizard/8.distribution.md",
-              "sourceDirName": "wizard",
-              "slug": "/wizard/distribution",
-              "permalink": "/wizard/distribution",
-              "draft": false,
-              "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/wizard/8.distribution.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 8,
-              "frontMatter": {},
-              "sidebar": "courseSidebar",
-              "previous": {
-                "title": "conventions-standards",
-                "permalink": "/wizard/conventions-standards"
-              },
-              "next": {
-                "title": "monetisation",
-                "permalink": "/wizard/monetisation"
               }
             },
             {
               "unversionedId": "wizard/metascripting",
               "id": "wizard/metascripting",
-              "title": "metascripting",
-              "description": "",
+              "title": "Metascripting",
+              "description": "Coming soon",
               "source": "@site/../../docs/wizard/5.metascripting.md",
               "sourceDirName": "wizard",
               "slug": "/wizard/metascripting",
@@ -855,50 +805,25 @@
               "frontMatter": {},
               "sidebar": "courseSidebar",
               "previous": {
-                "title": "automation",
+                "title": "Automation",
                 "permalink": "/wizard/automation"
               },
               "next": {
-                "title": "typescript-introspection",
+                "title": "Typescript introspection",
                 "permalink": "/wizard/typescript-introspection"
               }
             },
             {
-              "unversionedId": "wizard/monetisation",
-              "id": "wizard/monetisation",
-              "title": "monetisation",
-              "description": "",
-              "source": "@site/../../docs/wizard/9.monetisation.md",
+              "unversionedId": "wizard/other-envrionments",
+              "id": "wizard/other-envrionments",
+              "title": "Other environments",
+              "description": "VSCode",
+              "source": "@site/../../docs/wizard/1.other-envrionments.md",
               "sourceDirName": "wizard",
-              "slug": "/wizard/monetisation",
-              "permalink": "/wizard/monetisation",
+              "slug": "/wizard/other-envrionments",
+              "permalink": "/wizard/other-envrionments",
               "draft": false,
-              "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/wizard/9.monetisation.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 9,
-              "frontMatter": {},
-              "sidebar": "courseSidebar",
-              "previous": {
-                "title": "distribution",
-                "permalink": "/wizard/distribution"
-              },
-              "next": {
-                "title": "🏝 Lifestyle",
-                "permalink": "/category/-lifestyle"
-              }
-            },
-            {
-              "unversionedId": "wizard/other-envrionmends",
-              "id": "wizard/other-envrionmends",
-              "title": "other-envrionmends",
-              "description": "",
-              "source": "@site/../../docs/wizard/1.other-envrionmends.md",
-              "sourceDirName": "wizard",
-              "slug": "/wizard/other-envrionmends",
-              "permalink": "/wizard/other-envrionmends",
-              "draft": false,
-              "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/wizard/1.other-envrionmends.md",
+              "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/wizard/1.other-envrionments.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 1,
@@ -909,15 +834,15 @@
                 "permalink": "/category/️-wizard"
               },
               "next": {
-                "title": "decentralised-architectures",
+                "title": "Decentralised architectures",
                 "permalink": "/wizard/decentralised-architectures"
               }
             },
             {
               "unversionedId": "wizard/thinking-in-data",
               "id": "wizard/thinking-in-data",
-              "title": "thinking-in-data",
-              "description": "",
+              "title": "Thinking in data",
+              "description": "Coming soon",
               "source": "@site/../../docs/wizard/3.thinking-in-data.md",
               "sourceDirName": "wizard",
               "slug": "/wizard/thinking-in-data",
@@ -930,19 +855,19 @@
               "frontMatter": {},
               "sidebar": "courseSidebar",
               "previous": {
-                "title": "decentralised-architectures",
+                "title": "Decentralised architectures",
                 "permalink": "/wizard/decentralised-architectures"
               },
               "next": {
-                "title": "automation",
+                "title": "Automation",
                 "permalink": "/wizard/automation"
               }
             },
             {
               "unversionedId": "wizard/typescript-introspection",
               "id": "wizard/typescript-introspection",
-              "title": "typescript-introspection",
-              "description": "",
+              "title": "Typescript introspection",
+              "description": "Coming soon",
               "source": "@site/../../docs/wizard/6.typescript-introspection.md",
               "sourceDirName": "wizard",
               "slug": "/wizard/typescript-introspection",
@@ -955,11 +880,11 @@
               "frontMatter": {},
               "sidebar": "courseSidebar",
               "previous": {
-                "title": "metascripting",
+                "title": "Metascripting",
                 "permalink": "/wizard/metascripting"
               },
               "next": {
-                "title": "conventions-standards",
+                "title": "Conventions & standards",
                 "permalink": "/wizard/conventions-standards"
               }
             }
@@ -1094,11 +1019,7 @@
                   },
                   {
                     "type": "doc",
-                    "id": "expert/distribution"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "expert/monetisation"
+                    "id": "expert/what-now"
                   }
                 ],
                 "link": {
@@ -1115,7 +1036,7 @@
                 "items": [
                   {
                     "type": "doc",
-                    "id": "wizard/other-envrionmends"
+                    "id": "wizard/other-envrionments"
                   },
                   {
                     "type": "doc",
@@ -1140,14 +1061,6 @@
                   {
                     "type": "doc",
                     "id": "wizard/conventions-standards"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "wizard/distribution"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "wizard/monetisation"
                   }
                 ],
                 "link": {

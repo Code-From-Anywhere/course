@@ -1,8 +1,8 @@
 {
   "unversionedId": "wizard/conventions-standards",
   "id": "wizard/conventions-standards",
-  "title": "conventions-standards",
-  "description": "",
+  "title": "Conventions & standards",
+  "description": "Coming soon",
   "source": "@site/../../docs/wizard/7.conventions-standards.md",
   "sourceDirName": "wizard",
   "slug": "/wizard/conventions-standards",
@@ -15,11 +15,11 @@
   "frontMatter": {},
   "sidebar": "courseSidebar",
   "previous": {
-    "title": "typescript-introspection",
+    "title": "Typescript introspection",
     "permalink": "/wizard/typescript-introspection"
   },
   "next": {
-    "title": "distribution",
-    "permalink": "/wizard/distribution"
+    "title": "🏝 Lifestyle",
+    "permalink": "/category/-lifestyle"
   }
 }
