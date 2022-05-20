@@ -7,7 +7,7 @@ sidebar_label: Introduction
 
 > This course is a work in progress... Check back soon!
 
-Hi! In this course you will learn how to make full-stack apps. This course focusses on the stuff you REALLY need to know. We don't go super deep and tell you all the details, we just help you to go from beginner to wizard in under a month, so you can start building full-stack applications and make money with your side-projects!
+Hi! In this course you will learn how to make **full-stack apps** using **Typescript**. This course focusses on the stuff you **REALLY** need to know. We don't go super deep and tell you all the details, we just help you to go from beginner to wizard in under a month, so you can start building full-stack applications and make money with your side-projects!
 
 The course contains 5 sections
 
