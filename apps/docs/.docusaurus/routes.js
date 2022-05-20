@@ -44,7 +44,7 @@ export default [
   },
   {
     path: '/',
-    component: ComponentCreator('/', '18b'),
+    component: ComponentCreator('/', 'bbb'),
     routes: [
       {
         path: '/about',
@@ -145,12 +145,6 @@ export default [
       {
         path: '/competent/git',
         component: ComponentCreator('/competent/git', 'aa6'),
-        exact: true,
-        sidebar: "courseSidebar"
-      },
-      {
-        path: '/competent/monetisation',
-        component: ComponentCreator('/competent/monetisation', '4d4'),
         exact: true,
         sidebar: "courseSidebar"
       },

@@ -79,51 +79,45 @@
           },
           {
             "type": "link",
-            "label": "react-nextjs",
+            "label": "React & Next.js",
             "href": "/competent/react-nextjs",
             "docId": "competent/react-nextjs"
           },
           {
             "type": "link",
-            "label": "deploy-frontend",
+            "label": "Deploy your frontend",
             "href": "/competent/deploy-frontend",
             "docId": "competent/deploy-frontend"
           },
           {
             "type": "link",
-            "label": "data-storage",
+            "label": "Data Storage",
             "href": "/competent/data-storage",
             "docId": "competent/data-storage"
           },
           {
             "type": "link",
-            "label": "tailwind",
+            "label": "Tailwind",
             "href": "/competent/tailwind",
             "docId": "competent/tailwind"
           },
           {
             "type": "link",
-            "label": "npm-packages",
+            "label": "NPM packages",
             "href": "/competent/npm-packages",
             "docId": "competent/npm-packages"
           },
           {
             "type": "link",
-            "label": "config",
+            "label": "Configurations",
             "href": "/competent/config",
             "docId": "competent/config"
           },
           {
             "type": "link",
-            "label": "distribution",
+            "label": "Become a frontend developer",
             "href": "/competent/distribution",
             "docId": "competent/distribution"
-          },
-          {
-            "type": "link",
-            "label": "monetisation",
-            "href": "/competent/monetisation",
-            "docId": "competent/monetisation"
           }
         ],
         "href": "/category/-competent"
@@ -334,26 +328,26 @@
     },
     "competent/config": {
       "id": "competent/config",
-      "title": "config",
-      "description": "",
+      "title": "Configurations",
+      "description": "Don't get lost in them! It's easy to do though, so be careful. On this page I'll let you know which configurations you need to know about for sure.",
       "sidebar": "courseSidebar"
     },
     "competent/data-storage": {
       "id": "competent/data-storage",
-      "title": "data-storage",
-      "description": "",
+      "title": "Data Storage",
+      "description": "Coming soon...",
       "sidebar": "courseSidebar"
     },
     "competent/deploy-frontend": {
       "id": "competent/deploy-frontend",
-      "title": "deploy-frontend",
-      "description": "",
+      "title": "Deploy your frontend",
+      "description": "About deploying to Vercel, Getting Domains, setting up DNS",
       "sidebar": "courseSidebar"
     },
     "competent/distribution": {
       "id": "competent/distribution",
-      "title": "distribution",
-      "description": "",
+      "title": "Become a frontend developer",
+      "description": "I strongly suggest not to do the whole course. I think that now you already know enough to become a front-end developer. Seriously, that's all you need to know!",
       "sidebar": "courseSidebar"
     },
     "competent/git": {
@@ -362,28 +356,22 @@
       "description": "Git is needed for version control, deployment, and for collaboration in a team.",
       "sidebar": "courseSidebar"
     },
-    "competent/monetisation": {
-      "id": "competent/monetisation",
-      "title": "monetisation",
-      "description": "",
-      "sidebar": "courseSidebar"
-    },
     "competent/npm-packages": {
       "id": "competent/npm-packages",
-      "title": "npm-packages",
-      "description": "",
+      "title": "NPM packages",
+      "description": "You need to know the following",
       "sidebar": "courseSidebar"
     },
     "competent/react-nextjs": {
       "id": "competent/react-nextjs",
-      "title": "react-nextjs",
-      "description": "",
+      "title": "React & Next.js",
+      "description": "Coming soon...",
       "sidebar": "courseSidebar"
     },
     "competent/tailwind": {
       "id": "competent/tailwind",
-      "title": "tailwind",
-      "description": "",
+      "title": "Tailwind",
+      "description": "The future of CSS is no CSS! This looks like css but it's making it much easier to apply.",
       "sidebar": "courseSidebar"
     },
     "competent/typescript": {

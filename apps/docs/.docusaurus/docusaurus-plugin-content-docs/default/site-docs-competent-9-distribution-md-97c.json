@@ -1,8 +1,8 @@
 {
   "unversionedId": "competent/distribution",
   "id": "competent/distribution",
-  "title": "distribution",
-  "description": "",
+  "title": "Become a frontend developer",
+  "description": "I strongly suggest not to do the whole course. I think that now you already know enough to become a front-end developer. Seriously, that's all you need to know!",
   "source": "@site/../../docs/competent/9.distribution.md",
   "sourceDirName": "competent",
   "slug": "/competent/distribution",
@@ -15,11 +15,11 @@
   "frontMatter": {},
   "sidebar": "courseSidebar",
   "previous": {
-    "title": "config",
+    "title": "Configurations",
     "permalink": "/competent/config"
   },
   "next": {
-    "title": "monetisation",
-    "permalink": "/competent/monetisation"
+    "title": "🦅 Expert",
+    "permalink": "/category/-expert"
   }
 }

@@ -1,8 +1,8 @@
 {
   "unversionedId": "competent/data-storage",
   "id": "competent/data-storage",
-  "title": "data-storage",
-  "description": "",
+  "title": "Data Storage",
+  "description": "Coming soon...",
   "source": "@site/../../docs/competent/5.data-storage.md",
   "sourceDirName": "competent",
   "slug": "/competent/data-storage",
@@ -15,11 +15,11 @@
   "frontMatter": {},
   "sidebar": "courseSidebar",
   "previous": {
-    "title": "deploy-frontend",
+    "title": "Deploy your frontend",
     "permalink": "/competent/deploy-frontend"
   },
   "next": {
-    "title": "tailwind",
+    "title": "Tailwind",
     "permalink": "/competent/tailwind"
   }
 }

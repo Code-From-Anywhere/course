@@ -1,8 +1,8 @@
 {
   "unversionedId": "competent/tailwind",
   "id": "competent/tailwind",
-  "title": "tailwind",
-  "description": "",
+  "title": "Tailwind",
+  "description": "The future of CSS is no CSS! This looks like css but it's making it much easier to apply.",
   "source": "@site/../../docs/competent/6.tailwind.md",
   "sourceDirName": "competent",
   "slug": "/competent/tailwind",
@@ -15,11 +15,11 @@
   "frontMatter": {},
   "sidebar": "courseSidebar",
   "previous": {
-    "title": "data-storage",
+    "title": "Data Storage",
     "permalink": "/competent/data-storage"
   },
   "next": {
-    "title": "npm-packages",
+    "title": "NPM packages",
     "permalink": "/competent/npm-packages"
   }
 }

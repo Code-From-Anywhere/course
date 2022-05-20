@@ -1,8 +1,8 @@
 {
   "unversionedId": "competent/react-nextjs",
   "id": "competent/react-nextjs",
-  "title": "react-nextjs",
-  "description": "",
+  "title": "React & Next.js",
+  "description": "Coming soon...",
   "source": "@site/../../docs/competent/3.react-nextjs.md",
   "sourceDirName": "competent",
   "slug": "/competent/react-nextjs",
@@ -19,7 +19,7 @@
     "permalink": "/competent/typescript"
   },
   "next": {
-    "title": "deploy-frontend",
+    "title": "Deploy your frontend",
     "permalink": "/competent/deploy-frontend"
   }
 }

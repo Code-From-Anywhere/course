@@ -3,14 +3,8 @@
 - Make it possible for users to create social media posts from every page
 - Make it possible for trusted CFA members to approve those posts and sort them
 
-**BEGINNER**
-
-- distribution
-- monetisation
-
 **COMPETENT**
 
-- ts:
 - react, nextjs (compile to html): functional components, props, events, useState, useEffect
 - deploy frontend: vercel, domains, dns
 - data storage (variable storage, localstorage, json storage, markdown storage, useState, context->useStore)

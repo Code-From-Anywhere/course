@@ -1,8 +1,8 @@
 {
   "unversionedId": "competent/npm-packages",
   "id": "competent/npm-packages",
-  "title": "npm-packages",
-  "description": "",
+  "title": "NPM packages",
+  "description": "You need to know the following",
   "source": "@site/../../docs/competent/7.npm-packages.md",
   "sourceDirName": "competent",
   "slug": "/competent/npm-packages",
@@ -15,11 +15,11 @@
   "frontMatter": {},
   "sidebar": "courseSidebar",
   "previous": {
-    "title": "tailwind",
+    "title": "Tailwind",
     "permalink": "/competent/tailwind"
   },
   "next": {
-    "title": "config",
+    "title": "Configurations",
     "permalink": "/competent/config"
   }
 }

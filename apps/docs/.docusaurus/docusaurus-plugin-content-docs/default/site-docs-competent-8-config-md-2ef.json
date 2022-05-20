@@ -1,8 +1,8 @@
 {
   "unversionedId": "competent/config",
   "id": "competent/config",
-  "title": "config",
-  "description": "",
+  "title": "Configurations",
+  "description": "Don't get lost in them! It's easy to do though, so be careful. On this page I'll let you know which configurations you need to know about for sure.",
   "source": "@site/../../docs/competent/8.config.md",
   "sourceDirName": "competent",
   "slug": "/competent/config",
@@ -15,11 +15,11 @@
   "frontMatter": {},
   "sidebar": "courseSidebar",
   "previous": {
-    "title": "npm-packages",
+    "title": "NPM packages",
     "permalink": "/competent/npm-packages"
   },
   "next": {
-    "title": "distribution",
+    "title": "Become a frontend developer",
     "permalink": "/competent/distribution"
   }
 }

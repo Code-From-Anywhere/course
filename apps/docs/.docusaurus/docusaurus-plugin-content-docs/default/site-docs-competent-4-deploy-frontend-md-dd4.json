@@ -1,8 +1,8 @@
 {
   "unversionedId": "competent/deploy-frontend",
   "id": "competent/deploy-frontend",
-  "title": "deploy-frontend",
-  "description": "",
+  "title": "Deploy your frontend",
+  "description": "About deploying to Vercel, Getting Domains, setting up DNS",
   "source": "@site/../../docs/competent/4.deploy-frontend.md",
   "sourceDirName": "competent",
   "slug": "/competent/deploy-frontend",
@@ -15,11 +15,11 @@
   "frontMatter": {},
   "sidebar": "courseSidebar",
   "previous": {
-    "title": "react-nextjs",
+    "title": "React & Next.js",
     "permalink": "/competent/react-nextjs"
   },
   "next": {
-    "title": "data-storage",
+    "title": "Data Storage",
     "permalink": "/competent/data-storage"
   }
 }

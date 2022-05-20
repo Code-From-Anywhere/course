@@ -49,7 +49,7 @@
     },
     "config": "config---5-e-9-4f3"
   },
-  "/-18b": {
+  "/-bbb": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
       "plugin": "plugin---049-9ad"
@@ -123,10 +123,6 @@
   "/competent/git-aa6": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---competent-git-165-c42"
-  },
-  "/competent/monetisation-4d4": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---competent-monetisation-1-bd-ffa"
   },
   "/competent/npm-packages-9cb": {
     "__comp": "__comp---theme-doc-item-178-a40",

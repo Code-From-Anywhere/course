@@ -195,8 +195,8 @@
             {
               "unversionedId": "competent/config",
               "id": "competent/config",
-              "title": "config",
-              "description": "",
+              "title": "Configurations",
+              "description": "Don't get lost in them! It's easy to do though, so be careful. On this page I'll let you know which configurations you need to know about for sure.",
               "source": "@site/../../docs/competent/8.config.md",
               "sourceDirName": "competent",
               "slug": "/competent/config",
@@ -209,19 +209,19 @@
               "frontMatter": {},
               "sidebar": "courseSidebar",
               "previous": {
-                "title": "npm-packages",
+                "title": "NPM packages",
                 "permalink": "/competent/npm-packages"
               },
               "next": {
-                "title": "distribution",
+                "title": "Become a frontend developer",
                 "permalink": "/competent/distribution"
               }
             },
             {
               "unversionedId": "competent/data-storage",
               "id": "competent/data-storage",
-              "title": "data-storage",
-              "description": "",
+              "title": "Data Storage",
+              "description": "Coming soon...",
               "source": "@site/../../docs/competent/5.data-storage.md",
               "sourceDirName": "competent",
               "slug": "/competent/data-storage",
@@ -234,19 +234,19 @@
               "frontMatter": {},
               "sidebar": "courseSidebar",
               "previous": {
-                "title": "deploy-frontend",
+                "title": "Deploy your frontend",
                 "permalink": "/competent/deploy-frontend"
               },
               "next": {
-                "title": "tailwind",
+                "title": "Tailwind",
                 "permalink": "/competent/tailwind"
               }
             },
             {
               "unversionedId": "competent/deploy-frontend",
               "id": "competent/deploy-frontend",
-              "title": "deploy-frontend",
-              "description": "",
+              "title": "Deploy your frontend",
+              "description": "About deploying to Vercel, Getting Domains, setting up DNS",
               "source": "@site/../../docs/competent/4.deploy-frontend.md",
               "sourceDirName": "competent",
               "slug": "/competent/deploy-frontend",
@@ -259,19 +259,19 @@
               "frontMatter": {},
               "sidebar": "courseSidebar",
               "previous": {
-                "title": "react-nextjs",
+                "title": "React & Next.js",
                 "permalink": "/competent/react-nextjs"
               },
               "next": {
-                "title": "data-storage",
+                "title": "Data Storage",
                 "permalink": "/competent/data-storage"
               }
             },
             {
               "unversionedId": "competent/distribution",
               "id": "competent/distribution",
-              "title": "distribution",
-              "description": "",
+              "title": "Become a frontend developer",
+              "description": "I strongly suggest not to do the whole course. I think that now you already know enough to become a front-end developer. Seriously, that's all you need to know!",
               "source": "@site/../../docs/competent/9.distribution.md",
               "sourceDirName": "competent",
               "slug": "/competent/distribution",
@@ -284,12 +284,12 @@
               "frontMatter": {},
               "sidebar": "courseSidebar",
               "previous": {
-                "title": "config",
+                "title": "Configurations",
                 "permalink": "/competent/config"
               },
               "next": {
-                "title": "monetisation",
-                "permalink": "/competent/monetisation"
+                "title": "🦅 Expert",
+                "permalink": "/category/-expert"
               }
             },
             {
@@ -318,35 +318,10 @@
               }
             },
             {
-              "unversionedId": "competent/monetisation",
-              "id": "competent/monetisation",
-              "title": "monetisation",
-              "description": "",
-              "source": "@site/../../docs/competent/10.monetisation.md",
-              "sourceDirName": "competent",
-              "slug": "/competent/monetisation",
-              "permalink": "/competent/monetisation",
-              "draft": false,
-              "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/competent/10.monetisation.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 10,
-              "frontMatter": {},
-              "sidebar": "courseSidebar",
-              "previous": {
-                "title": "distribution",
-                "permalink": "/competent/distribution"
-              },
-              "next": {
-                "title": "🦅 Expert",
-                "permalink": "/category/-expert"
-              }
-            },
-            {
               "unversionedId": "competent/npm-packages",
               "id": "competent/npm-packages",
-              "title": "npm-packages",
-              "description": "",
+              "title": "NPM packages",
+              "description": "You need to know the following",
               "source": "@site/../../docs/competent/7.npm-packages.md",
               "sourceDirName": "competent",
               "slug": "/competent/npm-packages",
@@ -359,19 +334,19 @@
               "frontMatter": {},
               "sidebar": "courseSidebar",
               "previous": {
-                "title": "tailwind",
+                "title": "Tailwind",
                 "permalink": "/competent/tailwind"
               },
               "next": {
-                "title": "config",
+                "title": "Configurations",
                 "permalink": "/competent/config"
               }
             },
             {
               "unversionedId": "competent/react-nextjs",
               "id": "competent/react-nextjs",
-              "title": "react-nextjs",
-              "description": "",
+              "title": "React & Next.js",
+              "description": "Coming soon...",
               "source": "@site/../../docs/competent/3.react-nextjs.md",
               "sourceDirName": "competent",
               "slug": "/competent/react-nextjs",
@@ -388,15 +363,15 @@
                 "permalink": "/competent/typescript"
               },
               "next": {
-                "title": "deploy-frontend",
+                "title": "Deploy your frontend",
                 "permalink": "/competent/deploy-frontend"
               }
             },
             {
               "unversionedId": "competent/tailwind",
               "id": "competent/tailwind",
-              "title": "tailwind",
-              "description": "",
+              "title": "Tailwind",
+              "description": "The future of CSS is no CSS! This looks like css but it's making it much easier to apply.",
               "source": "@site/../../docs/competent/6.tailwind.md",
               "sourceDirName": "competent",
               "slug": "/competent/tailwind",
@@ -409,11 +384,11 @@
               "frontMatter": {},
               "sidebar": "courseSidebar",
               "previous": {
-                "title": "data-storage",
+                "title": "Data Storage",
                 "permalink": "/competent/data-storage"
               },
               "next": {
-                "title": "npm-packages",
+                "title": "NPM packages",
                 "permalink": "/competent/npm-packages"
               }
             },
@@ -438,7 +413,7 @@
                 "permalink": "/competent/git"
               },
               "next": {
-                "title": "react-nextjs",
+                "title": "React & Next.js",
                 "permalink": "/competent/react-nextjs"
               }
             },
@@ -1075,10 +1050,6 @@
                   {
                     "type": "doc",
                     "id": "competent/distribution"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "competent/monetisation"
                   }
                 ],
                 "link": {

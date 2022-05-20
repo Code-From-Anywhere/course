@@ -71,11 +71,6 @@
               "sidebar": "courseSidebar"
             },
             {
-              "id": "competent/monetisation",
-              "path": "/competent/monetisation",
-              "sidebar": "courseSidebar"
-            },
-            {
               "id": "competent/npm-packages",
               "path": "/competent/npm-packages",
               "sidebar": "courseSidebar"
