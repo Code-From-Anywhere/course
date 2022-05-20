@@ -8,7 +8,6 @@ Richt 100% op de content creation. Maak alles af dit weekend.
 
 Frontend
 
-- CSS
 - TS
 - React, Nextjs
 - Deploy frontend
