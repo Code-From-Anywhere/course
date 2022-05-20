@@ -1,7 +1,6 @@
 # Todo
 
-- Make it possible for users to create social media posts from every page
-- Make it possible for trusted CFA members to approve those posts and sort them
+- Add some global posts from social media on every page, shown randomly
 
 **WIZARD**
 

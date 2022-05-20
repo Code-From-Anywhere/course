@@ -1,6 +1,57 @@
 import React from "react";
 import MDXContent from "@theme-original/MDXContent";
+import { TwitterTweetEmbed } from "react-twitter-embed";
+const LinkedIn = ({ id }) => {
+  return (
+    <iframe
+      src={`https://www.linkedin.com/embed/feed/update/urn:li:share:${id}`}
+      height="624"
+      width="504"
+      frameborder="0"
+      allowfullscreen=""
+      title="Embedded post"
+    ></iframe>
+  );
+};
 
+const renderPost = (post) => {
+  const postComponent =
+    post.platform === "twitter" ? (
+      <TwitterTweetEmbed
+        tweetId={post.id}
+        options={{ height: "100%", width: "504" }}
+      />
+    ) : post.platform === "linkedin" ? (
+      <LinkedIn id={post.id} />
+    ) : (
+      "WTF"
+    );
+
+  return (
+    <div className="w-[504px] h-[624px] relative">
+      <div className="w-[504px] h-[624px] bg-white rounded-lg">
+        {postComponent}
+      </div>
+    </div>
+  );
+};
+const RenderRandomSocialMedia = () => {
+  return (
+    <div className="flex p-3 space-x-5 overflow-scroll snap-x relativve">
+      {[
+        {
+          platform: "linkedin",
+          id: "6924412692040478720",
+        },
+        {
+          platform: "twitter",
+          id: "1474675639726739457",
+        },
+        { platform: "twitter", id: "1482233495195770883" },
+      ].map(renderPost)}
+    </div>
+  );
+};
 const PageFooterSection = () => {
   //TODO: later, I could show any tweets here related to the page
 
@@ -26,6 +77,11 @@ const PageFooterSection = () => {
       >
         Tweet!
       </a>
+      <br />
+      <br />
+      <div className="relative">
+        <RenderRandomSocialMedia />
+      </div>
     </div>
   );
 };
