@@ -245,6 +245,31 @@
               }
             },
             {
+              "unversionedId": "frontend/apply",
+              "id": "frontend/apply",
+              "title": "Become a frontend developer",
+              "description": "I strongly suggest not to do the whole course. I think that now you already know enough to become a front-end developer. Seriously, that's all you need to know!",
+              "source": "@site/../../docs/frontend/9.apply.md",
+              "sourceDirName": "frontend",
+              "slug": "/frontend/apply",
+              "permalink": "/frontend/apply",
+              "draft": false,
+              "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/frontend/9.apply.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 9,
+              "frontMatter": {},
+              "sidebar": "courseSidebar",
+              "previous": {
+                "title": "Configurations",
+                "permalink": "/frontend/config"
+              },
+              "next": {
+                "title": "🦅 Full Stack",
+                "permalink": "/category/-full-stack"
+              }
+            },
+            {
               "unversionedId": "frontend/config",
               "id": "frontend/config",
               "title": "Configurations",
@@ -266,7 +291,7 @@
               },
               "next": {
                 "title": "Become a frontend developer",
-                "permalink": "/frontend/distribution"
+                "permalink": "/frontend/apply"
               }
             },
             {
@@ -317,31 +342,6 @@
               "next": {
                 "title": "Data Storage",
                 "permalink": "/frontend/data-storage"
-              }
-            },
-            {
-              "unversionedId": "frontend/distribution",
-              "id": "frontend/distribution",
-              "title": "Become a frontend developer",
-              "description": "I strongly suggest not to do the whole course. I think that now you already know enough to become a front-end developer. Seriously, that's all you need to know!",
-              "source": "@site/../../docs/frontend/9.distribution.md",
-              "sourceDirName": "frontend",
-              "slug": "/frontend/distribution",
-              "permalink": "/frontend/distribution",
-              "draft": false,
-              "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/frontend/9.distribution.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 9,
-              "frontMatter": {},
-              "sidebar": "courseSidebar",
-              "previous": {
-                "title": "Configurations",
-                "permalink": "/frontend/config"
-              },
-              "next": {
-                "title": "🦅 Full Stack",
-                "permalink": "/category/-full-stack"
               }
             },
             {
@@ -470,6 +470,31 @@
               }
             },
             {
+              "unversionedId": "fullstack/apply",
+              "id": "fullstack/apply",
+              "title": "Become a full-stack developer.",
+              "description": "You're now a full-stack developer. You may not know everything of course... But you'll know the basics. Just get that €75 an hour freelancing gig, and keep reading!",
+              "source": "@site/../../docs/fullstack/8.apply.md",
+              "sourceDirName": "fullstack",
+              "slug": "/fullstack/apply",
+              "permalink": "/fullstack/apply",
+              "draft": false,
+              "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/fullstack/8.apply.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 8,
+              "frontMatter": {},
+              "sidebar": "courseSidebar",
+              "previous": {
+                "title": "Deploying with expo",
+                "permalink": "/fullstack/deploy-expo-app"
+              },
+              "next": {
+                "title": "🧙‍♂️ Wizard",
+                "permalink": "/category/️-wizard"
+              }
+            },
+            {
               "unversionedId": "fullstack/core",
               "id": "fullstack/core",
               "title": "Core",
@@ -540,8 +565,8 @@
                 "permalink": "/fullstack/deploy-backend"
               },
               "next": {
-                "title": "What's next?",
-                "permalink": "/fullstack/what-now"
+                "title": "Become a full-stack developer.",
+                "permalink": "/fullstack/apply"
               }
             },
             {
@@ -642,31 +667,6 @@
               "next": {
                 "title": "Dev Dashboard",
                 "permalink": "/fullstack/dev-dashboard"
-              }
-            },
-            {
-              "unversionedId": "fullstack/what-now",
-              "id": "fullstack/what-now",
-              "title": "What's next?",
-              "description": "You're now a full-stack developer. You may not know everything of course... But you'll know the basics. Just get that €75 an hour freelancing gig, and keep reading!",
-              "source": "@site/../../docs/fullstack/8.what-now.md",
-              "sourceDirName": "fullstack",
-              "slug": "/fullstack/what-now",
-              "permalink": "/fullstack/what-now",
-              "draft": false,
-              "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/fullstack/8.what-now.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 8,
-              "frontMatter": {},
-              "sidebar": "courseSidebar",
-              "previous": {
-                "title": "Deploying with expo",
-                "permalink": "/fullstack/deploy-expo-app"
-              },
-              "next": {
-                "title": "🧙‍♂️ Wizard",
-                "permalink": "/category/️-wizard"
               }
             },
             {
@@ -1035,7 +1035,7 @@
                   },
                   {
                     "type": "doc",
-                    "id": "frontend/distribution"
+                    "id": "frontend/apply"
                   }
                 ],
                 "link": {
@@ -1080,7 +1080,7 @@
                   },
                   {
                     "type": "doc",
-                    "id": "fullstack/what-now"
+                    "id": "fullstack/apply"
                   }
                 ],
                 "link": {

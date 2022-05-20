@@ -19,6 +19,20 @@ The course contains 5 sections
 
 Once you're done with this course, you'll be able to make apps (simple versions of things like Facebook, GitHub, Uber, Medium, or whatever) in a matter of weeks. If you are able to achieve wizardry this could even be days.
 
+## Still free
+
+This course is completely free for now but it will not be long before I implement my monetisation strategy! So you better take the chance now that it's still possible.
+
+## Community
+
+Please click [here](https://join.slack.com/t/codefromanywhere/shared_invite/zt-18r6mfudt-Zhb7FaZ70WlWVI1a_ZxgPw) to join our community on Slack!
+
+**What do we offer?**
+
+- A great environment to learn to make full stack apps
+- Potential to grow using open source and work with our clients
+- A great group of people that love coding and freedom to do it from anywhere!
+
 ## What's Code From Anywhere?
 
 We're a software development agency with developers from all over the world. We decided to build a course to share the way we work and make full-stack apps super quickly.

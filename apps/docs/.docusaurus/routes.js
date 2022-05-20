@@ -44,7 +44,7 @@ export default [
   },
   {
     path: '/',
-    component: ComponentCreator('/', '4bb'),
+    component: ComponentCreator('/', '2da'),
     routes: [
       {
         path: '/about',
@@ -131,6 +131,12 @@ export default [
         sidebar: "courseSidebar"
       },
       {
+        path: '/frontend/apply',
+        component: ComponentCreator('/frontend/apply', 'b0f'),
+        exact: true,
+        sidebar: "courseSidebar"
+      },
+      {
         path: '/frontend/config',
         component: ComponentCreator('/frontend/config', '606'),
         exact: true,
@@ -145,12 +151,6 @@ export default [
       {
         path: '/frontend/deploy-frontend',
         component: ComponentCreator('/frontend/deploy-frontend', 'd93'),
-        exact: true,
-        sidebar: "courseSidebar"
-      },
-      {
-        path: '/frontend/distribution',
-        component: ComponentCreator('/frontend/distribution', 'c5d'),
         exact: true,
         sidebar: "courseSidebar"
       },
@@ -181,6 +181,12 @@ export default [
       {
         path: '/frontend/typescript',
         component: ComponentCreator('/frontend/typescript', '7ae'),
+        exact: true,
+        sidebar: "courseSidebar"
+      },
+      {
+        path: '/fullstack/apply',
+        component: ComponentCreator('/fullstack/apply', '6c2'),
         exact: true,
         sidebar: "courseSidebar"
       },
@@ -223,12 +229,6 @@ export default [
       {
         path: '/fullstack/ui',
         component: ComponentCreator('/fullstack/ui', '812'),
-        exact: true,
-        sidebar: "courseSidebar"
-      },
-      {
-        path: '/fullstack/what-now',
-        component: ComponentCreator('/fullstack/what-now', '18d'),
         exact: true,
         sidebar: "courseSidebar"
       },

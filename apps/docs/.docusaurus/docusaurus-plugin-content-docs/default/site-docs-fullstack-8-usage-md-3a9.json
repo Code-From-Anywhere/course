@@ -1,0 +1,25 @@
+{
+  "unversionedId": "fullstack/usage",
+  "id": "fullstack/usage",
+  "title": "What's next?",
+  "description": "You're now a full-stack developer. You may not know everything of course... But you'll know the basics. Just get that €75 an hour freelancing gig, and keep reading!",
+  "source": "@site/../../docs/fullstack/8.usage.md",
+  "sourceDirName": "fullstack",
+  "slug": "/fullstack/usage",
+  "permalink": "/fullstack/usage",
+  "draft": false,
+  "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/fullstack/8.usage.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {},
+  "sidebar": "courseSidebar",
+  "previous": {
+    "title": "Deploying with expo",
+    "permalink": "/fullstack/deploy-expo-app"
+  },
+  "next": {
+    "title": "🧙‍♂️ Wizard",
+    "permalink": "/category/️-wizard"
+  }
+}

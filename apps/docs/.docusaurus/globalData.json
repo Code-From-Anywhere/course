@@ -56,6 +56,11 @@
               "sidebar": "courseSidebar"
             },
             {
+              "id": "frontend/apply",
+              "path": "/frontend/apply",
+              "sidebar": "courseSidebar"
+            },
+            {
               "id": "frontend/config",
               "path": "/frontend/config",
               "sidebar": "courseSidebar"
@@ -68,11 +73,6 @@
             {
               "id": "frontend/deploy-frontend",
               "path": "/frontend/deploy-frontend",
-              "sidebar": "courseSidebar"
-            },
-            {
-              "id": "frontend/distribution",
-              "path": "/frontend/distribution",
               "sidebar": "courseSidebar"
             },
             {
@@ -98,6 +98,11 @@
             {
               "id": "frontend/typescript",
               "path": "/frontend/typescript",
+              "sidebar": "courseSidebar"
+            },
+            {
+              "id": "fullstack/apply",
+              "path": "/fullstack/apply",
               "sidebar": "courseSidebar"
             },
             {
@@ -133,11 +138,6 @@
             {
               "id": "fullstack/ui",
               "path": "/fullstack/ui",
-              "sidebar": "courseSidebar"
-            },
-            {
-              "id": "fullstack/what-now",
-              "path": "/fullstack/what-now",
               "sidebar": "courseSidebar"
             },
             {

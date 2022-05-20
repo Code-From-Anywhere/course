@@ -128,8 +128,8 @@
           {
             "type": "link",
             "label": "Become a frontend developer",
-            "href": "/frontend/distribution",
-            "docId": "frontend/distribution"
+            "href": "/frontend/apply",
+            "docId": "frontend/apply"
           }
         ],
         "href": "/category/-frontend"
@@ -184,9 +184,9 @@
           },
           {
             "type": "link",
-            "label": "What's next?",
-            "href": "/fullstack/what-now",
-            "docId": "fullstack/what-now"
+            "label": "Become a full-stack developer.",
+            "href": "/fullstack/apply",
+            "docId": "fullstack/apply"
           }
         ],
         "href": "/category/-full-stack"
@@ -332,6 +332,12 @@
       "description": "Important commands (I'll explain later, in the meantime you can google yourself. This should be second nature for you)",
       "sidebar": "courseSidebar"
     },
+    "frontend/apply": {
+      "id": "frontend/apply",
+      "title": "Become a frontend developer",
+      "description": "I strongly suggest not to do the whole course. I think that now you already know enough to become a front-end developer. Seriously, that's all you need to know!",
+      "sidebar": "courseSidebar"
+    },
     "frontend/config": {
       "id": "frontend/config",
       "title": "Configurations",
@@ -348,12 +354,6 @@
       "id": "frontend/deploy-frontend",
       "title": "Deploy your frontend",
       "description": "About deploying to Vercel, Getting Domains, setting up DNS",
-      "sidebar": "courseSidebar"
-    },
-    "frontend/distribution": {
-      "id": "frontend/distribution",
-      "title": "Become a frontend developer",
-      "description": "I strongly suggest not to do the whole course. I think that now you already know enough to become a front-end developer. Seriously, that's all you need to know!",
       "sidebar": "courseSidebar"
     },
     "frontend/git": {
@@ -384,6 +384,12 @@
       "id": "frontend/typescript",
       "title": "TypeScript basics",
       "description": "Let's go over the following concepts:",
+      "sidebar": "courseSidebar"
+    },
+    "fullstack/apply": {
+      "id": "fullstack/apply",
+      "title": "Become a full-stack developer.",
+      "description": "You're now a full-stack developer. You may not know everything of course... But you'll know the basics. Just get that €75 an hour freelancing gig, and keep reading!",
       "sidebar": "courseSidebar"
     },
     "fullstack/core": {
@@ -426,12 +432,6 @@
       "id": "fullstack/ui",
       "title": "UI",
       "description": "In the /packages/ui folder you'll create most of your UI. This UI can be shared with multiple frontends this way, not just Next.js!",
-      "sidebar": "courseSidebar"
-    },
-    "fullstack/what-now": {
-      "id": "fullstack/what-now",
-      "title": "What's next?",
-      "description": "You're now a full-stack developer. You may not know everything of course... But you'll know the basics. Just get that €75 an hour freelancing gig, and keep reading!",
       "sidebar": "courseSidebar"
     },
     "lifestyle/become-a-wizard": {

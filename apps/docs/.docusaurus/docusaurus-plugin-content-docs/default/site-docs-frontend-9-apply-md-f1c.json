@@ -1,0 +1,25 @@
+{
+  "unversionedId": "frontend/apply",
+  "id": "frontend/apply",
+  "title": "Become a frontend developer",
+  "description": "I strongly suggest not to do the whole course. I think that now you already know enough to become a front-end developer. Seriously, that's all you need to know!",
+  "source": "@site/../../docs/frontend/9.apply.md",
+  "sourceDirName": "frontend",
+  "slug": "/frontend/apply",
+  "permalink": "/frontend/apply",
+  "draft": false,
+  "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/frontend/9.apply.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {},
+  "sidebar": "courseSidebar",
+  "previous": {
+    "title": "Configurations",
+    "permalink": "/frontend/config"
+  },
+  "next": {
+    "title": "🦅 Full Stack",
+    "permalink": "/category/-full-stack"
+  }
+}

@@ -67,8 +67,9 @@ const PageFooterSection = () => {
       <h2>Did you learn something?</h2>
       <p>
         Click the button below to tweet about what you thought of this section,
-        what you've made, what you learned... Cool tweets will be selected and
-        presented on this page!
+        what you've made, what you learned... Also don't forget to share it with
+        us via slack! Cool tweets (or other social media posts) will be selected
+        and presented on this page!
       </p>
       <a
         target="_blank"

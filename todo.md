@@ -1,25 +1,14 @@
-# Todo
+# Todo today
 
-- Add some global posts from social media on every page, shown randomly
-
-**WIZARD**
-
-- other environments: vscode, chrome, electron
-- decentralised architectures, king-os
-- thinking in data
-- automation
-- metascripting
-- typescript introspection
-- conventions, standards
-- distribution
-- monetisation
-
-**IRL**
-
-- finance
-- freedom
-- entrepreneurship
-- become a wizard: create explainer videos in this structure & find students, join code from anywhere
+- css
+- ts
+- react, nextjs
+- deploy frontend
+- data storage
+- tailwind
+- npm packages
+- configurations
+- become a frontend developer
 
 # Later
 

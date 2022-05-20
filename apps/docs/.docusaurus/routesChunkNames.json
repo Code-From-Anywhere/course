@@ -49,7 +49,7 @@
     },
     "config": "config---5-e-9-4f3"
   },
-  "/-4bb": {
+  "/-2da": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
       "plugin": "plugin---049-9ad"
@@ -112,6 +112,10 @@
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "categoryGeneratedIndex": "categoryGeneratedIndex---category-️-wizard-402-272"
   },
+  "/frontend/apply-b0f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---frontend-applyf-1-c-8d8"
+  },
   "/frontend/config-606": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---frontend-configdd-8-428"
@@ -123,10 +127,6 @@
   "/frontend/deploy-frontend-d93": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---frontend-deploy-frontend-362-287"
-  },
-  "/frontend/distribution-c5d": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---frontend-distribution-9-f-4-6e8"
   },
   "/frontend/git-3ce": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -147,6 +147,10 @@
   "/frontend/typescript-7ae": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---frontend-typescript-5-d-1-d9e"
+  },
+  "/fullstack/apply-6c2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---fullstack-apply-1-fd-cbb"
   },
   "/fullstack/core-193": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -175,10 +179,6 @@
   "/fullstack/ui-812": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---fullstack-ui-1-ce-e0a"
-  },
-  "/fullstack/what-now-18d": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---fullstack-what-now-8-c-9-04f"
   },
   "/lifestyle/become-a-wizard-dea": {
     "__comp": "__comp---theme-doc-item-178-a40",
