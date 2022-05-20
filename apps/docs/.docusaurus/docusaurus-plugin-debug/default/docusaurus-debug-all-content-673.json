@@ -63,8 +63,8 @@
                 "permalink": "/beginner/html"
               },
               "next": {
-                "title": "💫 Frontend",
-                "permalink": "/category/-frontend"
+                "title": "Knowing your terminal",
+                "permalink": "/beginner/terminal"
               }
             },
             {
@@ -143,6 +143,31 @@
               }
             },
             {
+              "unversionedId": "beginner/make",
+              "id": "beginner/make",
+              "title": "Make something!",
+              "description": "Now that you know the basics... Go and make something cool! You can use html in .html files, markdown in .md files, css in the style attrubute of your html tags (or use a .css file), json files have the .json extension...",
+              "source": "@site/../../docs/beginner/8.make.md",
+              "sourceDirName": "beginner",
+              "slug": "/beginner/make",
+              "permalink": "/beginner/make",
+              "draft": false,
+              "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/beginner/8.make.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 8,
+              "frontMatter": {},
+              "sidebar": "courseSidebar",
+              "previous": {
+                "title": "Knowing your terminal",
+                "permalink": "/beginner/terminal"
+              },
+              "next": {
+                "title": "💫 Frontend",
+                "permalink": "/category/-frontend"
+              }
+            },
+            {
               "unversionedId": "beginner/markdown",
               "id": "beginner/markdown",
               "title": "Markdown",
@@ -190,6 +215,31 @@
               "next": {
                 "title": "JSON",
                 "permalink": "/beginner/json"
+              }
+            },
+            {
+              "unversionedId": "beginner/terminal",
+              "id": "beginner/terminal",
+              "title": "Knowing your terminal",
+              "description": "Important commands (I'll explain later, in the meantime you can google yourself. This should be second nature for you)",
+              "source": "@site/../../docs/beginner/7.terminal.md",
+              "sourceDirName": "beginner",
+              "slug": "/beginner/terminal",
+              "permalink": "/beginner/terminal",
+              "draft": false,
+              "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/beginner/7.terminal.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 7,
+              "frontMatter": {},
+              "sidebar": "courseSidebar",
+              "previous": {
+                "title": "CSS",
+                "permalink": "/beginner/css"
+              },
+              "next": {
+                "title": "Make something!",
+                "permalink": "/beginner/make"
               }
             },
             {
@@ -926,6 +976,14 @@
                   {
                     "type": "doc",
                     "id": "beginner/css"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "beginner/terminal"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "beginner/make"
                   }
                 ],
                 "link": {

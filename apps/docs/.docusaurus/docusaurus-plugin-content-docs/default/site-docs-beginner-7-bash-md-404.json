@@ -1,0 +1,25 @@
+{
+  "unversionedId": "beginner/bash",
+  "id": "beginner/bash",
+  "title": "Knowing your terminal",
+  "description": "",
+  "source": "@site/../../docs/beginner/7.bash.md",
+  "sourceDirName": "beginner",
+  "slug": "/beginner/bash",
+  "permalink": "/beginner/bash",
+  "draft": false,
+  "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/beginner/7.bash.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {},
+  "sidebar": "courseSidebar",
+  "previous": {
+    "title": "CSS",
+    "permalink": "/beginner/css"
+  },
+  "next": {
+    "title": "make",
+    "permalink": "/beginner/make"
+  }
+}

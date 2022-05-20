@@ -1,0 +1,25 @@
+{
+  "unversionedId": "beginner/make",
+  "id": "beginner/make",
+  "title": "make",
+  "description": "",
+  "source": "@site/../../docs/beginner/7.make.md",
+  "sourceDirName": "beginner",
+  "slug": "/beginner/make",
+  "permalink": "/beginner/make",
+  "draft": false,
+  "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/beginner/7.make.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {},
+  "sidebar": "courseSidebar",
+  "previous": {
+    "title": "bash",
+    "permalink": "/beginner/bash"
+  },
+  "next": {
+    "title": "💫 Frontend",
+    "permalink": "/category/-frontend"
+  }
+}

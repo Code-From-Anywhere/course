@@ -44,7 +44,7 @@ export default [
   },
   {
     path: '/',
-    component: ComponentCreator('/', 'e53'),
+    component: ComponentCreator('/', '4bb'),
     routes: [
       {
         path: '/about',
@@ -77,6 +77,12 @@ export default [
         sidebar: "courseSidebar"
       },
       {
+        path: '/beginner/make',
+        component: ComponentCreator('/beginner/make', '131'),
+        exact: true,
+        sidebar: "courseSidebar"
+      },
+      {
         path: '/beginner/markdown',
         component: ComponentCreator('/beginner/markdown', '507'),
         exact: true,
@@ -85,6 +91,12 @@ export default [
       {
         path: '/beginner/setup',
         component: ComponentCreator('/beginner/setup', '6d3'),
+        exact: true,
+        sidebar: "courseSidebar"
+      },
+      {
+        path: '/beginner/terminal',
+        component: ComponentCreator('/beginner/terminal', '245'),
         exact: true,
         sidebar: "courseSidebar"
       },

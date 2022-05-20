@@ -1,0 +1,25 @@
+{
+  "unversionedId": "beginner/make",
+  "id": "beginner/make",
+  "title": "Make something!",
+  "description": "Now that you know the basics... Go and make something cool! You can use html in .html files, markdown in .md files, css in the style attrubute of your html tags (or use a .css file), json files have the .json extension...",
+  "source": "@site/../../docs/beginner/8.make.md",
+  "sourceDirName": "beginner",
+  "slug": "/beginner/make",
+  "permalink": "/beginner/make",
+  "draft": false,
+  "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/beginner/8.make.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {},
+  "sidebar": "courseSidebar",
+  "previous": {
+    "title": "Knowing your terminal",
+    "permalink": "/beginner/terminal"
+  },
+  "next": {
+    "title": "💫 Frontend",
+    "permalink": "/category/-frontend"
+  }
+}

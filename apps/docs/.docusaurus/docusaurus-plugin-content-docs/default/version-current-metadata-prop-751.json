@@ -55,6 +55,18 @@
             "label": "CSS",
             "href": "/beginner/css",
             "docId": "beginner/css"
+          },
+          {
+            "type": "link",
+            "label": "Knowing your terminal",
+            "href": "/beginner/terminal",
+            "docId": "beginner/terminal"
+          },
+          {
+            "type": "link",
+            "label": "Make something!",
+            "href": "/beginner/make",
+            "docId": "beginner/make"
           }
         ],
         "href": "/category/-beginner"
@@ -296,6 +308,12 @@
       "description": "JSON means JavaScript Object Notation. JSON is used in lots of places. It is very easy to use because JSON can directly be imported into JavaScript and be parsed as a JavaScript Object. It's great!",
       "sidebar": "courseSidebar"
     },
+    "beginner/make": {
+      "id": "beginner/make",
+      "title": "Make something!",
+      "description": "Now that you know the basics... Go and make something cool! You can use html in .html files, markdown in .md files, css in the style attrubute of your html tags (or use a .css file), json files have the .json extension...",
+      "sidebar": "courseSidebar"
+    },
     "beginner/markdown": {
       "id": "beginner/markdown",
       "title": "Markdown",
@@ -306,6 +324,12 @@
       "id": "beginner/setup",
       "title": "Setting things up",
       "description": "To start developing, I recommend the VSCode editor. I recommand having a Mac but it's not needed. It'd also be good to install Node.js already, but you'll only need that in the \"competent\" section.",
+      "sidebar": "courseSidebar"
+    },
+    "beginner/terminal": {
+      "id": "beginner/terminal",
+      "title": "Knowing your terminal",
+      "description": "Important commands (I'll explain later, in the meantime you can google yourself. This should be second nature for you)",
       "sidebar": "courseSidebar"
     },
     "frontend/config": {

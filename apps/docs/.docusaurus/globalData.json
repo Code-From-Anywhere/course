@@ -36,6 +36,11 @@
               "sidebar": "courseSidebar"
             },
             {
+              "id": "beginner/make",
+              "path": "/beginner/make",
+              "sidebar": "courseSidebar"
+            },
+            {
               "id": "beginner/markdown",
               "path": "/beginner/markdown",
               "sidebar": "courseSidebar"
@@ -43,6 +48,11 @@
             {
               "id": "beginner/setup",
               "path": "/beginner/setup",
+              "sidebar": "courseSidebar"
+            },
+            {
+              "id": "beginner/terminal",
+              "path": "/beginner/terminal",
               "sidebar": "courseSidebar"
             },
             {
