@@ -131,6 +131,11 @@
               "sidebar": "courseSidebar"
             },
             {
+              "id": "fullstack/react-with-native",
+              "path": "/fullstack/react-with-native",
+              "sidebar": "courseSidebar"
+            },
+            {
               "id": "fullstack/sensible",
               "path": "/fullstack/sensible",
               "sidebar": "courseSidebar"
@@ -138,11 +143,6 @@
             {
               "id": "fullstack/server",
               "path": "/fullstack/server",
-              "sidebar": "courseSidebar"
-            },
-            {
-              "id": "fullstack/ui",
-              "path": "/fullstack/ui",
               "sidebar": "courseSidebar"
             },
             {

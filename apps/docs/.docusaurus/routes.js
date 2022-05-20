@@ -44,7 +44,7 @@ export default [
   },
   {
     path: '/',
-    component: ComponentCreator('/', '6cb'),
+    component: ComponentCreator('/', '0e2'),
     routes: [
       {
         path: '/about',
@@ -221,6 +221,12 @@ export default [
         sidebar: "courseSidebar"
       },
       {
+        path: '/fullstack/react-with-native',
+        component: ComponentCreator('/fullstack/react-with-native', 'cd9'),
+        exact: true,
+        sidebar: "courseSidebar"
+      },
+      {
         path: '/fullstack/sensible',
         component: ComponentCreator('/fullstack/sensible', '8b6'),
         exact: true,
@@ -229,12 +235,6 @@ export default [
       {
         path: '/fullstack/server',
         component: ComponentCreator('/fullstack/server', '3db'),
-        exact: true,
-        sidebar: "courseSidebar"
-      },
-      {
-        path: '/fullstack/ui',
-        component: ComponentCreator('/fullstack/ui', '812'),
         exact: true,
         sidebar: "courseSidebar"
       },

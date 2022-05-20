@@ -611,12 +611,37 @@
               "frontMatter": {},
               "sidebar": "courseSidebar",
               "previous": {
-                "title": "UI",
-                "permalink": "/fullstack/ui"
+                "title": "React With Native",
+                "permalink": "/fullstack/react-with-native"
               },
               "next": {
                 "title": "Deploy backend",
                 "permalink": "/fullstack/deploy-backend"
+              }
+            },
+            {
+              "unversionedId": "fullstack/react-with-native",
+              "id": "fullstack/react-with-native",
+              "title": "React With Native",
+              "description": "In the /packages/ui folder you'll create most of your UI. This UI can be shared with multiple frontends this way, not just Next.js!",
+              "source": "@site/../../docs/fullstack/4.react-with-native.md",
+              "sourceDirName": "fullstack",
+              "slug": "/fullstack/react-with-native",
+              "permalink": "/fullstack/react-with-native",
+              "draft": false,
+              "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/fullstack/4.react-with-native.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {},
+              "sidebar": "courseSidebar",
+              "previous": {
+                "title": "Server",
+                "permalink": "/fullstack/server"
+              },
+              "next": {
+                "title": "Dev Dashboard",
+                "permalink": "/fullstack/dev-dashboard"
               }
             },
             {
@@ -665,33 +690,8 @@
                 "permalink": "/fullstack/core"
               },
               "next": {
-                "title": "UI",
-                "permalink": "/fullstack/ui"
-              }
-            },
-            {
-              "unversionedId": "fullstack/ui",
-              "id": "fullstack/ui",
-              "title": "UI",
-              "description": "In the /packages/ui folder you'll create most of your UI. This UI can be shared with multiple frontends this way, not just Next.js!",
-              "source": "@site/../../docs/fullstack/4.ui.md",
-              "sourceDirName": "fullstack",
-              "slug": "/fullstack/ui",
-              "permalink": "/fullstack/ui",
-              "draft": false,
-              "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/fullstack/4.ui.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 4,
-              "frontMatter": {},
-              "sidebar": "courseSidebar",
-              "previous": {
-                "title": "Server",
-                "permalink": "/fullstack/server"
-              },
-              "next": {
-                "title": "Dev Dashboard",
-                "permalink": "/fullstack/dev-dashboard"
+                "title": "React With Native",
+                "permalink": "/fullstack/react-with-native"
               }
             },
             {
@@ -1167,7 +1167,7 @@
                   },
                   {
                     "type": "doc",
-                    "id": "fullstack/ui"
+                    "id": "fullstack/react-with-native"
                   },
                   {
                     "type": "doc",

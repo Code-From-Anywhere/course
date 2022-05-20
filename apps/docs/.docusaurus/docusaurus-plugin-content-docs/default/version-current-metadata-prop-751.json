@@ -160,9 +160,9 @@
           },
           {
             "type": "link",
-            "label": "UI",
-            "href": "/fullstack/ui",
-            "docId": "fullstack/ui"
+            "label": "React With Native",
+            "href": "/fullstack/react-with-native",
+            "docId": "fullstack/react-with-native"
           },
           {
             "type": "link",
@@ -446,6 +446,12 @@
       "description": "On the dev dashboard you'll find all you need to know about your app",
       "sidebar": "courseSidebar"
     },
+    "fullstack/react-with-native": {
+      "id": "fullstack/react-with-native",
+      "title": "React With Native",
+      "description": "In the /packages/ui folder you'll create most of your UI. This UI can be shared with multiple frontends this way, not just Next.js!",
+      "sidebar": "courseSidebar"
+    },
     "fullstack/sensible": {
       "id": "fullstack/sensible",
       "title": "Going full stack",
@@ -456,12 +462,6 @@
       "id": "fullstack/server",
       "title": "Server",
       "description": "On the server (/apps/server) you'll implement your endpoints and make them available to the public.",
-      "sidebar": "courseSidebar"
-    },
-    "fullstack/ui": {
-      "id": "fullstack/ui",
-      "title": "UI",
-      "description": "In the /packages/ui folder you'll create most of your UI. This UI can be shared with multiple frontends this way, not just Next.js!",
       "sidebar": "courseSidebar"
     },
     "lifestyle/entrepreneurship": {
