@@ -57,10 +57,13 @@ We're a software development agency with developers from all over the world. We 
 **Our Philosophy**
 
 - **Developer-first**: focus on developer expertise, developer growth, developer freedom, developer lifestyle, developer happiness.
-- **Typescript-first**: We mainly use Typescript, React with Native, Expo, Next.js and Node.js
+- **Typescript-first**: We mainly use Typescript, React with Native, Expo, Next.js and Node.js (this is the [Sensible Stack](https://sensiblestack.com))
 - **Trust-first**: Don’t spend much time on contracts and requirements. Just get going and see where it goes.
 - **Remote-first**: There is no requirement of location, never.
 - **Humane-first**: We’re only involved in products that are good for humanity and the planet.
+
+Clients: If you want to work with us, check [my services](/services)
+Devs: If you want to work with us, check [becoming a wizard](/wizard/become-a-wizard)
 
 ## A word from me...
 
