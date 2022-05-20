@@ -1,0 +1,25 @@
+{
+  "unversionedId": "frontend/deploy-frontend",
+  "id": "frontend/deploy-frontend",
+  "title": "Deploy your frontend",
+  "description": "You probably like to show your website to some friends. That's easy! We only need to deploy it. For deployment to our own domain, we're using Vercel, GitHub and NameCheap",
+  "source": "@site/../../docs/frontend/3.deploy-frontend.md",
+  "sourceDirName": "frontend",
+  "slug": "/frontend/deploy-frontend",
+  "permalink": "/frontend/deploy-frontend",
+  "draft": false,
+  "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/frontend/3.deploy-frontend.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {},
+  "sidebar": "courseSidebar",
+  "previous": {
+    "title": "React with Typescript",
+    "permalink": "/frontend/typescript-react-intro"
+  },
+  "next": {
+    "title": "More Typescript",
+    "permalink": "/frontend/typescript"
+  }
+}

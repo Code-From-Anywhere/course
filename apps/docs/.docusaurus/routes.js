@@ -44,7 +44,7 @@ export default [
   },
   {
     path: '/',
-    component: ComponentCreator('/', '116'),
+    component: ComponentCreator('/', '6cb'),
     routes: [
       {
         path: '/about',
@@ -150,7 +150,7 @@ export default [
       },
       {
         path: '/frontend/deploy-frontend',
-        component: ComponentCreator('/frontend/deploy-frontend', 'd93'),
+        component: ComponentCreator('/frontend/deploy-frontend', 'f46'),
         exact: true,
         sidebar: "courseSidebar"
       },
@@ -167,12 +167,6 @@ export default [
         sidebar: "courseSidebar"
       },
       {
-        path: '/frontend/react-nextjs',
-        component: ComponentCreator('/frontend/react-nextjs', 'b15'),
-        exact: true,
-        sidebar: "courseSidebar"
-      },
-      {
         path: '/frontend/tailwind',
         component: ComponentCreator('/frontend/tailwind', 'a96'),
         exact: true,
@@ -180,7 +174,13 @@ export default [
       },
       {
         path: '/frontend/typescript',
-        component: ComponentCreator('/frontend/typescript', '7ae'),
+        component: ComponentCreator('/frontend/typescript', '292'),
+        exact: true,
+        sidebar: "courseSidebar"
+      },
+      {
+        path: '/frontend/typescript-react-intro',
+        component: ComponentCreator('/frontend/typescript-react-intro', 'a68'),
         exact: true,
         sidebar: "courseSidebar"
       },
@@ -263,6 +263,18 @@ export default [
         sidebar: "courseSidebar"
       },
       {
+        path: '/services',
+        component: ComponentCreator('/services', '7d1'),
+        exact: true,
+        sidebar: "courseSidebar"
+      },
+      {
+        path: '/todo',
+        component: ComponentCreator('/todo', 'f71'),
+        exact: true,
+        sidebar: "courseSidebar"
+      },
+      {
         path: '/wizard/automation',
         component: ComponentCreator('/wizard/automation', '5a5'),
         exact: true,
@@ -270,7 +282,7 @@ export default [
       },
       {
         path: '/wizard/become-a-wizard',
-        component: ComponentCreator('/wizard/become-a-wizard', '8e7'),
+        component: ComponentCreator('/wizard/become-a-wizard', '024'),
         exact: true,
         sidebar: "courseSidebar"
       },

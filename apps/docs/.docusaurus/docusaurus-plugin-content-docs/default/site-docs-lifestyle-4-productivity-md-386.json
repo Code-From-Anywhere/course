@@ -17,5 +17,9 @@
   "previous": {
     "title": "Entrepreneurship",
     "permalink": "/lifestyle/entrepreneurship"
+  },
+  "next": {
+    "title": "Services",
+    "permalink": "/services"
   }
 }

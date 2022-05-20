@@ -1,0 +1,25 @@
+{
+  "unversionedId": "frontend/typescript-react-intro",
+  "id": "frontend/typescript-react-intro",
+  "title": "React with Typescript",
+  "description": "Setup",
+  "source": "@site/../../docs/frontend/2.typescript-react-intro.md",
+  "sourceDirName": "frontend",
+  "slug": "/frontend/typescript-react-intro",
+  "permalink": "/frontend/typescript-react-intro",
+  "draft": false,
+  "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/frontend/2.typescript-react-intro.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {},
+  "sidebar": "courseSidebar",
+  "previous": {
+    "title": "Git",
+    "permalink": "/frontend/git"
+  },
+  "next": {
+    "title": "Deploy your frontend",
+    "permalink": "/frontend/deploy-frontend"
+  }
+}

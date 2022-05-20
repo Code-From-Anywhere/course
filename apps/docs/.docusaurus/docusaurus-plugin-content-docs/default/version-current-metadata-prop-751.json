@@ -85,21 +85,21 @@
           },
           {
             "type": "link",
-            "label": "TypeScript basics",
-            "href": "/frontend/typescript",
-            "docId": "frontend/typescript"
-          },
-          {
-            "type": "link",
-            "label": "React & Next.js",
-            "href": "/frontend/react-nextjs",
-            "docId": "frontend/react-nextjs"
+            "label": "React with Typescript",
+            "href": "/frontend/typescript-react-intro",
+            "docId": "frontend/typescript-react-intro"
           },
           {
             "type": "link",
             "label": "Deploy your frontend",
             "href": "/frontend/deploy-frontend",
             "docId": "frontend/deploy-frontend"
+          },
+          {
+            "type": "link",
+            "label": "More Typescript",
+            "href": "/frontend/typescript",
+            "docId": "frontend/typescript"
           },
           {
             "type": "link",
@@ -247,7 +247,7 @@
           },
           {
             "type": "link",
-            "label": "Become a wizard",
+            "label": "Become a Wizard",
             "href": "/wizard/become-a-wizard",
             "docId": "wizard/become-a-wizard"
           }
@@ -286,6 +286,18 @@
           }
         ],
         "href": "/category/-lifestyle"
+      },
+      {
+        "type": "link",
+        "label": "Services",
+        "href": "/services",
+        "docId": "services"
+      },
+      {
+        "type": "link",
+        "label": "TODO",
+        "href": "/todo",
+        "docId": "todo"
       }
     ]
   },
@@ -365,7 +377,7 @@
     "frontend/deploy-frontend": {
       "id": "frontend/deploy-frontend",
       "title": "Deploy your frontend",
-      "description": "About deploying to Vercel, Getting Domains, setting up DNS",
+      "description": "You probably like to show your website to some friends. That's easy! We only need to deploy it. For deployment to our own domain, we're using Vercel, GitHub and NameCheap",
       "sidebar": "courseSidebar"
     },
     "frontend/git": {
@@ -380,12 +392,6 @@
       "description": "You need to know the following",
       "sidebar": "courseSidebar"
     },
-    "frontend/react-nextjs": {
-      "id": "frontend/react-nextjs",
-      "title": "React & Next.js",
-      "description": "Coming soon...",
-      "sidebar": "courseSidebar"
-    },
     "frontend/tailwind": {
       "id": "frontend/tailwind",
       "title": "Tailwind",
@@ -394,8 +400,14 @@
     },
     "frontend/typescript": {
       "id": "frontend/typescript",
-      "title": "TypeScript basics",
-      "description": "Let's go over the following concepts:",
+      "title": "More Typescript",
+      "description": "Now it's going to get interesting! Until now we've only learnt about markup languages and JSON, a very simple file-format containing only data.",
+      "sidebar": "courseSidebar"
+    },
+    "frontend/typescript-react-intro": {
+      "id": "frontend/typescript-react-intro",
+      "title": "React with Typescript",
+      "description": "Setup",
       "sidebar": "courseSidebar"
     },
     "fullstack/apply": {
@@ -476,6 +488,18 @@
       "description": "It's something I think about a lot. Here I will try to summarise everything I've learned over the last 20+ years.",
       "sidebar": "courseSidebar"
     },
+    "services": {
+      "id": "services",
+      "title": "Services",
+      "description": "These are the services I provide.",
+      "sidebar": "courseSidebar"
+    },
+    "todo": {
+      "id": "todo",
+      "title": "TODO",
+      "description": "Richt 100% op de content creation. Maak alles af dit weekend.",
+      "sidebar": "courseSidebar"
+    },
     "wizard/automation": {
       "id": "wizard/automation",
       "title": "Automation",
@@ -484,8 +508,8 @@
     },
     "wizard/become-a-wizard": {
       "id": "wizard/become-a-wizard",
-      "title": "Become a wizard",
-      "description": "Coming soon",
+      "title": "Become a Wizard",
+      "description": "Join the Wizard Team",
       "sidebar": "courseSidebar"
     },
     "wizard/conventions-standards": {

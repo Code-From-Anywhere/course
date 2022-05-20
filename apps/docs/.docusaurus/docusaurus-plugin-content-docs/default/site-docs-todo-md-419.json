@@ -1,24 +1,22 @@
 {
   "unversionedId": "todo",
   "id": "todo",
-  "title": "Todo",
-  "description": "- Create folder structure and sections",
+  "title": "TODO",
+  "description": "Richt 100% op de content creation. Maak alles af dit weekend.",
   "source": "@site/../../docs/todo.md",
   "sourceDirName": ".",
   "slug": "/todo",
   "permalink": "/todo",
   "draft": false,
-  "editUrl": "https://github.com/Code-From-Anywhere/sensible/tree/main/apps/web/../../docs/todo.md",
+  "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/todo.md",
   "tags": [],
   "version": "current",
-  "frontMatter": {},
-  "sidebar": "docSidebar",
-  "previous": {
-    "title": "Structure",
-    "permalink": "/structure"
+  "frontMatter": {
+    "draft": true
   },
-  "next": {
-    "title": "other-envrionmends",
-    "permalink": "/wizard/other-envrionmends"
+  "sidebar": "courseSidebar",
+  "previous": {
+    "title": "Services",
+    "permalink": "/services"
   }
 }

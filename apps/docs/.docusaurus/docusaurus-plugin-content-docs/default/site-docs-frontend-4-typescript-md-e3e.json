@@ -1,0 +1,25 @@
+{
+  "unversionedId": "frontend/typescript",
+  "id": "frontend/typescript",
+  "title": "More Typescript",
+  "description": "Now it's going to get interesting! Until now we've only learnt about markup languages and JSON, a very simple file-format containing only data.",
+  "source": "@site/../../docs/frontend/4.typescript.md",
+  "sourceDirName": "frontend",
+  "slug": "/frontend/typescript",
+  "permalink": "/frontend/typescript",
+  "draft": false,
+  "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/frontend/4.typescript.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {},
+  "sidebar": "courseSidebar",
+  "previous": {
+    "title": "Deploy your frontend",
+    "permalink": "/frontend/deploy-frontend"
+  },
+  "next": {
+    "title": "Data Storage",
+    "permalink": "/frontend/data-storage"
+  }
+}

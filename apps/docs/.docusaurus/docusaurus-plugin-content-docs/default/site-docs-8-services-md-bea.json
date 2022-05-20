@@ -1,0 +1,27 @@
+{
+  "unversionedId": "services",
+  "id": "services",
+  "title": "Services",
+  "description": "These are the services I provide.",
+  "source": "@site/../../docs/8.services.md",
+  "sourceDirName": ".",
+  "slug": "/services",
+  "permalink": "/services",
+  "draft": false,
+  "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/8.services.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7
+  },
+  "sidebar": "courseSidebar",
+  "previous": {
+    "title": "Productivity",
+    "permalink": "/lifestyle/productivity"
+  },
+  "next": {
+    "title": "TODO",
+    "permalink": "/todo"
+  }
+}

@@ -86,11 +86,6 @@
               "sidebar": "courseSidebar"
             },
             {
-              "id": "frontend/react-nextjs",
-              "path": "/frontend/react-nextjs",
-              "sidebar": "courseSidebar"
-            },
-            {
               "id": "frontend/tailwind",
               "path": "/frontend/tailwind",
               "sidebar": "courseSidebar"
@@ -98,6 +93,11 @@
             {
               "id": "frontend/typescript",
               "path": "/frontend/typescript",
+              "sidebar": "courseSidebar"
+            },
+            {
+              "id": "frontend/typescript-react-intro",
+              "path": "/frontend/typescript-react-intro",
               "sidebar": "courseSidebar"
             },
             {
@@ -163,6 +163,16 @@
             {
               "id": "lifestyle/productivity",
               "path": "/lifestyle/productivity",
+              "sidebar": "courseSidebar"
+            },
+            {
+              "id": "services",
+              "path": "/services",
+              "sidebar": "courseSidebar"
+            },
+            {
+              "id": "todo",
+              "path": "/todo",
               "sidebar": "courseSidebar"
             },
             {

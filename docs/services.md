@@ -1,4 +1,8 @@
-# My services
+---
+sidebar_position: 7
+---
+
+# Services
 
 These are the services I provide.
 

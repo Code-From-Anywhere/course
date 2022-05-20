@@ -15,8 +15,8 @@
   "frontMatter": {},
   "sidebar": "courseSidebar",
   "previous": {
-    "title": "Deploy your frontend",
-    "permalink": "/frontend/deploy-frontend"
+    "title": "More Typescript",
+    "permalink": "/frontend/typescript"
   },
   "next": {
     "title": "Tailwind",
