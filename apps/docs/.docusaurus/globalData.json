@@ -16,11 +16,6 @@
               "sidebar": "courseSidebar"
             },
             {
-              "id": "aboutold",
-              "path": "/aboutold",
-              "sidebar": "courseSidebar"
-            },
-            {
               "id": "beginner/css",
               "path": "/beginner/css",
               "sidebar": "courseSidebar"

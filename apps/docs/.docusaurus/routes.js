@@ -44,17 +44,11 @@ export default [
   },
   {
     path: '/',
-    component: ComponentCreator('/', '2c7'),
+    component: ComponentCreator('/', '6cb'),
     routes: [
       {
         path: '/about',
         component: ComponentCreator('/about', '264'),
-        exact: true,
-        sidebar: "courseSidebar"
-      },
-      {
-        path: '/aboutold',
-        component: ComponentCreator('/aboutold', 'f1a'),
         exact: true,
         sidebar: "courseSidebar"
       },

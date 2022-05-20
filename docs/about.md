@@ -45,6 +45,23 @@ We're a software development agency with developers from all over the world. We 
 
 ![Our team](./cfa-team.jpeg)
 
+**Who we are**
+
+- Highly motivated developers at your fingertips
+- A network of App Developers living the dream.
+- We chase freedom to be more motivated, creative and talented than any other agency.
+- Young, Ambitious, Adventurous Developers Chasing Freedom
+- We build apps and chase freedom by traveling the world
+- We attend many conferences and go on adventures so we can enjoy our job and stay on top of our game.
+
+**Our Philosophy**
+
+- **Developer-first**: focus on developer expertise, developer growth, developer freedom, developer lifestyle, developer happiness.
+- **Typescript-first**: We mainly use Typescript, React with Native, Expo, Next.js and Node.js
+- **Trust-first**: Don’t spend much time on contracts and requirements. Just get going and see where it goes.
+- **Remote-first**: There is no requirement of location, never.
+- **Humane-first**: We’re only involved in products that are good for humanity and the planet.
+
 ## A word from me...
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/D13goXBeMIc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

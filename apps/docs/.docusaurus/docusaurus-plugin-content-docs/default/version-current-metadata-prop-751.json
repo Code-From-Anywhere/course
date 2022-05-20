@@ -295,12 +295,6 @@
       },
       {
         "type": "link",
-        "label": "Highly motivated developers at your fingertips",
-        "href": "/aboutold",
-        "docId": "aboutold"
-      },
-      {
-        "type": "link",
         "label": "TODO",
         "href": "/todo",
         "docId": "todo"
@@ -312,12 +306,6 @@
       "id": "about",
       "title": "Code From Anywhere Course",
       "description": "This course is a work in progress... Check back soon!",
-      "sidebar": "courseSidebar"
-    },
-    "aboutold": {
-      "id": "aboutold",
-      "title": "Highly motivated developers at your fingertips",
-      "description": "Code From Anywhere is a network of App Developers living the dream. We chase freedom to be more motivated, creative and talented than any other agency.",
       "sidebar": "courseSidebar"
     },
     "beginner/css": {
@@ -521,7 +509,7 @@
     "wizard/become-a-wizard": {
       "id": "wizard/become-a-wizard",
       "title": "Become a Wizard",
-      "description": "Join the Wizard Team",
+      "description": "Join the CFA Wizards Team",
       "sidebar": "courseSidebar"
     },
     "wizard/conventions-standards": {
