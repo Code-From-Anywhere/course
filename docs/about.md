@@ -45,6 +45,8 @@ We're a software development agency with developers from all over the world. We 
 
 ![Our team](./cfa-team.jpeg)
 
+<details><summary>About us</summary>
+
 **Who we are**
 
 - Highly motivated developers at your fingertips
@@ -62,8 +64,11 @@ We're a software development agency with developers from all over the world. We 
 - **Remote-first**: There is no requirement of location, never.
 - **Humane-first**: We’re only involved in products that are good for humanity and the planet.
 
-Clients: If you want to work with us, check [my services](/services)
-Devs: If you want to work with us, check [becoming a wizard](/wizard/become-a-wizard)
+Do you have money? If you want to work with us, check [our services](/services)
+
+Do you need money:? If you want to work with us, check [becoming a wizard](/wizard/become-a-wizard)
+
+</details>
 
 ## A word from me...
 
