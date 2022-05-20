@@ -47,7 +47,6 @@ const RenderRandomSocialMedia = () => {
           platform: "twitter",
           id: "1474675639726739457",
         },
-        { platform: "twitter", id: "1482233495195770883" },
       ].map((value, index) => renderPost(value, index))}
     </div>
   );
