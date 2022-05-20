@@ -63,7 +63,7 @@
                 "permalink": "/beginner/html"
               },
               "next": {
-                "title": "Knowing your terminal",
+                "title": "Bash",
                 "permalink": "/beginner/terminal"
               }
             },
@@ -159,7 +159,7 @@
               "frontMatter": {},
               "sidebar": "courseSidebar",
               "previous": {
-                "title": "Knowing your terminal",
+                "title": "Bash",
                 "permalink": "/beginner/terminal"
               },
               "next": {
@@ -231,7 +231,9 @@
               "tags": [],
               "version": "current",
               "sidebarPosition": 7,
-              "frontMatter": {},
+              "frontMatter": {
+                "sidebar_label": "Bash"
+              },
               "sidebar": "courseSidebar",
               "previous": {
                 "title": "CSS",
@@ -979,7 +981,8 @@
                   },
                   {
                     "type": "doc",
-                    "id": "beginner/terminal"
+                    "id": "beginner/terminal",
+                    "label": "Bash"
                   },
                   {
                     "type": "doc",

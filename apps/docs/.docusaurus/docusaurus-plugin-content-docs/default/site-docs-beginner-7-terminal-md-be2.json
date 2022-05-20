@@ -12,7 +12,9 @@
   "tags": [],
   "version": "current",
   "sidebarPosition": 7,
-  "frontMatter": {},
+  "frontMatter": {
+    "sidebar_label": "Bash"
+  },
   "sidebar": "courseSidebar",
   "previous": {
     "title": "CSS",

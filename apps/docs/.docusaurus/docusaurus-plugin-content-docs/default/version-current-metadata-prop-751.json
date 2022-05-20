@@ -58,7 +58,7 @@
           },
           {
             "type": "link",
-            "label": "Knowing your terminal",
+            "label": "Bash",
             "href": "/beginner/terminal",
             "docId": "beginner/terminal"
           },
