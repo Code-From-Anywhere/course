@@ -38,3 +38,7 @@ Please click [here](https://join.slack.com/t/codefromanywhere/shared_invite/zt-1
 We're a software development agency with developers from all over the world. We decided to build a course to share the way we work and make full-stack apps super quickly.
 
 ![Our team](./cfa-team.jpeg)
+
+## A word from me...
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/D13goXBeMIc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
