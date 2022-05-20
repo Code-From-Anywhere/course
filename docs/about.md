@@ -33,6 +33,12 @@ Please click [here](https://join.slack.com/t/codefromanywhere/shared_invite/zt-1
 - Potential to grow using open source and work with our clients
 - A great group of people that love coding and freedom to do it from anywhere!
 
+## Bootcamp
+
+Do you really want to kickstart your developer career? I'm accepting applications into our bootcamp. Once we have at least 10 applications, it will get started. This boot camp teaches you this course and guides you through making your first full stack app. We'll have video meetings twice a day, you'll get a study buddy, and you'll join a group of 5-10 people doing this bootcamp, so you can keep each other motivated.
+
+Please note that a regular bootcamp easily takes **3 months**. Our bootcamp can be done in under **a month** of full-time or 2-3 months part-time, and is **completely free** (for now).
+
 ## What's Code From Anywhere?
 
 We're a software development agency with developers from all over the world. We decided to build a course to share the way we work and make full-stack apps super quickly.
