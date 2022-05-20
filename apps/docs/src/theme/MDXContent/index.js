@@ -7,14 +7,14 @@ const LinkedIn = ({ id }) => {
       src={`https://www.linkedin.com/embed/feed/update/urn:li:share:${id}`}
       height="624"
       width="504"
-      frameborder="0"
-      allowfullscreen=""
+      frameBorder="0"
+      allowFullScreen=""
       title="Embedded post"
     ></iframe>
   );
 };
 
-const renderPost = (post) => {
+const renderPost = (post, index) => {
   const postComponent =
     post.platform === "twitter" ? (
       <TwitterTweetEmbed
@@ -28,7 +28,7 @@ const renderPost = (post) => {
     );
 
   return (
-    <div className="w-[504px] h-[624px] relative">
+    <div key={`post${index}`} className="w-[504px] h-[624px] relative">
       <div className="w-[504px] h-[624px] bg-white rounded-lg">
         {postComponent}
       </div>
@@ -48,7 +48,7 @@ const RenderRandomSocialMedia = () => {
           id: "1474675639726739457",
         },
         { platform: "twitter", id: "1482233495195770883" },
-      ].map(renderPost)}
+      ].map((value, index) => renderPost(value, index))}
     </div>
   );
 };
