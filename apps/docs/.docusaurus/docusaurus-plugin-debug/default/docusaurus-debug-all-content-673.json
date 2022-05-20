@@ -247,7 +247,7 @@
             {
               "unversionedId": "frontend/apply",
               "id": "frontend/apply",
-              "title": "Become a frontend developer",
+              "title": "Become a frontend dev",
               "description": "I strongly suggest not to do the whole course. I think that now you already know enough to become a front-end developer. Seriously, that's all you need to know!",
               "source": "@site/../../docs/frontend/9.apply.md",
               "sourceDirName": "frontend",
@@ -290,7 +290,7 @@
                 "permalink": "/frontend/npm-packages"
               },
               "next": {
-                "title": "Become a frontend developer",
+                "title": "Become a frontend dev",
                 "permalink": "/frontend/apply"
               }
             },
@@ -472,7 +472,7 @@
             {
               "unversionedId": "fullstack/apply",
               "id": "fullstack/apply",
-              "title": "Become a full-stack developer.",
+              "title": "Become a full-stack dev",
               "description": "You're now a full-stack developer. You may not know everything of course... But you'll know the basics. Just get that €75 an hour freelancing gig, and keep reading!",
               "source": "@site/../../docs/fullstack/8.apply.md",
               "sourceDirName": "fullstack",
@@ -565,7 +565,7 @@
                 "permalink": "/fullstack/deploy-backend"
               },
               "next": {
-                "title": "Become a full-stack developer.",
+                "title": "Become a full-stack dev",
                 "permalink": "/fullstack/apply"
               }
             },
