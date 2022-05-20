@@ -37,7 +37,7 @@ Please click [here](https://join.slack.com/t/codefromanywhere/shared_invite/zt-1
 
 Do you really want to kickstart your developer career? I'm accepting applications into our bootcamp. Once we have at least 10 applications, it will get started. This boot camp teaches you this course and guides you through making your first full stack app. We'll have video meetings twice a day, you'll get a study buddy, and you'll join a group of 5-10 people doing this bootcamp, so you can keep each other motivated.
 
-Please note that a regular bootcamp easily takes **3 months**. Our bootcamp can be done in under **a month** of full-time or 2-3 months part-time, and is **completely free** (for now).
+Please note that a [regular bootcamp](https://www.switchup.org/rankings/best-coding-bootcamps) like [LeWagon](https://lewagon.com) easily takes **3 months** and costs **tens of thousands of euros**... Our bootcamp can be done in under **a month** of full-time or 2-3 months part-time, and is **completely free** (for now). Is it just as good as the other bootcamps? We don't know yet, but we're aiming for better.
 
 ## What's Code From Anywhere?
 
