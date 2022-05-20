@@ -371,7 +371,7 @@
     "frontend/apply": {
       "id": "frontend/apply",
       "title": "Become a frontend dev",
-      "description": "I strongly suggest not to do the whole course. I think that now you already know enough to become a front-end developer. Seriously, that's all you need to know!",
+      "description": "I strongly suggest not to do the whole course. I think that now you already know enough to become a front-end developer. Seriously, that's all you need to know! Just go get a job so you can use your knowledge in practice.",
       "sidebar": "courseSidebar"
     },
     "frontend/config": {
