@@ -365,7 +365,7 @@
     "events": {
       "id": "events",
       "title": "events",
-      "description": "Join us here to see our meetings",
+      "description": "Join us here to see our meetings. Sometimes we also organise public events here.",
       "sidebar": "courseSidebar"
     },
     "frontend/apply": {
