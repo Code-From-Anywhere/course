@@ -63,8 +63,8 @@
                 "permalink": "/beginner/html"
               },
               "next": {
-                "title": "🦜 Competent",
-                "permalink": "/category/-competent"
+                "title": "💫 Frontend",
+                "permalink": "/category/-frontend"
               }
             },
             {
@@ -193,16 +193,16 @@
               }
             },
             {
-              "unversionedId": "competent/config",
-              "id": "competent/config",
+              "unversionedId": "frontend/config",
+              "id": "frontend/config",
               "title": "Configurations",
               "description": "Don't get lost in them! It's easy to do though, so be careful. On this page I'll let you know which configurations you need to know about for sure.",
-              "source": "@site/../../docs/competent/8.config.md",
-              "sourceDirName": "competent",
-              "slug": "/competent/config",
-              "permalink": "/competent/config",
+              "source": "@site/../../docs/frontend/8.config.md",
+              "sourceDirName": "frontend",
+              "slug": "/frontend/config",
+              "permalink": "/frontend/config",
               "draft": false,
-              "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/competent/8.config.md",
+              "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/frontend/8.config.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 8,
@@ -210,24 +210,24 @@
               "sidebar": "courseSidebar",
               "previous": {
                 "title": "NPM packages",
-                "permalink": "/competent/npm-packages"
+                "permalink": "/frontend/npm-packages"
               },
               "next": {
                 "title": "Become a frontend developer",
-                "permalink": "/competent/distribution"
+                "permalink": "/frontend/distribution"
               }
             },
             {
-              "unversionedId": "competent/data-storage",
-              "id": "competent/data-storage",
+              "unversionedId": "frontend/data-storage",
+              "id": "frontend/data-storage",
               "title": "Data Storage",
               "description": "Coming soon...",
-              "source": "@site/../../docs/competent/5.data-storage.md",
-              "sourceDirName": "competent",
-              "slug": "/competent/data-storage",
-              "permalink": "/competent/data-storage",
+              "source": "@site/../../docs/frontend/5.data-storage.md",
+              "sourceDirName": "frontend",
+              "slug": "/frontend/data-storage",
+              "permalink": "/frontend/data-storage",
               "draft": false,
-              "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/competent/5.data-storage.md",
+              "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/frontend/5.data-storage.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 5,
@@ -235,24 +235,24 @@
               "sidebar": "courseSidebar",
               "previous": {
                 "title": "Deploy your frontend",
-                "permalink": "/competent/deploy-frontend"
+                "permalink": "/frontend/deploy-frontend"
               },
               "next": {
                 "title": "Tailwind",
-                "permalink": "/competent/tailwind"
+                "permalink": "/frontend/tailwind"
               }
             },
             {
-              "unversionedId": "competent/deploy-frontend",
-              "id": "competent/deploy-frontend",
+              "unversionedId": "frontend/deploy-frontend",
+              "id": "frontend/deploy-frontend",
               "title": "Deploy your frontend",
               "description": "About deploying to Vercel, Getting Domains, setting up DNS",
-              "source": "@site/../../docs/competent/4.deploy-frontend.md",
-              "sourceDirName": "competent",
-              "slug": "/competent/deploy-frontend",
-              "permalink": "/competent/deploy-frontend",
+              "source": "@site/../../docs/frontend/4.deploy-frontend.md",
+              "sourceDirName": "frontend",
+              "slug": "/frontend/deploy-frontend",
+              "permalink": "/frontend/deploy-frontend",
               "draft": false,
-              "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/competent/4.deploy-frontend.md",
+              "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/frontend/4.deploy-frontend.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 4,
@@ -260,24 +260,24 @@
               "sidebar": "courseSidebar",
               "previous": {
                 "title": "React & Next.js",
-                "permalink": "/competent/react-nextjs"
+                "permalink": "/frontend/react-nextjs"
               },
               "next": {
                 "title": "Data Storage",
-                "permalink": "/competent/data-storage"
+                "permalink": "/frontend/data-storage"
               }
             },
             {
-              "unversionedId": "competent/distribution",
-              "id": "competent/distribution",
+              "unversionedId": "frontend/distribution",
+              "id": "frontend/distribution",
               "title": "Become a frontend developer",
               "description": "I strongly suggest not to do the whole course. I think that now you already know enough to become a front-end developer. Seriously, that's all you need to know!",
-              "source": "@site/../../docs/competent/9.distribution.md",
-              "sourceDirName": "competent",
-              "slug": "/competent/distribution",
-              "permalink": "/competent/distribution",
+              "source": "@site/../../docs/frontend/9.distribution.md",
+              "sourceDirName": "frontend",
+              "slug": "/frontend/distribution",
+              "permalink": "/frontend/distribution",
               "draft": false,
-              "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/competent/9.distribution.md",
+              "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/frontend/9.distribution.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 9,
@@ -285,49 +285,49 @@
               "sidebar": "courseSidebar",
               "previous": {
                 "title": "Configurations",
-                "permalink": "/competent/config"
+                "permalink": "/frontend/config"
               },
               "next": {
-                "title": "🦅 Expert",
-                "permalink": "/category/-expert"
+                "title": "🦅 Full Stack",
+                "permalink": "/category/-full-stack"
               }
             },
             {
-              "unversionedId": "competent/git",
-              "id": "competent/git",
+              "unversionedId": "frontend/git",
+              "id": "frontend/git",
               "title": "Git",
               "description": "Git is needed for version control, deployment, and for collaboration in a team.",
-              "source": "@site/../../docs/competent/1.git.md",
-              "sourceDirName": "competent",
-              "slug": "/competent/git",
-              "permalink": "/competent/git",
+              "source": "@site/../../docs/frontend/1.git.md",
+              "sourceDirName": "frontend",
+              "slug": "/frontend/git",
+              "permalink": "/frontend/git",
               "draft": false,
-              "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/competent/1.git.md",
+              "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/frontend/1.git.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 1,
               "frontMatter": {},
               "sidebar": "courseSidebar",
               "previous": {
-                "title": "🦜 Competent",
-                "permalink": "/category/-competent"
+                "title": "💫 Frontend",
+                "permalink": "/category/-frontend"
               },
               "next": {
                 "title": "TypeScript basics",
-                "permalink": "/competent/typescript"
+                "permalink": "/frontend/typescript"
               }
             },
             {
-              "unversionedId": "competent/npm-packages",
-              "id": "competent/npm-packages",
+              "unversionedId": "frontend/npm-packages",
+              "id": "frontend/npm-packages",
               "title": "NPM packages",
               "description": "You need to know the following",
-              "source": "@site/../../docs/competent/7.npm-packages.md",
-              "sourceDirName": "competent",
-              "slug": "/competent/npm-packages",
-              "permalink": "/competent/npm-packages",
+              "source": "@site/../../docs/frontend/7.npm-packages.md",
+              "sourceDirName": "frontend",
+              "slug": "/frontend/npm-packages",
+              "permalink": "/frontend/npm-packages",
               "draft": false,
-              "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/competent/7.npm-packages.md",
+              "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/frontend/7.npm-packages.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 7,
@@ -335,24 +335,24 @@
               "sidebar": "courseSidebar",
               "previous": {
                 "title": "Tailwind",
-                "permalink": "/competent/tailwind"
+                "permalink": "/frontend/tailwind"
               },
               "next": {
                 "title": "Configurations",
-                "permalink": "/competent/config"
+                "permalink": "/frontend/config"
               }
             },
             {
-              "unversionedId": "competent/react-nextjs",
-              "id": "competent/react-nextjs",
+              "unversionedId": "frontend/react-nextjs",
+              "id": "frontend/react-nextjs",
               "title": "React & Next.js",
               "description": "Coming soon...",
-              "source": "@site/../../docs/competent/3.react-nextjs.md",
-              "sourceDirName": "competent",
-              "slug": "/competent/react-nextjs",
-              "permalink": "/competent/react-nextjs",
+              "source": "@site/../../docs/frontend/3.react-nextjs.md",
+              "sourceDirName": "frontend",
+              "slug": "/frontend/react-nextjs",
+              "permalink": "/frontend/react-nextjs",
               "draft": false,
-              "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/competent/3.react-nextjs.md",
+              "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/frontend/3.react-nextjs.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 3,
@@ -360,24 +360,24 @@
               "sidebar": "courseSidebar",
               "previous": {
                 "title": "TypeScript basics",
-                "permalink": "/competent/typescript"
+                "permalink": "/frontend/typescript"
               },
               "next": {
                 "title": "Deploy your frontend",
-                "permalink": "/competent/deploy-frontend"
+                "permalink": "/frontend/deploy-frontend"
               }
             },
             {
-              "unversionedId": "competent/tailwind",
-              "id": "competent/tailwind",
+              "unversionedId": "frontend/tailwind",
+              "id": "frontend/tailwind",
               "title": "Tailwind",
               "description": "The future of CSS is no CSS! This looks like css but it's making it much easier to apply.",
-              "source": "@site/../../docs/competent/6.tailwind.md",
-              "sourceDirName": "competent",
-              "slug": "/competent/tailwind",
-              "permalink": "/competent/tailwind",
+              "source": "@site/../../docs/frontend/6.tailwind.md",
+              "sourceDirName": "frontend",
+              "slug": "/frontend/tailwind",
+              "permalink": "/frontend/tailwind",
               "draft": false,
-              "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/competent/6.tailwind.md",
+              "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/frontend/6.tailwind.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 6,
@@ -385,24 +385,24 @@
               "sidebar": "courseSidebar",
               "previous": {
                 "title": "Data Storage",
-                "permalink": "/competent/data-storage"
+                "permalink": "/frontend/data-storage"
               },
               "next": {
                 "title": "NPM packages",
-                "permalink": "/competent/npm-packages"
+                "permalink": "/frontend/npm-packages"
               }
             },
             {
-              "unversionedId": "competent/typescript",
-              "id": "competent/typescript",
+              "unversionedId": "frontend/typescript",
+              "id": "frontend/typescript",
               "title": "TypeScript basics",
               "description": "Let's go over the following concepts:",
-              "source": "@site/../../docs/competent/2.typescript.md",
-              "sourceDirName": "competent",
-              "slug": "/competent/typescript",
-              "permalink": "/competent/typescript",
+              "source": "@site/../../docs/frontend/2.typescript.md",
+              "sourceDirName": "frontend",
+              "slug": "/frontend/typescript",
+              "permalink": "/frontend/typescript",
               "draft": false,
-              "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/competent/2.typescript.md",
+              "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/frontend/2.typescript.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 2,
@@ -410,24 +410,24 @@
               "sidebar": "courseSidebar",
               "previous": {
                 "title": "Git",
-                "permalink": "/competent/git"
+                "permalink": "/frontend/git"
               },
               "next": {
                 "title": "React & Next.js",
-                "permalink": "/competent/react-nextjs"
+                "permalink": "/frontend/react-nextjs"
               }
             },
             {
-              "unversionedId": "expert/core",
-              "id": "expert/core",
+              "unversionedId": "fullstack/core",
+              "id": "fullstack/core",
               "title": "Core",
               "description": "In /packages/core you'll want to define your type interfaces and endpoints.",
-              "source": "@site/../../docs/expert/2.core.md",
-              "sourceDirName": "expert",
-              "slug": "/expert/core",
-              "permalink": "/expert/core",
+              "source": "@site/../../docs/fullstack/2.core.md",
+              "sourceDirName": "fullstack",
+              "slug": "/fullstack/core",
+              "permalink": "/fullstack/core",
               "draft": false,
-              "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/expert/2.core.md",
+              "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/fullstack/2.core.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 2,
@@ -435,24 +435,24 @@
               "sidebar": "courseSidebar",
               "previous": {
                 "title": "Going full stack",
-                "permalink": "/expert/sensible"
+                "permalink": "/fullstack/sensible"
               },
               "next": {
                 "title": "Server",
-                "permalink": "/expert/server"
+                "permalink": "/fullstack/server"
               }
             },
             {
-              "unversionedId": "expert/deploy-backend",
-              "id": "expert/deploy-backend",
+              "unversionedId": "fullstack/deploy-backend",
+              "id": "fullstack/deploy-backend",
               "title": "Deploy backend",
               "description": "This is a big one!",
-              "source": "@site/../../docs/expert/6.deploy-backend.md",
-              "sourceDirName": "expert",
-              "slug": "/expert/deploy-backend",
-              "permalink": "/expert/deploy-backend",
+              "source": "@site/../../docs/fullstack/6.deploy-backend.md",
+              "sourceDirName": "fullstack",
+              "slug": "/fullstack/deploy-backend",
+              "permalink": "/fullstack/deploy-backend",
               "draft": false,
-              "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/expert/6.deploy-backend.md",
+              "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/fullstack/6.deploy-backend.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 6,
@@ -460,24 +460,24 @@
               "sidebar": "courseSidebar",
               "previous": {
                 "title": "Dev Dashboard",
-                "permalink": "/expert/dev-dashboard"
+                "permalink": "/fullstack/dev-dashboard"
               },
               "next": {
                 "title": "Deploying with expo",
-                "permalink": "/expert/deploy-expo-app"
+                "permalink": "/fullstack/deploy-expo-app"
               }
             },
             {
-              "unversionedId": "expert/deploy-expo-app",
-              "id": "expert/deploy-expo-app",
+              "unversionedId": "fullstack/deploy-expo-app",
+              "id": "fullstack/deploy-expo-app",
               "title": "Deploying with expo",
               "description": "Once you shared the UI with react-with-native your app should also work fine on native cross-platform mobile with sensible's built-in expo support.",
-              "source": "@site/../../docs/expert/7.deploy-expo-app.md",
-              "sourceDirName": "expert",
-              "slug": "/expert/deploy-expo-app",
-              "permalink": "/expert/deploy-expo-app",
+              "source": "@site/../../docs/fullstack/7.deploy-expo-app.md",
+              "sourceDirName": "fullstack",
+              "slug": "/fullstack/deploy-expo-app",
+              "permalink": "/fullstack/deploy-expo-app",
               "draft": false,
-              "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/expert/7.deploy-expo-app.md",
+              "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/fullstack/7.deploy-expo-app.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 7,
@@ -485,24 +485,24 @@
               "sidebar": "courseSidebar",
               "previous": {
                 "title": "Deploy backend",
-                "permalink": "/expert/deploy-backend"
+                "permalink": "/fullstack/deploy-backend"
               },
               "next": {
                 "title": "What's next?",
-                "permalink": "/expert/what-now"
+                "permalink": "/fullstack/what-now"
               }
             },
             {
-              "unversionedId": "expert/dev-dashboard",
-              "id": "expert/dev-dashboard",
+              "unversionedId": "fullstack/dev-dashboard",
+              "id": "fullstack/dev-dashboard",
               "title": "Dev Dashboard",
               "description": "On the dev dashboard you'll find all you need to know about your app",
-              "source": "@site/../../docs/expert/5.dev-dashboard.md",
-              "sourceDirName": "expert",
-              "slug": "/expert/dev-dashboard",
-              "permalink": "/expert/dev-dashboard",
+              "source": "@site/../../docs/fullstack/5.dev-dashboard.md",
+              "sourceDirName": "fullstack",
+              "slug": "/fullstack/dev-dashboard",
+              "permalink": "/fullstack/dev-dashboard",
               "draft": false,
-              "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/expert/5.dev-dashboard.md",
+              "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/fullstack/5.dev-dashboard.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 5,
@@ -510,49 +510,49 @@
               "sidebar": "courseSidebar",
               "previous": {
                 "title": "UI",
-                "permalink": "/expert/ui"
+                "permalink": "/fullstack/ui"
               },
               "next": {
                 "title": "Deploy backend",
-                "permalink": "/expert/deploy-backend"
+                "permalink": "/fullstack/deploy-backend"
               }
             },
             {
-              "unversionedId": "expert/sensible",
-              "id": "expert/sensible",
+              "unversionedId": "fullstack/sensible",
+              "id": "fullstack/sensible",
               "title": "Going full stack",
               "description": "Let's go full stack baby! Yes, that's right.",
-              "source": "@site/../../docs/expert/1.sensible.md",
-              "sourceDirName": "expert",
-              "slug": "/expert/sensible",
-              "permalink": "/expert/sensible",
+              "source": "@site/../../docs/fullstack/1.sensible.md",
+              "sourceDirName": "fullstack",
+              "slug": "/fullstack/sensible",
+              "permalink": "/fullstack/sensible",
               "draft": false,
-              "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/expert/1.sensible.md",
+              "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/fullstack/1.sensible.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 1,
               "frontMatter": {},
               "sidebar": "courseSidebar",
               "previous": {
-                "title": "🦅 Expert",
-                "permalink": "/category/-expert"
+                "title": "🦅 Full Stack",
+                "permalink": "/category/-full-stack"
               },
               "next": {
                 "title": "Core",
-                "permalink": "/expert/core"
+                "permalink": "/fullstack/core"
               }
             },
             {
-              "unversionedId": "expert/server",
-              "id": "expert/server",
+              "unversionedId": "fullstack/server",
+              "id": "fullstack/server",
               "title": "Server",
               "description": "On the server (/apps/server) you'll implement your endpoints and make them available to the public.",
-              "source": "@site/../../docs/expert/3.server.md",
-              "sourceDirName": "expert",
-              "slug": "/expert/server",
-              "permalink": "/expert/server",
+              "source": "@site/../../docs/fullstack/3.server.md",
+              "sourceDirName": "fullstack",
+              "slug": "/fullstack/server",
+              "permalink": "/fullstack/server",
               "draft": false,
-              "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/expert/3.server.md",
+              "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/fullstack/3.server.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 3,
@@ -560,24 +560,24 @@
               "sidebar": "courseSidebar",
               "previous": {
                 "title": "Core",
-                "permalink": "/expert/core"
+                "permalink": "/fullstack/core"
               },
               "next": {
                 "title": "UI",
-                "permalink": "/expert/ui"
+                "permalink": "/fullstack/ui"
               }
             },
             {
-              "unversionedId": "expert/ui",
-              "id": "expert/ui",
+              "unversionedId": "fullstack/ui",
+              "id": "fullstack/ui",
               "title": "UI",
               "description": "In the /packages/ui folder you'll create most of your UI. This UI can be shared with multiple frontends this way, not just Next.js!",
-              "source": "@site/../../docs/expert/4.ui.md",
-              "sourceDirName": "expert",
-              "slug": "/expert/ui",
-              "permalink": "/expert/ui",
+              "source": "@site/../../docs/fullstack/4.ui.md",
+              "sourceDirName": "fullstack",
+              "slug": "/fullstack/ui",
+              "permalink": "/fullstack/ui",
               "draft": false,
-              "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/expert/4.ui.md",
+              "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/fullstack/4.ui.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 4,
@@ -585,24 +585,24 @@
               "sidebar": "courseSidebar",
               "previous": {
                 "title": "Server",
-                "permalink": "/expert/server"
+                "permalink": "/fullstack/server"
               },
               "next": {
                 "title": "Dev Dashboard",
-                "permalink": "/expert/dev-dashboard"
+                "permalink": "/fullstack/dev-dashboard"
               }
             },
             {
-              "unversionedId": "expert/what-now",
-              "id": "expert/what-now",
+              "unversionedId": "fullstack/what-now",
+              "id": "fullstack/what-now",
               "title": "What's next?",
               "description": "You're now a full-stack developer. You may not know everything of course... But you'll know the basics. Just get that €75 an hour freelancing gig, and keep reading!",
-              "source": "@site/../../docs/expert/8.what-now.md",
-              "sourceDirName": "expert",
-              "slug": "/expert/what-now",
-              "permalink": "/expert/what-now",
+              "source": "@site/../../docs/fullstack/8.what-now.md",
+              "sourceDirName": "fullstack",
+              "slug": "/fullstack/what-now",
+              "permalink": "/fullstack/what-now",
               "draft": false,
-              "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/expert/8.what-now.md",
+              "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/fullstack/8.what-now.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 8,
@@ -610,7 +610,7 @@
               "sidebar": "courseSidebar",
               "previous": {
                 "title": "Deploying with expo",
-                "permalink": "/expert/deploy-expo-app"
+                "permalink": "/fullstack/deploy-expo-app"
               },
               "next": {
                 "title": "🧙‍♂️ Wizard",
@@ -936,96 +936,96 @@
               },
               {
                 "type": "category",
-                "label": "🦜 Competent",
+                "label": "💫 Frontend",
                 "collapsible": true,
                 "collapsed": false,
                 "items": [
                   {
                     "type": "doc",
-                    "id": "competent/git"
+                    "id": "frontend/git"
                   },
                   {
                     "type": "doc",
-                    "id": "competent/typescript"
+                    "id": "frontend/typescript"
                   },
                   {
                     "type": "doc",
-                    "id": "competent/react-nextjs"
+                    "id": "frontend/react-nextjs"
                   },
                   {
                     "type": "doc",
-                    "id": "competent/deploy-frontend"
+                    "id": "frontend/deploy-frontend"
                   },
                   {
                     "type": "doc",
-                    "id": "competent/data-storage"
+                    "id": "frontend/data-storage"
                   },
                   {
                     "type": "doc",
-                    "id": "competent/tailwind"
+                    "id": "frontend/tailwind"
                   },
                   {
                     "type": "doc",
-                    "id": "competent/npm-packages"
+                    "id": "frontend/npm-packages"
                   },
                   {
                     "type": "doc",
-                    "id": "competent/config"
+                    "id": "frontend/config"
                   },
                   {
                     "type": "doc",
-                    "id": "competent/distribution"
+                    "id": "frontend/distribution"
                   }
                 ],
                 "link": {
                   "type": "generated-index",
-                  "slug": "/category/-competent",
-                  "permalink": "/category/-competent"
+                  "slug": "/category/-frontend",
+                  "permalink": "/category/-frontend"
                 }
               },
               {
                 "type": "category",
-                "label": "🦅 Expert",
+                "label": "🦅 Full Stack",
                 "collapsible": true,
                 "collapsed": false,
                 "items": [
                   {
                     "type": "doc",
-                    "id": "expert/sensible"
+                    "id": "fullstack/sensible"
                   },
                   {
                     "type": "doc",
-                    "id": "expert/core"
+                    "id": "fullstack/core"
                   },
                   {
                     "type": "doc",
-                    "id": "expert/server"
+                    "id": "fullstack/server"
                   },
                   {
                     "type": "doc",
-                    "id": "expert/ui"
+                    "id": "fullstack/ui"
                   },
                   {
                     "type": "doc",
-                    "id": "expert/dev-dashboard"
+                    "id": "fullstack/dev-dashboard"
                   },
                   {
                     "type": "doc",
-                    "id": "expert/deploy-backend"
+                    "id": "fullstack/deploy-backend"
                   },
                   {
                     "type": "doc",
-                    "id": "expert/deploy-expo-app"
+                    "id": "fullstack/deploy-expo-app"
                   },
                   {
                     "type": "doc",
-                    "id": "expert/what-now"
+                    "id": "fullstack/what-now"
                   }
                 ],
                 "link": {
                   "type": "generated-index",
-                  "slug": "/category/-expert",
-                  "permalink": "/category/-expert"
+                  "slug": "/category/-full-stack",
+                  "permalink": "/category/-full-stack"
                 }
               },
               {

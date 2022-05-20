@@ -46,88 +46,88 @@
               "sidebar": "courseSidebar"
             },
             {
-              "id": "competent/config",
-              "path": "/competent/config",
+              "id": "frontend/config",
+              "path": "/frontend/config",
               "sidebar": "courseSidebar"
             },
             {
-              "id": "competent/data-storage",
-              "path": "/competent/data-storage",
+              "id": "frontend/data-storage",
+              "path": "/frontend/data-storage",
               "sidebar": "courseSidebar"
             },
             {
-              "id": "competent/deploy-frontend",
-              "path": "/competent/deploy-frontend",
+              "id": "frontend/deploy-frontend",
+              "path": "/frontend/deploy-frontend",
               "sidebar": "courseSidebar"
             },
             {
-              "id": "competent/distribution",
-              "path": "/competent/distribution",
+              "id": "frontend/distribution",
+              "path": "/frontend/distribution",
               "sidebar": "courseSidebar"
             },
             {
-              "id": "competent/git",
-              "path": "/competent/git",
+              "id": "frontend/git",
+              "path": "/frontend/git",
               "sidebar": "courseSidebar"
             },
             {
-              "id": "competent/npm-packages",
-              "path": "/competent/npm-packages",
+              "id": "frontend/npm-packages",
+              "path": "/frontend/npm-packages",
               "sidebar": "courseSidebar"
             },
             {
-              "id": "competent/react-nextjs",
-              "path": "/competent/react-nextjs",
+              "id": "frontend/react-nextjs",
+              "path": "/frontend/react-nextjs",
               "sidebar": "courseSidebar"
             },
             {
-              "id": "competent/tailwind",
-              "path": "/competent/tailwind",
+              "id": "frontend/tailwind",
+              "path": "/frontend/tailwind",
               "sidebar": "courseSidebar"
             },
             {
-              "id": "competent/typescript",
-              "path": "/competent/typescript",
+              "id": "frontend/typescript",
+              "path": "/frontend/typescript",
               "sidebar": "courseSidebar"
             },
             {
-              "id": "expert/core",
-              "path": "/expert/core",
+              "id": "fullstack/core",
+              "path": "/fullstack/core",
               "sidebar": "courseSidebar"
             },
             {
-              "id": "expert/deploy-backend",
-              "path": "/expert/deploy-backend",
+              "id": "fullstack/deploy-backend",
+              "path": "/fullstack/deploy-backend",
               "sidebar": "courseSidebar"
             },
             {
-              "id": "expert/deploy-expo-app",
-              "path": "/expert/deploy-expo-app",
+              "id": "fullstack/deploy-expo-app",
+              "path": "/fullstack/deploy-expo-app",
               "sidebar": "courseSidebar"
             },
             {
-              "id": "expert/dev-dashboard",
-              "path": "/expert/dev-dashboard",
+              "id": "fullstack/dev-dashboard",
+              "path": "/fullstack/dev-dashboard",
               "sidebar": "courseSidebar"
             },
             {
-              "id": "expert/sensible",
-              "path": "/expert/sensible",
+              "id": "fullstack/sensible",
+              "path": "/fullstack/sensible",
               "sidebar": "courseSidebar"
             },
             {
-              "id": "expert/server",
-              "path": "/expert/server",
+              "id": "fullstack/server",
+              "path": "/fullstack/server",
               "sidebar": "courseSidebar"
             },
             {
-              "id": "expert/ui",
-              "path": "/expert/ui",
+              "id": "fullstack/ui",
+              "path": "/fullstack/ui",
               "sidebar": "courseSidebar"
             },
             {
-              "id": "expert/what-now",
-              "path": "/expert/what-now",
+              "id": "fullstack/what-now",
+              "path": "/fullstack/what-now",
               "sidebar": "courseSidebar"
             },
             {
@@ -191,13 +191,13 @@
               "sidebar": "courseSidebar"
             },
             {
-              "id": "/category/-competent",
-              "path": "/category/-competent",
+              "id": "/category/-frontend",
+              "path": "/category/-frontend",
               "sidebar": "courseSidebar"
             },
             {
-              "id": "/category/-expert",
-              "path": "/category/-expert",
+              "id": "/category/-full-stack",
+              "path": "/category/-full-stack",
               "sidebar": "courseSidebar"
             },
             {

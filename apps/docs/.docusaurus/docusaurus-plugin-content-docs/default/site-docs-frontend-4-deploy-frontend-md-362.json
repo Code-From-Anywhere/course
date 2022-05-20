@@ -1,0 +1,25 @@
+{
+  "unversionedId": "frontend/deploy-frontend",
+  "id": "frontend/deploy-frontend",
+  "title": "Deploy your frontend",
+  "description": "About deploying to Vercel, Getting Domains, setting up DNS",
+  "source": "@site/../../docs/frontend/4.deploy-frontend.md",
+  "sourceDirName": "frontend",
+  "slug": "/frontend/deploy-frontend",
+  "permalink": "/frontend/deploy-frontend",
+  "draft": false,
+  "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/frontend/4.deploy-frontend.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {},
+  "sidebar": "courseSidebar",
+  "previous": {
+    "title": "React & Next.js",
+    "permalink": "/frontend/react-nextjs"
+  },
+  "next": {
+    "title": "Data Storage",
+    "permalink": "/frontend/data-storage"
+  }
+}

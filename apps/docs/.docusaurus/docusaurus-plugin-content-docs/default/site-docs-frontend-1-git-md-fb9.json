@@ -1,0 +1,25 @@
+{
+  "unversionedId": "frontend/git",
+  "id": "frontend/git",
+  "title": "Git",
+  "description": "Git is needed for version control, deployment, and for collaboration in a team.",
+  "source": "@site/../../docs/frontend/1.git.md",
+  "sourceDirName": "frontend",
+  "slug": "/frontend/git",
+  "permalink": "/frontend/git",
+  "draft": false,
+  "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/frontend/1.git.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {},
+  "sidebar": "courseSidebar",
+  "previous": {
+    "title": "💫 Frontend",
+    "permalink": "/category/-frontend"
+  },
+  "next": {
+    "title": "TypeScript basics",
+    "permalink": "/frontend/typescript"
+  }
+}

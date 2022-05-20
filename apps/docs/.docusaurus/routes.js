@@ -44,7 +44,7 @@ export default [
   },
   {
     path: '/',
-    component: ComponentCreator('/', 'b0d'),
+    component: ComponentCreator('/', 'e53'),
     routes: [
       {
         path: '/about',
@@ -95,14 +95,14 @@ export default [
         sidebar: "courseSidebar"
       },
       {
-        path: '/category/-competent',
-        component: ComponentCreator('/category/-competent', 'de9'),
+        path: '/category/-frontend',
+        component: ComponentCreator('/category/-frontend', 'be4'),
         exact: true,
         sidebar: "courseSidebar"
       },
       {
-        path: '/category/-expert',
-        component: ComponentCreator('/category/-expert', 'ef9'),
+        path: '/category/-full-stack',
+        component: ComponentCreator('/category/-full-stack', 'c42'),
         exact: true,
         sidebar: "courseSidebar"
       },
@@ -119,104 +119,104 @@ export default [
         sidebar: "courseSidebar"
       },
       {
-        path: '/competent/config',
-        component: ComponentCreator('/competent/config', 'b78'),
+        path: '/frontend/config',
+        component: ComponentCreator('/frontend/config', '606'),
         exact: true,
         sidebar: "courseSidebar"
       },
       {
-        path: '/competent/data-storage',
-        component: ComponentCreator('/competent/data-storage', '971'),
+        path: '/frontend/data-storage',
+        component: ComponentCreator('/frontend/data-storage', '2e7'),
         exact: true,
         sidebar: "courseSidebar"
       },
       {
-        path: '/competent/deploy-frontend',
-        component: ComponentCreator('/competent/deploy-frontend', '55f'),
+        path: '/frontend/deploy-frontend',
+        component: ComponentCreator('/frontend/deploy-frontend', 'd93'),
         exact: true,
         sidebar: "courseSidebar"
       },
       {
-        path: '/competent/distribution',
-        component: ComponentCreator('/competent/distribution', '505'),
+        path: '/frontend/distribution',
+        component: ComponentCreator('/frontend/distribution', 'c5d'),
         exact: true,
         sidebar: "courseSidebar"
       },
       {
-        path: '/competent/git',
-        component: ComponentCreator('/competent/git', 'aa6'),
+        path: '/frontend/git',
+        component: ComponentCreator('/frontend/git', '3ce'),
         exact: true,
         sidebar: "courseSidebar"
       },
       {
-        path: '/competent/npm-packages',
-        component: ComponentCreator('/competent/npm-packages', '9cb'),
+        path: '/frontend/npm-packages',
+        component: ComponentCreator('/frontend/npm-packages', '4f0'),
         exact: true,
         sidebar: "courseSidebar"
       },
       {
-        path: '/competent/react-nextjs',
-        component: ComponentCreator('/competent/react-nextjs', '17b'),
+        path: '/frontend/react-nextjs',
+        component: ComponentCreator('/frontend/react-nextjs', 'b15'),
         exact: true,
         sidebar: "courseSidebar"
       },
       {
-        path: '/competent/tailwind',
-        component: ComponentCreator('/competent/tailwind', '384'),
+        path: '/frontend/tailwind',
+        component: ComponentCreator('/frontend/tailwind', 'a96'),
         exact: true,
         sidebar: "courseSidebar"
       },
       {
-        path: '/competent/typescript',
-        component: ComponentCreator('/competent/typescript', 'da1'),
+        path: '/frontend/typescript',
+        component: ComponentCreator('/frontend/typescript', '7ae'),
         exact: true,
         sidebar: "courseSidebar"
       },
       {
-        path: '/expert/core',
-        component: ComponentCreator('/expert/core', '354'),
+        path: '/fullstack/core',
+        component: ComponentCreator('/fullstack/core', '193'),
         exact: true,
         sidebar: "courseSidebar"
       },
       {
-        path: '/expert/deploy-backend',
-        component: ComponentCreator('/expert/deploy-backend', '284'),
+        path: '/fullstack/deploy-backend',
+        component: ComponentCreator('/fullstack/deploy-backend', 'dc4'),
         exact: true,
         sidebar: "courseSidebar"
       },
       {
-        path: '/expert/deploy-expo-app',
-        component: ComponentCreator('/expert/deploy-expo-app', '65c'),
+        path: '/fullstack/deploy-expo-app',
+        component: ComponentCreator('/fullstack/deploy-expo-app', '544'),
         exact: true,
         sidebar: "courseSidebar"
       },
       {
-        path: '/expert/dev-dashboard',
-        component: ComponentCreator('/expert/dev-dashboard', '42c'),
+        path: '/fullstack/dev-dashboard',
+        component: ComponentCreator('/fullstack/dev-dashboard', '93d'),
         exact: true,
         sidebar: "courseSidebar"
       },
       {
-        path: '/expert/sensible',
-        component: ComponentCreator('/expert/sensible', '0df'),
+        path: '/fullstack/sensible',
+        component: ComponentCreator('/fullstack/sensible', '8b6'),
         exact: true,
         sidebar: "courseSidebar"
       },
       {
-        path: '/expert/server',
-        component: ComponentCreator('/expert/server', '0e2'),
+        path: '/fullstack/server',
+        component: ComponentCreator('/fullstack/server', '3db'),
         exact: true,
         sidebar: "courseSidebar"
       },
       {
-        path: '/expert/ui',
-        component: ComponentCreator('/expert/ui', '070'),
+        path: '/fullstack/ui',
+        component: ComponentCreator('/fullstack/ui', '812'),
         exact: true,
         sidebar: "courseSidebar"
       },
       {
-        path: '/expert/what-now',
-        component: ComponentCreator('/expert/what-now', '376'),
+        path: '/fullstack/what-now',
+        component: ComponentCreator('/fullstack/what-now', '18d'),
         exact: true,
         sidebar: "courseSidebar"
       },

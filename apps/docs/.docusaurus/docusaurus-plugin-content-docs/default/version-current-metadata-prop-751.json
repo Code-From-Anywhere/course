@@ -61,123 +61,123 @@
       },
       {
         "type": "category",
-        "label": "🦜 Competent",
+        "label": "💫 Frontend",
         "collapsible": true,
         "collapsed": false,
         "items": [
           {
             "type": "link",
             "label": "Git",
-            "href": "/competent/git",
-            "docId": "competent/git"
+            "href": "/frontend/git",
+            "docId": "frontend/git"
           },
           {
             "type": "link",
             "label": "TypeScript basics",
-            "href": "/competent/typescript",
-            "docId": "competent/typescript"
+            "href": "/frontend/typescript",
+            "docId": "frontend/typescript"
           },
           {
             "type": "link",
             "label": "React & Next.js",
-            "href": "/competent/react-nextjs",
-            "docId": "competent/react-nextjs"
+            "href": "/frontend/react-nextjs",
+            "docId": "frontend/react-nextjs"
           },
           {
             "type": "link",
             "label": "Deploy your frontend",
-            "href": "/competent/deploy-frontend",
-            "docId": "competent/deploy-frontend"
+            "href": "/frontend/deploy-frontend",
+            "docId": "frontend/deploy-frontend"
           },
           {
             "type": "link",
             "label": "Data Storage",
-            "href": "/competent/data-storage",
-            "docId": "competent/data-storage"
+            "href": "/frontend/data-storage",
+            "docId": "frontend/data-storage"
           },
           {
             "type": "link",
             "label": "Tailwind",
-            "href": "/competent/tailwind",
-            "docId": "competent/tailwind"
+            "href": "/frontend/tailwind",
+            "docId": "frontend/tailwind"
           },
           {
             "type": "link",
             "label": "NPM packages",
-            "href": "/competent/npm-packages",
-            "docId": "competent/npm-packages"
+            "href": "/frontend/npm-packages",
+            "docId": "frontend/npm-packages"
           },
           {
             "type": "link",
             "label": "Configurations",
-            "href": "/competent/config",
-            "docId": "competent/config"
+            "href": "/frontend/config",
+            "docId": "frontend/config"
           },
           {
             "type": "link",
             "label": "Become a frontend developer",
-            "href": "/competent/distribution",
-            "docId": "competent/distribution"
+            "href": "/frontend/distribution",
+            "docId": "frontend/distribution"
           }
         ],
-        "href": "/category/-competent"
+        "href": "/category/-frontend"
       },
       {
         "type": "category",
-        "label": "🦅 Expert",
+        "label": "🦅 Full Stack",
         "collapsible": true,
         "collapsed": false,
         "items": [
           {
             "type": "link",
             "label": "Going full stack",
-            "href": "/expert/sensible",
-            "docId": "expert/sensible"
+            "href": "/fullstack/sensible",
+            "docId": "fullstack/sensible"
           },
           {
             "type": "link",
             "label": "Core",
-            "href": "/expert/core",
-            "docId": "expert/core"
+            "href": "/fullstack/core",
+            "docId": "fullstack/core"
           },
           {
             "type": "link",
             "label": "Server",
-            "href": "/expert/server",
-            "docId": "expert/server"
+            "href": "/fullstack/server",
+            "docId": "fullstack/server"
           },
           {
             "type": "link",
             "label": "UI",
-            "href": "/expert/ui",
-            "docId": "expert/ui"
+            "href": "/fullstack/ui",
+            "docId": "fullstack/ui"
           },
           {
             "type": "link",
             "label": "Dev Dashboard",
-            "href": "/expert/dev-dashboard",
-            "docId": "expert/dev-dashboard"
+            "href": "/fullstack/dev-dashboard",
+            "docId": "fullstack/dev-dashboard"
           },
           {
             "type": "link",
             "label": "Deploy backend",
-            "href": "/expert/deploy-backend",
-            "docId": "expert/deploy-backend"
+            "href": "/fullstack/deploy-backend",
+            "docId": "fullstack/deploy-backend"
           },
           {
             "type": "link",
             "label": "Deploying with expo",
-            "href": "/expert/deploy-expo-app",
-            "docId": "expert/deploy-expo-app"
+            "href": "/fullstack/deploy-expo-app",
+            "docId": "fullstack/deploy-expo-app"
           },
           {
             "type": "link",
             "label": "What's next?",
-            "href": "/expert/what-now",
-            "docId": "expert/what-now"
+            "href": "/fullstack/what-now",
+            "docId": "fullstack/what-now"
           }
         ],
-        "href": "/category/-expert"
+        "href": "/category/-full-stack"
       },
       {
         "type": "category",
@@ -308,104 +308,104 @@
       "description": "To start developing, I recommend the VSCode editor. I recommand having a Mac but it's not needed. It'd also be good to install Node.js already, but you'll only need that in the \"competent\" section.",
       "sidebar": "courseSidebar"
     },
-    "competent/config": {
-      "id": "competent/config",
+    "frontend/config": {
+      "id": "frontend/config",
       "title": "Configurations",
       "description": "Don't get lost in them! It's easy to do though, so be careful. On this page I'll let you know which configurations you need to know about for sure.",
       "sidebar": "courseSidebar"
     },
-    "competent/data-storage": {
-      "id": "competent/data-storage",
+    "frontend/data-storage": {
+      "id": "frontend/data-storage",
       "title": "Data Storage",
       "description": "Coming soon...",
       "sidebar": "courseSidebar"
     },
-    "competent/deploy-frontend": {
-      "id": "competent/deploy-frontend",
+    "frontend/deploy-frontend": {
+      "id": "frontend/deploy-frontend",
       "title": "Deploy your frontend",
       "description": "About deploying to Vercel, Getting Domains, setting up DNS",
       "sidebar": "courseSidebar"
     },
-    "competent/distribution": {
-      "id": "competent/distribution",
+    "frontend/distribution": {
+      "id": "frontend/distribution",
       "title": "Become a frontend developer",
       "description": "I strongly suggest not to do the whole course. I think that now you already know enough to become a front-end developer. Seriously, that's all you need to know!",
       "sidebar": "courseSidebar"
     },
-    "competent/git": {
-      "id": "competent/git",
+    "frontend/git": {
+      "id": "frontend/git",
       "title": "Git",
       "description": "Git is needed for version control, deployment, and for collaboration in a team.",
       "sidebar": "courseSidebar"
     },
-    "competent/npm-packages": {
-      "id": "competent/npm-packages",
+    "frontend/npm-packages": {
+      "id": "frontend/npm-packages",
       "title": "NPM packages",
       "description": "You need to know the following",
       "sidebar": "courseSidebar"
     },
-    "competent/react-nextjs": {
-      "id": "competent/react-nextjs",
+    "frontend/react-nextjs": {
+      "id": "frontend/react-nextjs",
       "title": "React & Next.js",
       "description": "Coming soon...",
       "sidebar": "courseSidebar"
     },
-    "competent/tailwind": {
-      "id": "competent/tailwind",
+    "frontend/tailwind": {
+      "id": "frontend/tailwind",
       "title": "Tailwind",
       "description": "The future of CSS is no CSS! This looks like css but it's making it much easier to apply.",
       "sidebar": "courseSidebar"
     },
-    "competent/typescript": {
-      "id": "competent/typescript",
+    "frontend/typescript": {
+      "id": "frontend/typescript",
       "title": "TypeScript basics",
       "description": "Let's go over the following concepts:",
       "sidebar": "courseSidebar"
     },
-    "expert/core": {
-      "id": "expert/core",
+    "fullstack/core": {
+      "id": "fullstack/core",
       "title": "Core",
       "description": "In /packages/core you'll want to define your type interfaces and endpoints.",
       "sidebar": "courseSidebar"
     },
-    "expert/deploy-backend": {
-      "id": "expert/deploy-backend",
+    "fullstack/deploy-backend": {
+      "id": "fullstack/deploy-backend",
       "title": "Deploy backend",
       "description": "This is a big one!",
       "sidebar": "courseSidebar"
     },
-    "expert/deploy-expo-app": {
-      "id": "expert/deploy-expo-app",
+    "fullstack/deploy-expo-app": {
+      "id": "fullstack/deploy-expo-app",
       "title": "Deploying with expo",
       "description": "Once you shared the UI with react-with-native your app should also work fine on native cross-platform mobile with sensible's built-in expo support.",
       "sidebar": "courseSidebar"
     },
-    "expert/dev-dashboard": {
-      "id": "expert/dev-dashboard",
+    "fullstack/dev-dashboard": {
+      "id": "fullstack/dev-dashboard",
       "title": "Dev Dashboard",
       "description": "On the dev dashboard you'll find all you need to know about your app",
       "sidebar": "courseSidebar"
     },
-    "expert/sensible": {
-      "id": "expert/sensible",
+    "fullstack/sensible": {
+      "id": "fullstack/sensible",
       "title": "Going full stack",
       "description": "Let's go full stack baby! Yes, that's right.",
       "sidebar": "courseSidebar"
     },
-    "expert/server": {
-      "id": "expert/server",
+    "fullstack/server": {
+      "id": "fullstack/server",
       "title": "Server",
       "description": "On the server (/apps/server) you'll implement your endpoints and make them available to the public.",
       "sidebar": "courseSidebar"
     },
-    "expert/ui": {
-      "id": "expert/ui",
+    "fullstack/ui": {
+      "id": "fullstack/ui",
       "title": "UI",
       "description": "In the /packages/ui folder you'll create most of your UI. This UI can be shared with multiple frontends this way, not just Next.js!",
       "sidebar": "courseSidebar"
     },
-    "expert/what-now": {
-      "id": "expert/what-now",
+    "fullstack/what-now": {
+      "id": "fullstack/what-now",
       "title": "What's next?",
       "description": "You're now a full-stack developer. You may not know everything of course... But you'll know the basics. Just get that €75 an hour freelancing gig, and keep reading!",
       "sidebar": "courseSidebar"

@@ -1,0 +1,25 @@
+{
+  "unversionedId": "frontend/react-nextjs",
+  "id": "frontend/react-nextjs",
+  "title": "React & Next.js",
+  "description": "Coming soon...",
+  "source": "@site/../../docs/frontend/3.react-nextjs.md",
+  "sourceDirName": "frontend",
+  "slug": "/frontend/react-nextjs",
+  "permalink": "/frontend/react-nextjs",
+  "draft": false,
+  "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/frontend/3.react-nextjs.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {},
+  "sidebar": "courseSidebar",
+  "previous": {
+    "title": "TypeScript basics",
+    "permalink": "/frontend/typescript"
+  },
+  "next": {
+    "title": "Deploy your frontend",
+    "permalink": "/frontend/deploy-frontend"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "unversionedId": "fullstack/sensible",
+  "id": "fullstack/sensible",
+  "title": "Going full stack",
+  "description": "Let's go full stack baby! Yes, that's right.",
+  "source": "@site/../../docs/fullstack/1.sensible.md",
+  "sourceDirName": "fullstack",
+  "slug": "/fullstack/sensible",
+  "permalink": "/fullstack/sensible",
+  "draft": false,
+  "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/fullstack/1.sensible.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {},
+  "sidebar": "courseSidebar",
+  "previous": {
+    "title": "🦅 Full Stack",
+    "permalink": "/category/-full-stack"
+  },
+  "next": {
+    "title": "Core",
+    "permalink": "/fullstack/core"
+  }
+}

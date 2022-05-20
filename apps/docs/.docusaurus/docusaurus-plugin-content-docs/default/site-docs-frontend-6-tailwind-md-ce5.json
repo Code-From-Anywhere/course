@@ -1,0 +1,25 @@
+{
+  "unversionedId": "frontend/tailwind",
+  "id": "frontend/tailwind",
+  "title": "Tailwind",
+  "description": "The future of CSS is no CSS! This looks like css but it's making it much easier to apply.",
+  "source": "@site/../../docs/frontend/6.tailwind.md",
+  "sourceDirName": "frontend",
+  "slug": "/frontend/tailwind",
+  "permalink": "/frontend/tailwind",
+  "draft": false,
+  "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/frontend/6.tailwind.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {},
+  "sidebar": "courseSidebar",
+  "previous": {
+    "title": "Data Storage",
+    "permalink": "/frontend/data-storage"
+  },
+  "next": {
+    "title": "NPM packages",
+    "permalink": "/frontend/npm-packages"
+  }
+}

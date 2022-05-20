@@ -1,0 +1,25 @@
+{
+  "unversionedId": "fullstack/deploy-backend",
+  "id": "fullstack/deploy-backend",
+  "title": "Deploy backend",
+  "description": "This is a big one!",
+  "source": "@site/../../docs/fullstack/6.deploy-backend.md",
+  "sourceDirName": "fullstack",
+  "slug": "/fullstack/deploy-backend",
+  "permalink": "/fullstack/deploy-backend",
+  "draft": false,
+  "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/fullstack/6.deploy-backend.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {},
+  "sidebar": "courseSidebar",
+  "previous": {
+    "title": "Dev Dashboard",
+    "permalink": "/fullstack/dev-dashboard"
+  },
+  "next": {
+    "title": "Deploying with expo",
+    "permalink": "/fullstack/deploy-expo-app"
+  }
+}

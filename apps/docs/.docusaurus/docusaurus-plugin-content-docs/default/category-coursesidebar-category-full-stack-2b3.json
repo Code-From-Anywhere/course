@@ -1,7 +1,7 @@
 {
-  "title": "🦅 Expert",
-  "slug": "/category/-expert",
-  "permalink": "/category/-expert",
+  "title": "🦅 Full Stack",
+  "slug": "/category/-full-stack",
+  "permalink": "/category/-full-stack",
   "navigation": {
     "previous": {
       "title": "Become a frontend developer",
@@ -9,7 +9,7 @@
     },
     "next": {
       "title": "Going full stack",
-      "permalink": "/expert/sensible"
+      "permalink": "/fullstack/sensible"
     }
   }
 }

@@ -1,0 +1,25 @@
+{
+  "unversionedId": "frontend/typescript",
+  "id": "frontend/typescript",
+  "title": "TypeScript basics",
+  "description": "Let's go over the following concepts:",
+  "source": "@site/../../docs/frontend/2.typescript.md",
+  "sourceDirName": "frontend",
+  "slug": "/frontend/typescript",
+  "permalink": "/frontend/typescript",
+  "draft": false,
+  "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/frontend/2.typescript.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {},
+  "sidebar": "courseSidebar",
+  "previous": {
+    "title": "Git",
+    "permalink": "/frontend/git"
+  },
+  "next": {
+    "title": "React & Next.js",
+    "permalink": "/frontend/react-nextjs"
+  }
+}

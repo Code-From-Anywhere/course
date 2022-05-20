@@ -1,0 +1,25 @@
+{
+  "unversionedId": "fullstack/dev-dashboard",
+  "id": "fullstack/dev-dashboard",
+  "title": "Dev Dashboard",
+  "description": "On the dev dashboard you'll find all you need to know about your app",
+  "source": "@site/../../docs/fullstack/5.dev-dashboard.md",
+  "sourceDirName": "fullstack",
+  "slug": "/fullstack/dev-dashboard",
+  "permalink": "/fullstack/dev-dashboard",
+  "draft": false,
+  "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/fullstack/5.dev-dashboard.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {},
+  "sidebar": "courseSidebar",
+  "previous": {
+    "title": "UI",
+    "permalink": "/fullstack/ui"
+  },
+  "next": {
+    "title": "Deploy backend",
+    "permalink": "/fullstack/deploy-backend"
+  }
+}

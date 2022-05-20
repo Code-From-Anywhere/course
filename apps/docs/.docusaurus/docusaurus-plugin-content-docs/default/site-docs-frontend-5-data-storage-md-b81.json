@@ -1,0 +1,25 @@
+{
+  "unversionedId": "frontend/data-storage",
+  "id": "frontend/data-storage",
+  "title": "Data Storage",
+  "description": "Coming soon...",
+  "source": "@site/../../docs/frontend/5.data-storage.md",
+  "sourceDirName": "frontend",
+  "slug": "/frontend/data-storage",
+  "permalink": "/frontend/data-storage",
+  "draft": false,
+  "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/frontend/5.data-storage.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {},
+  "sidebar": "courseSidebar",
+  "previous": {
+    "title": "Deploy your frontend",
+    "permalink": "/frontend/deploy-frontend"
+  },
+  "next": {
+    "title": "Tailwind",
+    "permalink": "/frontend/tailwind"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "title": "💫 Frontend",
+  "slug": "/category/-frontend",
+  "permalink": "/category/-frontend",
+  "navigation": {
+    "previous": {
+      "title": "CSS",
+      "permalink": "/beginner/css"
+    },
+    "next": {
+      "title": "Git",
+      "permalink": "/frontend/git"
+    }
+  }
+}

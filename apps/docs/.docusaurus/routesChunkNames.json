@@ -49,7 +49,7 @@
     },
     "config": "config---5-e-9-4f3"
   },
-  "/-b0d": {
+  "/-e53": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
       "plugin": "plugin---049-9ad"
@@ -88,13 +88,13 @@
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "categoryGeneratedIndex": "categoryGeneratedIndex---category-beginner-2-b-1-ee1"
   },
-  "/category/-competent-de9": {
+  "/category/-frontend-be4": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---category-competent-5-db-26e"
+    "categoryGeneratedIndex": "categoryGeneratedIndex---category-frontend-471-fd1"
   },
-  "/category/-expert-ef9": {
+  "/category/-full-stack-c42": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---category-expert-6-bb-a54"
+    "categoryGeneratedIndex": "categoryGeneratedIndex---category-full-stack-41-f-d86"
   },
   "/category/-lifestyle-3fc": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
@@ -104,73 +104,73 @@
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "categoryGeneratedIndex": "categoryGeneratedIndex---category-️-wizard-402-272"
   },
-  "/competent/config-b78": {
+  "/frontend/config-606": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---competent-config-2-ef-006"
+    "content": "content---frontend-configdd-8-428"
   },
-  "/competent/data-storage-971": {
+  "/frontend/data-storage-2e7": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---competent-data-storaged-40-45a"
+    "content": "content---frontend-data-storageb-81-3e6"
   },
-  "/competent/deploy-frontend-55f": {
+  "/frontend/deploy-frontend-d93": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---competent-deploy-frontenddd-4-3a1"
+    "content": "content---frontend-deploy-frontend-362-287"
   },
-  "/competent/distribution-505": {
+  "/frontend/distribution-c5d": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---competent-distribution-97-c-8d1"
+    "content": "content---frontend-distribution-9-f-4-6e8"
   },
-  "/competent/git-aa6": {
+  "/frontend/git-3ce": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---competent-git-165-c42"
+    "content": "content---frontend-gitfb-9-9a9"
   },
-  "/competent/npm-packages-9cb": {
+  "/frontend/npm-packages-4f0": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---competent-npm-packages-8-f-3-68a"
+    "content": "content---frontend-npm-packages-074-ab7"
   },
-  "/competent/react-nextjs-17b": {
+  "/frontend/react-nextjs-b15": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---competent-react-nextjs-138-698"
+    "content": "content---frontend-react-nextjs-4-b-3-340"
   },
-  "/competent/tailwind-384": {
+  "/frontend/tailwind-a96": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---competent-tailwindb-55-ec5"
+    "content": "content---frontend-tailwindce-5-669"
   },
-  "/competent/typescript-da1": {
+  "/frontend/typescript-7ae": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---competent-typescript-604-fe1"
+    "content": "content---frontend-typescript-5-d-1-d9e"
   },
-  "/expert/core-354": {
+  "/fullstack/core-193": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---expert-core-04-b-0ea"
+    "content": "content---fullstack-corea-29-87f"
   },
-  "/expert/deploy-backend-284": {
+  "/fullstack/deploy-backend-dc4": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---expert-deploy-backend-0-a-9-49f"
+    "content": "content---fullstack-deploy-backend-848-f03"
   },
-  "/expert/deploy-expo-app-65c": {
+  "/fullstack/deploy-expo-app-544": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---expert-deploy-expo-app-4-f-0-263"
+    "content": "content---fullstack-deploy-expo-appfb-4-4f5"
   },
-  "/expert/dev-dashboard-42c": {
+  "/fullstack/dev-dashboard-93d": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---expert-dev-dashboard-9-ce-6ab"
+    "content": "content---fullstack-dev-dashboard-25-e-45f"
   },
-  "/expert/sensible-0df": {
+  "/fullstack/sensible-8b6": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---expert-sensible-1-e-0-9b6"
+    "content": "content---fullstack-sensible-6-d-7-1aa"
   },
-  "/expert/server-0e2": {
+  "/fullstack/server-3db": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---expert-serverfc-8-4d2"
+    "content": "content---fullstack-server-767-720"
   },
-  "/expert/ui-070": {
+  "/fullstack/ui-812": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---expert-ui-14-e-2a0"
+    "content": "content---fullstack-ui-1-ce-e0a"
   },
-  "/expert/what-now-376": {
+  "/fullstack/what-now-18d": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---expert-what-now-10-c-967"
+    "content": "content---fullstack-what-now-8-c-9-04f"
   },
   "/lifestyle/become-a-wizard-dea": {
     "__comp": "__comp---theme-doc-item-178-a40",

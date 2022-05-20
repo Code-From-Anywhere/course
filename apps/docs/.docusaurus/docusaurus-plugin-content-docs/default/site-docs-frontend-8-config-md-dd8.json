@@ -1,0 +1,25 @@
+{
+  "unversionedId": "frontend/config",
+  "id": "frontend/config",
+  "title": "Configurations",
+  "description": "Don't get lost in them! It's easy to do though, so be careful. On this page I'll let you know which configurations you need to know about for sure.",
+  "source": "@site/../../docs/frontend/8.config.md",
+  "sourceDirName": "frontend",
+  "slug": "/frontend/config",
+  "permalink": "/frontend/config",
+  "draft": false,
+  "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/frontend/8.config.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {},
+  "sidebar": "courseSidebar",
+  "previous": {
+    "title": "NPM packages",
+    "permalink": "/frontend/npm-packages"
+  },
+  "next": {
+    "title": "Become a frontend developer",
+    "permalink": "/frontend/distribution"
+  }
+}

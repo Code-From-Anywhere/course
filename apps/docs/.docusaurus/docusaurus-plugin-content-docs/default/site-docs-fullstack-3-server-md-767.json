@@ -1,0 +1,25 @@
+{
+  "unversionedId": "fullstack/server",
+  "id": "fullstack/server",
+  "title": "Server",
+  "description": "On the server (/apps/server) you'll implement your endpoints and make them available to the public.",
+  "source": "@site/../../docs/fullstack/3.server.md",
+  "sourceDirName": "fullstack",
+  "slug": "/fullstack/server",
+  "permalink": "/fullstack/server",
+  "draft": false,
+  "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/fullstack/3.server.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {},
+  "sidebar": "courseSidebar",
+  "previous": {
+    "title": "Core",
+    "permalink": "/fullstack/core"
+  },
+  "next": {
+    "title": "UI",
+    "permalink": "/fullstack/ui"
+  }
+}

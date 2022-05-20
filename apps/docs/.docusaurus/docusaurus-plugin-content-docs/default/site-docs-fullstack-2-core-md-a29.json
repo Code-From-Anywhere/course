@@ -1,0 +1,25 @@
+{
+  "unversionedId": "fullstack/core",
+  "id": "fullstack/core",
+  "title": "Core",
+  "description": "In /packages/core you'll want to define your type interfaces and endpoints.",
+  "source": "@site/../../docs/fullstack/2.core.md",
+  "sourceDirName": "fullstack",
+  "slug": "/fullstack/core",
+  "permalink": "/fullstack/core",
+  "draft": false,
+  "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/fullstack/2.core.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {},
+  "sidebar": "courseSidebar",
+  "previous": {
+    "title": "Going full stack",
+    "permalink": "/fullstack/sensible"
+  },
+  "next": {
+    "title": "Server",
+    "permalink": "/fullstack/server"
+  }
+}

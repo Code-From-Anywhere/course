@@ -1,0 +1,25 @@
+{
+  "unversionedId": "fullstack/deploy-expo-app",
+  "id": "fullstack/deploy-expo-app",
+  "title": "Deploying with expo",
+  "description": "Once you shared the UI with react-with-native your app should also work fine on native cross-platform mobile with sensible's built-in expo support.",
+  "source": "@site/../../docs/fullstack/7.deploy-expo-app.md",
+  "sourceDirName": "fullstack",
+  "slug": "/fullstack/deploy-expo-app",
+  "permalink": "/fullstack/deploy-expo-app",
+  "draft": false,
+  "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/fullstack/7.deploy-expo-app.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {},
+  "sidebar": "courseSidebar",
+  "previous": {
+    "title": "Deploy backend",
+    "permalink": "/fullstack/deploy-backend"
+  },
+  "next": {
+    "title": "What's next?",
+    "permalink": "/fullstack/what-now"
+  }
+}
