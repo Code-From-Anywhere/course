@@ -10,8 +10,7 @@
 
 **COMPETENT**
 
-- git: github
-- ts: const, primitive types, typeof, operators, conditions, comparisons, arrow functions, number methods, string methods, string templates, array methods, object methods, date methods, math, boolean, comments, console.log, reserved words, types
+- ts:
 - react, nextjs (compile to html): functional components, props, events, useState, useEffect
 - deploy frontend: vercel, domains, dns
 - data storage (variable storage, localstorage, json storage, markdown storage, useState, context->useStore)
