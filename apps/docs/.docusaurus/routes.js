@@ -44,7 +44,7 @@ export default [
   },
   {
     path: '/',
-    component: ComponentCreator('/', '2da'),
+    component: ComponentCreator('/', 'd0b'),
     routes: [
       {
         path: '/about',
@@ -233,12 +233,6 @@ export default [
         sidebar: "courseSidebar"
       },
       {
-        path: '/lifestyle/become-a-wizard',
-        component: ComponentCreator('/lifestyle/become-a-wizard', 'dea'),
-        exact: true,
-        sidebar: "courseSidebar"
-      },
-      {
         path: '/lifestyle/entrepreneurship',
         component: ComponentCreator('/lifestyle/entrepreneurship', 'b73'),
         exact: true,
@@ -259,6 +253,12 @@ export default [
       {
         path: '/wizard/automation',
         component: ComponentCreator('/wizard/automation', '5a5'),
+        exact: true,
+        sidebar: "courseSidebar"
+      },
+      {
+        path: '/wizard/become-a-wizard',
+        component: ComponentCreator('/wizard/become-a-wizard', '8e7'),
         exact: true,
         sidebar: "courseSidebar"
       },

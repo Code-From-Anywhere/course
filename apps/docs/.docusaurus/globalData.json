@@ -141,11 +141,6 @@
               "sidebar": "courseSidebar"
             },
             {
-              "id": "lifestyle/become-a-wizard",
-              "path": "/lifestyle/become-a-wizard",
-              "sidebar": "courseSidebar"
-            },
-            {
               "id": "lifestyle/entrepreneurship",
               "path": "/lifestyle/entrepreneurship",
               "sidebar": "courseSidebar"
@@ -163,6 +158,11 @@
             {
               "id": "wizard/automation",
               "path": "/wizard/automation",
+              "sidebar": "courseSidebar"
+            },
+            {
+              "id": "wizard/become-a-wizard",
+              "path": "/wizard/become-a-wizard",
               "sidebar": "courseSidebar"
             },
             {

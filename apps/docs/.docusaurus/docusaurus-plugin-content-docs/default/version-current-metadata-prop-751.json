@@ -238,6 +238,12 @@
             "label": "Conventions & standards",
             "href": "/wizard/conventions-standards",
             "docId": "wizard/conventions-standards"
+          },
+          {
+            "type": "link",
+            "label": "Become a wizard",
+            "href": "/wizard/become-a-wizard",
+            "docId": "wizard/become-a-wizard"
           }
         ],
         "href": "/category/️-wizard"
@@ -265,12 +271,6 @@
             "label": "Entrepreneurship",
             "href": "/lifestyle/entrepreneurship",
             "docId": "lifestyle/entrepreneurship"
-          },
-          {
-            "type": "link",
-            "label": "Become a wizard",
-            "href": "/lifestyle/become-a-wizard",
-            "docId": "lifestyle/become-a-wizard"
           }
         ],
         "href": "/category/-lifestyle"
@@ -434,12 +434,6 @@
       "description": "In the /packages/ui folder you'll create most of your UI. This UI can be shared with multiple frontends this way, not just Next.js!",
       "sidebar": "courseSidebar"
     },
-    "lifestyle/become-a-wizard": {
-      "id": "lifestyle/become-a-wizard",
-      "title": "Become a wizard",
-      "description": "Coming soon",
-      "sidebar": "courseSidebar"
-    },
     "lifestyle/entrepreneurship": {
       "id": "lifestyle/entrepreneurship",
       "title": "Entrepreneurship",
@@ -461,6 +455,12 @@
     "wizard/automation": {
       "id": "wizard/automation",
       "title": "Automation",
+      "description": "Coming soon",
+      "sidebar": "courseSidebar"
+    },
+    "wizard/become-a-wizard": {
+      "id": "wizard/become-a-wizard",
+      "title": "Become a wizard",
       "description": "Coming soon",
       "sidebar": "courseSidebar"
     },

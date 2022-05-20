@@ -1,0 +1,25 @@
+{
+  "unversionedId": "wizard/become-a-wizard",
+  "id": "wizard/become-a-wizard",
+  "title": "Become a wizard",
+  "description": "Coming soon",
+  "source": "@site/../../docs/wizard/4.become-a-wizard.md",
+  "sourceDirName": "wizard",
+  "slug": "/wizard/become-a-wizard",
+  "permalink": "/wizard/become-a-wizard",
+  "draft": false,
+  "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/wizard/4.become-a-wizard.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {},
+  "sidebar": "courseSidebar",
+  "previous": {
+    "title": "Automation",
+    "permalink": "/wizard/automation"
+  },
+  "next": {
+    "title": "Metascripting",
+    "permalink": "/wizard/metascripting"
+  }
+}
