@@ -474,7 +474,7 @@
               "unversionedId": "frontend/typescript-react-intro",
               "id": "frontend/typescript-react-intro",
               "title": "React with Typescript",
-              "description": "Setup",
+              "description": "The fun is starting! In this section I will try to explain all the need-to-knows about React and Typescript, combined!",
               "source": "@site/../../docs/frontend/2.typescript-react-intro.md",
               "sourceDirName": "frontend",
               "slug": "/frontend/typescript-react-intro",
