@@ -47,8 +47,6 @@ Please note that a [regular bootcamp](https://www.switchup.org/rankings/best-cod
 
 We're a software development agency with developers from all over the world. We decided to build a course to share the way we work and make full-stack apps super quickly.
 
-![Our team](./cfa-team.jpeg)
-
 <details><summary>About us</summary>
 
 **Who we are**
@@ -73,3 +71,5 @@ Do you have money? If you want to work with us, check [our services](/services)
 Do you need money:? If you want to work with us, check [becoming a wizard](/wizard/become-a-wizard)
 
 </details>
+
+![Our team](./cfa-team.jpeg)
