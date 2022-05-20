@@ -1,0 +1,26 @@
+{
+  "unversionedId": "aboutold",
+  "id": "aboutold",
+  "title": "Highly motivated developers at your fingertips",
+  "description": "Code From Anywhere is a network of App Developers living the dream. We chase freedom to be more motivated, creative and talented than any other agency.",
+  "source": "@site/../../docs/aboutold.md",
+  "sourceDirName": ".",
+  "slug": "/aboutold",
+  "permalink": "/aboutold",
+  "draft": false,
+  "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/aboutold.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "draft": true
+  },
+  "sidebar": "courseSidebar",
+  "previous": {
+    "title": "Services",
+    "permalink": "/services"
+  },
+  "next": {
+    "title": "TODO",
+    "permalink": "/todo"
+  }
+}

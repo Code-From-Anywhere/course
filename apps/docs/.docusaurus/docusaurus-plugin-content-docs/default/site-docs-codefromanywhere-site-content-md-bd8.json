@@ -1,0 +1,24 @@
+{
+  "unversionedId": "codefromanywhere-site-content",
+  "id": "codefromanywhere-site-content",
+  "title": "codefromanywhere-site-content",
+  "description": "Highly motivated developers at your fingertips",
+  "source": "@site/../../docs/codefromanywhere-site-content.md",
+  "sourceDirName": ".",
+  "slug": "/codefromanywhere-site-content",
+  "permalink": "/codefromanywhere-site-content",
+  "draft": false,
+  "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/codefromanywhere-site-content.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "courseSidebar",
+  "previous": {
+    "title": "Services",
+    "permalink": "/services"
+  },
+  "next": {
+    "title": "TODO",
+    "permalink": "/todo"
+  }
+}
