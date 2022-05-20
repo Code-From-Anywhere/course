@@ -2,7 +2,7 @@
   "unversionedId": "beginner/setup",
   "id": "beginner/setup",
   "title": "Setting things up",
-  "description": "To start developing, I recommend the VSCode editor. I recommand having a Mac but it's not needed. It'd also be good to install Node.js already, but you'll only need that in the \"competent\" section.",
+  "description": "To start developing, I recommend the VSCode editor. I recommand having a Mac but it's not needed. It'd also be good to install Node.js already, but you'll only need that in the \"frontend\" section.",
   "source": "@site/../../docs/beginner/2.setup.md",
   "sourceDirName": "beginner",
   "slug": "/beginner/setup",
