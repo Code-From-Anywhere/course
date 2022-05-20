@@ -257,7 +257,9 @@
               "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/events.md",
               "tags": [],
               "version": "current",
-              "frontMatter": {},
+              "frontMatter": {
+                "draft": true
+              },
               "sidebar": "courseSidebar",
               "previous": {
                 "title": "Services",
