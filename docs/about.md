@@ -5,7 +5,7 @@ sidebar_label: Introduction
 
 # Code From Anywhere Course
 
-> This course is a work in progress... Check back soon!
+> This course is a work in progress.. Sorry for any unfinished pages, I'm working very hard to complete this a.s.a.p.
 
 Hi! In this course you will learn how to make **full-stack apps** using **Typescript**. This course focusses on the stuff you **REALLY** need to know. We don't go super deep and tell you all the details, we just help you to go from beginner to wizard in under a month, so you can start building full-stack applications and make money with your side-projects!
 
