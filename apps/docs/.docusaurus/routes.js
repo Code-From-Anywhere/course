@@ -44,7 +44,7 @@ export default [
   },
   {
     path: '/',
-    component: ComponentCreator('/', 'c6e'),
+    component: ComponentCreator('/', '4ba'),
     routes: [
       {
         path: '/about',
@@ -227,12 +227,6 @@ export default [
         sidebar: "courseSidebar"
       },
       {
-        path: '/fullstack/react-with-native',
-        component: ComponentCreator('/fullstack/react-with-native', 'cd9'),
-        exact: true,
-        sidebar: "courseSidebar"
-      },
-      {
         path: '/fullstack/sensible',
         component: ComponentCreator('/fullstack/sensible', '8b6'),
         exact: true,
@@ -241,6 +235,18 @@ export default [
       {
         path: '/fullstack/server',
         component: ComponentCreator('/fullstack/server', '3db'),
+        exact: true,
+        sidebar: "courseSidebar"
+      },
+      {
+        path: '/fullstack/ui/react-with-native',
+        component: ComponentCreator('/fullstack/ui/react-with-native', '1e9'),
+        exact: true,
+        sidebar: "courseSidebar"
+      },
+      {
+        path: '/fullstack/ui/ui',
+        component: ComponentCreator('/fullstack/ui/ui', 'e99'),
         exact: true,
         sidebar: "courseSidebar"
       },
@@ -281,20 +287,26 @@ export default [
         sidebar: "courseSidebar"
       },
       {
+        path: '/wizard/app-introspection',
+        component: ComponentCreator('/wizard/app-introspection', 'a2a'),
+        exact: true,
+        sidebar: "courseSidebar"
+      },
+      {
         path: '/wizard/automation',
-        component: ComponentCreator('/wizard/automation', '5a5'),
+        component: ComponentCreator('/wizard/automation', 'f8c'),
         exact: true,
         sidebar: "courseSidebar"
       },
       {
         path: '/wizard/become-a-wizard',
-        component: ComponentCreator('/wizard/become-a-wizard', '024'),
+        component: ComponentCreator('/wizard/become-a-wizard', '78e'),
         exact: true,
         sidebar: "courseSidebar"
       },
       {
         path: '/wizard/conventions-standards',
-        component: ComponentCreator('/wizard/conventions-standards', '58f'),
+        component: ComponentCreator('/wizard/conventions-standards', '519'),
         exact: true,
         sidebar: "courseSidebar"
       },
@@ -305,26 +317,8 @@ export default [
         sidebar: "courseSidebar"
       },
       {
-        path: '/wizard/metascripting',
-        component: ComponentCreator('/wizard/metascripting', '81d'),
-        exact: true,
-        sidebar: "courseSidebar"
-      },
-      {
         path: '/wizard/other-envrionments',
         component: ComponentCreator('/wizard/other-envrionments', 'de2'),
-        exact: true,
-        sidebar: "courseSidebar"
-      },
-      {
-        path: '/wizard/thinking-in-data',
-        component: ComponentCreator('/wizard/thinking-in-data', '20d'),
-        exact: true,
-        sidebar: "courseSidebar"
-      },
-      {
-        path: '/wizard/typescript-introspection',
-        component: ComponentCreator('/wizard/typescript-introspection', '570'),
         exact: true,
         sidebar: "courseSidebar"
       }

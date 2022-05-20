@@ -1,0 +1,24 @@
+{
+  "unversionedId": "fullstack/ui/react-with-native",
+  "id": "fullstack/ui/react-with-native",
+  "title": "React With Native",
+  "description": "In the /packages/ui folder you'll create most of your UI. This UI can be shared with multiple frontends this way, not just Next.js!",
+  "source": "@site/../../docs/fullstack/4.ui/react-with-native.md",
+  "sourceDirName": "fullstack/4.ui",
+  "slug": "/fullstack/ui/react-with-native",
+  "permalink": "/fullstack/ui/react-with-native",
+  "draft": false,
+  "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/fullstack/4.ui/react-with-native.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "courseSidebar",
+  "previous": {
+    "title": "Server",
+    "permalink": "/fullstack/server"
+  },
+  "next": {
+    "title": "ui",
+    "permalink": "/fullstack/ui/ui"
+  }
+}

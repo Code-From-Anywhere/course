@@ -637,37 +637,12 @@
               "frontMatter": {},
               "sidebar": "courseSidebar",
               "previous": {
-                "title": "React With Native",
-                "permalink": "/fullstack/react-with-native"
+                "title": "ui",
+                "permalink": "/fullstack/ui/ui"
               },
               "next": {
                 "title": "Deploy backend",
                 "permalink": "/fullstack/deploy-backend"
-              }
-            },
-            {
-              "unversionedId": "fullstack/react-with-native",
-              "id": "fullstack/react-with-native",
-              "title": "React With Native",
-              "description": "In the /packages/ui folder you'll create most of your UI. This UI can be shared with multiple frontends this way, not just Next.js!",
-              "source": "@site/../../docs/fullstack/4.react-with-native.md",
-              "sourceDirName": "fullstack",
-              "slug": "/fullstack/react-with-native",
-              "permalink": "/fullstack/react-with-native",
-              "draft": false,
-              "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/fullstack/4.react-with-native.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 4,
-              "frontMatter": {},
-              "sidebar": "courseSidebar",
-              "previous": {
-                "title": "Server",
-                "permalink": "/fullstack/server"
-              },
-              "next": {
-                "title": "Dev Dashboard",
-                "permalink": "/fullstack/dev-dashboard"
               }
             },
             {
@@ -717,7 +692,55 @@
               },
               "next": {
                 "title": "React With Native",
-                "permalink": "/fullstack/react-with-native"
+                "permalink": "/fullstack/ui/react-with-native"
+              }
+            },
+            {
+              "unversionedId": "fullstack/ui/react-with-native",
+              "id": "fullstack/ui/react-with-native",
+              "title": "React With Native",
+              "description": "In the /packages/ui folder you'll create most of your UI. This UI can be shared with multiple frontends this way, not just Next.js!",
+              "source": "@site/../../docs/fullstack/4.ui/react-with-native.md",
+              "sourceDirName": "fullstack/4.ui",
+              "slug": "/fullstack/ui/react-with-native",
+              "permalink": "/fullstack/ui/react-with-native",
+              "draft": false,
+              "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/fullstack/4.ui/react-with-native.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "courseSidebar",
+              "previous": {
+                "title": "Server",
+                "permalink": "/fullstack/server"
+              },
+              "next": {
+                "title": "ui",
+                "permalink": "/fullstack/ui/ui"
+              }
+            },
+            {
+              "unversionedId": "fullstack/ui/ui",
+              "id": "fullstack/ui/ui",
+              "title": "ui",
+              "description": "Talk about api.",
+              "source": "@site/../../docs/fullstack/4.ui/ui.md",
+              "sourceDirName": "fullstack/4.ui",
+              "slug": "/fullstack/ui/ui",
+              "permalink": "/fullstack/ui/ui",
+              "draft": false,
+              "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/fullstack/4.ui/ui.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "courseSidebar",
+              "previous": {
+                "title": "React With Native",
+                "permalink": "/fullstack/ui/react-with-native"
+              },
+              "next": {
+                "title": "Dev Dashboard",
+                "permalink": "/fullstack/dev-dashboard"
               }
             },
             {
@@ -870,28 +893,53 @@
               }
             },
             {
-              "unversionedId": "wizard/automation",
-              "id": "wizard/automation",
-              "title": "Automation",
-              "description": "Coming soon",
-              "source": "@site/../../docs/wizard/4.automation.md",
+              "unversionedId": "wizard/app-introspection",
+              "id": "wizard/app-introspection",
+              "title": "App introspection",
+              "description": "One of the core techniques we used to create Sensible we call app introspection. When you use Sensible, we are looking and parsing your typescript files to generate meta data about them. With this we can do many things! To parse typescript, we have been using tsmorph for this.",
+              "source": "@site/../../docs/wizard/4.app-introspection.md",
               "sourceDirName": "wizard",
-              "slug": "/wizard/automation",
-              "permalink": "/wizard/automation",
+              "slug": "/wizard/app-introspection",
+              "permalink": "/wizard/app-introspection",
               "draft": false,
-              "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/wizard/4.automation.md",
+              "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/wizard/4.app-introspection.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 4,
               "frontMatter": {},
               "sidebar": "courseSidebar",
               "previous": {
-                "title": "Thinking in data",
-                "permalink": "/wizard/thinking-in-data"
+                "title": "Automation & Metascripting",
+                "permalink": "/wizard/automation"
               },
               "next": {
-                "title": "Metascripting",
-                "permalink": "/wizard/metascripting"
+                "title": "Conventions & standards",
+                "permalink": "/wizard/conventions-standards"
+              }
+            },
+            {
+              "unversionedId": "wizard/automation",
+              "id": "wizard/automation",
+              "title": "Automation & Metascripting",
+              "description": "With Sensible it's our goal to make it as easy as possible to create complex applications without limiting their possibilities in any way. One of the ways we do this is by creating smart automations to reduce the workload on developers.",
+              "source": "@site/../../docs/wizard/3.automation.md",
+              "sourceDirName": "wizard",
+              "slug": "/wizard/automation",
+              "permalink": "/wizard/automation",
+              "draft": false,
+              "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/wizard/3.automation.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {},
+              "sidebar": "courseSidebar",
+              "previous": {
+                "title": "Decentralised architectures",
+                "permalink": "/wizard/decentralised-architectures"
+              },
+              "next": {
+                "title": "App introspection",
+                "permalink": "/wizard/app-introspection"
               }
             },
             {
@@ -899,15 +947,15 @@
               "id": "wizard/become-a-wizard",
               "title": "Become a Wizard",
               "description": "Join the CFA Wizards Team",
-              "source": "@site/../../docs/wizard/9.become-a-wizard.md",
+              "source": "@site/../../docs/wizard/6.become-a-wizard.md",
               "sourceDirName": "wizard",
               "slug": "/wizard/become-a-wizard",
               "permalink": "/wizard/become-a-wizard",
               "draft": false,
-              "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/wizard/9.become-a-wizard.md",
+              "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/wizard/6.become-a-wizard.md",
               "tags": [],
               "version": "current",
-              "sidebarPosition": 9,
+              "sidebarPosition": 6,
               "frontMatter": {},
               "sidebar": "courseSidebar",
               "previous": {
@@ -923,21 +971,21 @@
               "unversionedId": "wizard/conventions-standards",
               "id": "wizard/conventions-standards",
               "title": "Conventions & standards",
-              "description": "Coming soon",
-              "source": "@site/../../docs/wizard/7.conventions-standards.md",
+              "description": "As a wizard, you should start thinking about the bigger picture of the long-term performance of the apps you create.",
+              "source": "@site/../../docs/wizard/5.conventions-standards.md",
               "sourceDirName": "wizard",
               "slug": "/wizard/conventions-standards",
               "permalink": "/wizard/conventions-standards",
               "draft": false,
-              "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/wizard/7.conventions-standards.md",
+              "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/wizard/5.conventions-standards.md",
               "tags": [],
               "version": "current",
-              "sidebarPosition": 7,
+              "sidebarPosition": 5,
               "frontMatter": {},
               "sidebar": "courseSidebar",
               "previous": {
-                "title": "Typescript introspection",
-                "permalink": "/wizard/typescript-introspection"
+                "title": "App introspection",
+                "permalink": "/wizard/app-introspection"
               },
               "next": {
                 "title": "Become a Wizard",
@@ -948,7 +996,7 @@
               "unversionedId": "wizard/decentralised-architectures",
               "id": "wizard/decentralised-architectures",
               "title": "Decentralised architectures",
-              "description": "Coming soon...",
+              "description": "At Code From Anywhere it's our goal to create enable developers to create the next wave of applications that could transform the internet as we know it. Some people call it web3, but I guess we're all still trying to understand what web3 has to become.",
               "source": "@site/../../docs/wizard/2.decentralised-architectures.md",
               "sourceDirName": "wizard",
               "slug": "/wizard/decentralised-architectures",
@@ -965,40 +1013,15 @@
                 "permalink": "/wizard/other-envrionments"
               },
               "next": {
-                "title": "Thinking in data",
-                "permalink": "/wizard/thinking-in-data"
-              }
-            },
-            {
-              "unversionedId": "wizard/metascripting",
-              "id": "wizard/metascripting",
-              "title": "Metascripting",
-              "description": "Coming soon",
-              "source": "@site/../../docs/wizard/5.metascripting.md",
-              "sourceDirName": "wizard",
-              "slug": "/wizard/metascripting",
-              "permalink": "/wizard/metascripting",
-              "draft": false,
-              "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/wizard/5.metascripting.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 5,
-              "frontMatter": {},
-              "sidebar": "courseSidebar",
-              "previous": {
-                "title": "Automation",
+                "title": "Automation & Metascripting",
                 "permalink": "/wizard/automation"
-              },
-              "next": {
-                "title": "Typescript introspection",
-                "permalink": "/wizard/typescript-introspection"
               }
             },
             {
               "unversionedId": "wizard/other-envrionments",
               "id": "wizard/other-envrionments",
               "title": "Other environments",
-              "description": "VSCode",
+              "description": "When you start a sensible project, you can choose which frontends you want to use. Besides expo and web, there are 4 more we are planning to create stable boilerplates for. Currently, they are still experimental.",
               "source": "@site/../../docs/wizard/1.other-envrionments.md",
               "sourceDirName": "wizard",
               "slug": "/wizard/other-envrionments",
@@ -1017,56 +1040,6 @@
               "next": {
                 "title": "Decentralised architectures",
                 "permalink": "/wizard/decentralised-architectures"
-              }
-            },
-            {
-              "unversionedId": "wizard/thinking-in-data",
-              "id": "wizard/thinking-in-data",
-              "title": "Thinking in data",
-              "description": "Coming soon",
-              "source": "@site/../../docs/wizard/3.thinking-in-data.md",
-              "sourceDirName": "wizard",
-              "slug": "/wizard/thinking-in-data",
-              "permalink": "/wizard/thinking-in-data",
-              "draft": false,
-              "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/wizard/3.thinking-in-data.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 3,
-              "frontMatter": {},
-              "sidebar": "courseSidebar",
-              "previous": {
-                "title": "Decentralised architectures",
-                "permalink": "/wizard/decentralised-architectures"
-              },
-              "next": {
-                "title": "Automation",
-                "permalink": "/wizard/automation"
-              }
-            },
-            {
-              "unversionedId": "wizard/typescript-introspection",
-              "id": "wizard/typescript-introspection",
-              "title": "Typescript introspection",
-              "description": "Coming soon",
-              "source": "@site/../../docs/wizard/6.typescript-introspection.md",
-              "sourceDirName": "wizard",
-              "slug": "/wizard/typescript-introspection",
-              "permalink": "/wizard/typescript-introspection",
-              "draft": false,
-              "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/wizard/6.typescript-introspection.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 6,
-              "frontMatter": {},
-              "sidebar": "courseSidebar",
-              "previous": {
-                "title": "Metascripting",
-                "permalink": "/wizard/metascripting"
-              },
-              "next": {
-                "title": "Conventions & standards",
-                "permalink": "/wizard/conventions-standards"
               }
             }
           ],
@@ -1192,8 +1165,20 @@
                     "id": "fullstack/server"
                   },
                   {
-                    "type": "doc",
-                    "id": "fullstack/react-with-native"
+                    "type": "category",
+                    "label": "ui",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "fullstack/ui/react-with-native"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "fullstack/ui/ui"
+                      }
+                    ]
                   },
                   {
                     "type": "doc",
@@ -1238,19 +1223,11 @@
                   },
                   {
                     "type": "doc",
-                    "id": "wizard/thinking-in-data"
-                  },
-                  {
-                    "type": "doc",
                     "id": "wizard/automation"
                   },
                   {
                     "type": "doc",
-                    "id": "wizard/metascripting"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "wizard/typescript-introspection"
+                    "id": "wizard/app-introspection"
                   },
                   {
                     "type": "doc",

@@ -159,10 +159,24 @@
             "docId": "fullstack/server"
           },
           {
-            "type": "link",
-            "label": "React With Native",
-            "href": "/fullstack/react-with-native",
-            "docId": "fullstack/react-with-native"
+            "type": "category",
+            "label": "ui",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "React With Native",
+                "href": "/fullstack/ui/react-with-native",
+                "docId": "fullstack/ui/react-with-native"
+              },
+              {
+                "type": "link",
+                "label": "ui",
+                "href": "/fullstack/ui/ui",
+                "docId": "fullstack/ui/ui"
+              }
+            ]
           },
           {
             "type": "link",
@@ -217,27 +231,15 @@
           },
           {
             "type": "link",
-            "label": "Thinking in data",
-            "href": "/wizard/thinking-in-data",
-            "docId": "wizard/thinking-in-data"
-          },
-          {
-            "type": "link",
-            "label": "Automation",
+            "label": "Automation & Metascripting",
             "href": "/wizard/automation",
             "docId": "wizard/automation"
           },
           {
             "type": "link",
-            "label": "Metascripting",
-            "href": "/wizard/metascripting",
-            "docId": "wizard/metascripting"
-          },
-          {
-            "type": "link",
-            "label": "Typescript introspection",
-            "href": "/wizard/typescript-introspection",
-            "docId": "wizard/typescript-introspection"
+            "label": "App introspection",
+            "href": "/wizard/app-introspection",
+            "docId": "wizard/app-introspection"
           },
           {
             "type": "link",
@@ -458,12 +460,6 @@
       "description": "On the dev dashboard you'll find all you need to know about your app",
       "sidebar": "courseSidebar"
     },
-    "fullstack/react-with-native": {
-      "id": "fullstack/react-with-native",
-      "title": "React With Native",
-      "description": "In the /packages/ui folder you'll create most of your UI. This UI can be shared with multiple frontends this way, not just Next.js!",
-      "sidebar": "courseSidebar"
-    },
     "fullstack/sensible": {
       "id": "fullstack/sensible",
       "title": "Going full stack",
@@ -474,6 +470,18 @@
       "id": "fullstack/server",
       "title": "Server",
       "description": "On the server (/apps/server) you'll implement your endpoints and make them available to the public.",
+      "sidebar": "courseSidebar"
+    },
+    "fullstack/ui/react-with-native": {
+      "id": "fullstack/ui/react-with-native",
+      "title": "React With Native",
+      "description": "In the /packages/ui folder you'll create most of your UI. This UI can be shared with multiple frontends this way, not just Next.js!",
+      "sidebar": "courseSidebar"
+    },
+    "fullstack/ui/ui": {
+      "id": "fullstack/ui/ui",
+      "title": "ui",
+      "description": "Talk about api.",
       "sidebar": "courseSidebar"
     },
     "lifestyle/entrepreneurship": {
@@ -512,10 +520,16 @@
       "description": "Richt 100% op de content creation. Maak alles af dit weekend.",
       "sidebar": "courseSidebar"
     },
+    "wizard/app-introspection": {
+      "id": "wizard/app-introspection",
+      "title": "App introspection",
+      "description": "One of the core techniques we used to create Sensible we call app introspection. When you use Sensible, we are looking and parsing your typescript files to generate meta data about them. With this we can do many things! To parse typescript, we have been using tsmorph for this.",
+      "sidebar": "courseSidebar"
+    },
     "wizard/automation": {
       "id": "wizard/automation",
-      "title": "Automation",
-      "description": "Coming soon",
+      "title": "Automation & Metascripting",
+      "description": "With Sensible it's our goal to make it as easy as possible to create complex applications without limiting their possibilities in any way. One of the ways we do this is by creating smart automations to reduce the workload on developers.",
       "sidebar": "courseSidebar"
     },
     "wizard/become-a-wizard": {
@@ -527,37 +541,19 @@
     "wizard/conventions-standards": {
       "id": "wizard/conventions-standards",
       "title": "Conventions & standards",
-      "description": "Coming soon",
+      "description": "As a wizard, you should start thinking about the bigger picture of the long-term performance of the apps you create.",
       "sidebar": "courseSidebar"
     },
     "wizard/decentralised-architectures": {
       "id": "wizard/decentralised-architectures",
       "title": "Decentralised architectures",
-      "description": "Coming soon...",
-      "sidebar": "courseSidebar"
-    },
-    "wizard/metascripting": {
-      "id": "wizard/metascripting",
-      "title": "Metascripting",
-      "description": "Coming soon",
+      "description": "At Code From Anywhere it's our goal to create enable developers to create the next wave of applications that could transform the internet as we know it. Some people call it web3, but I guess we're all still trying to understand what web3 has to become.",
       "sidebar": "courseSidebar"
     },
     "wizard/other-envrionments": {
       "id": "wizard/other-envrionments",
       "title": "Other environments",
-      "description": "VSCode",
-      "sidebar": "courseSidebar"
-    },
-    "wizard/thinking-in-data": {
-      "id": "wizard/thinking-in-data",
-      "title": "Thinking in data",
-      "description": "Coming soon",
-      "sidebar": "courseSidebar"
-    },
-    "wizard/typescript-introspection": {
-      "id": "wizard/typescript-introspection",
-      "title": "Typescript introspection",
-      "description": "Coming soon",
+      "description": "When you start a sensible project, you can choose which frontends you want to use. Besides expo and web, there are 4 more we are planning to create stable boilerplates for. Currently, they are still experimental.",
       "sidebar": "courseSidebar"
     }
   }

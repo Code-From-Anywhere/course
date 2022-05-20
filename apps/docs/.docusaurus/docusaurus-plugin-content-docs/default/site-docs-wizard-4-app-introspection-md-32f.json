@@ -1,0 +1,25 @@
+{
+  "unversionedId": "wizard/app-introspection",
+  "id": "wizard/app-introspection",
+  "title": "App introspection",
+  "description": "One of the core techniques we used to create Sensible we call app introspection. When you use Sensible, we are looking and parsing your typescript files to generate meta data about them. With this we can do many things! To parse typescript, we have been using tsmorph for this.",
+  "source": "@site/../../docs/wizard/4.app-introspection.md",
+  "sourceDirName": "wizard",
+  "slug": "/wizard/app-introspection",
+  "permalink": "/wizard/app-introspection",
+  "draft": false,
+  "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/wizard/4.app-introspection.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {},
+  "sidebar": "courseSidebar",
+  "previous": {
+    "title": "Automation & Metascripting",
+    "permalink": "/wizard/automation"
+  },
+  "next": {
+    "title": "Conventions & standards",
+    "permalink": "/wizard/conventions-standards"
+  }
+}

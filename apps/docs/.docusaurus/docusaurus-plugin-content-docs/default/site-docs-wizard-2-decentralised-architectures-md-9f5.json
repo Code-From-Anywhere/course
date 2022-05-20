@@ -2,7 +2,7 @@
   "unversionedId": "wizard/decentralised-architectures",
   "id": "wizard/decentralised-architectures",
   "title": "Decentralised architectures",
-  "description": "Coming soon...",
+  "description": "At Code From Anywhere it's our goal to create enable developers to create the next wave of applications that could transform the internet as we know it. Some people call it web3, but I guess we're all still trying to understand what web3 has to become.",
   "source": "@site/../../docs/wizard/2.decentralised-architectures.md",
   "sourceDirName": "wizard",
   "slug": "/wizard/decentralised-architectures",
@@ -19,7 +19,7 @@
     "permalink": "/wizard/other-envrionments"
   },
   "next": {
-    "title": "Thinking in data",
-    "permalink": "/wizard/thinking-in-data"
+    "title": "Automation & Metascripting",
+    "permalink": "/wizard/automation"
   }
 }

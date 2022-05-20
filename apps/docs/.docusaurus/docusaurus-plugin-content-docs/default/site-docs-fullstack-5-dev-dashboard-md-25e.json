@@ -15,8 +15,8 @@
   "frontMatter": {},
   "sidebar": "courseSidebar",
   "previous": {
-    "title": "React With Native",
-    "permalink": "/fullstack/react-with-native"
+    "title": "ui",
+    "permalink": "/fullstack/ui/ui"
   },
   "next": {
     "title": "Deploy backend",

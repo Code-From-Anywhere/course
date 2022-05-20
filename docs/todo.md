@@ -33,11 +33,12 @@ Details sections:
 
 ## Ideas
 
+- [ ] From Zero to Heron? Remove the wizard stuff?
 - [ ] Translate to top 10 languages using Google Translate controller
 - [ ] Blog controller
-- [ ] `<Video url={{nl:"URL", en: "URL" }}>`
+- [ ] `<Video page="folder/path/page-slug" location="x.y.z(section)">` prints a video if it's available for the selected presentor
 - [ ] `<Todo><li>x</li><li>y</li><li>z</li></Todo>` for user to mark todos. Connected to localStorage or account
-- [ ] `<Ads slug="folder/path/page-slug" location="header|footer|banner" />` Cross-promoting ourselves! Exclusive content, Services, Social media posts, Blogs, Chat. Incentivise sharing of anything #CodeFromAnywhere related.
+- [ ] `<Ads page="folder/path/page-slug" location="header|footer|banner" />` Cross-promoting ourselves! Exclusive content, Services, Social media posts, Blogs, Chat. Incentivise sharing of anything #CodeFromAnywhere related.
 - [ ] Leveled distribution engine
 - [ ] User Credit System with purchase and doing other things for them
 - [ ] Add limits to content consumption when credit runs out

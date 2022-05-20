@@ -1,0 +1,25 @@
+{
+  "unversionedId": "wizard/conventions-standards",
+  "id": "wizard/conventions-standards",
+  "title": "Conventions & standards",
+  "description": "As a wizard, you should start thinking about the bigger picture of the long-term performance of the apps you create.",
+  "source": "@site/../../docs/wizard/5.conventions-standards.md",
+  "sourceDirName": "wizard",
+  "slug": "/wizard/conventions-standards",
+  "permalink": "/wizard/conventions-standards",
+  "draft": false,
+  "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/wizard/5.conventions-standards.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {},
+  "sidebar": "courseSidebar",
+  "previous": {
+    "title": "App introspection",
+    "permalink": "/wizard/app-introspection"
+  },
+  "next": {
+    "title": "Become a Wizard",
+    "permalink": "/wizard/become-a-wizard"
+  }
+}

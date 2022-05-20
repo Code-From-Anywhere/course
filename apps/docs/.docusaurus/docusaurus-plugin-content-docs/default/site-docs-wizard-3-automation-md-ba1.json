@@ -1,0 +1,25 @@
+{
+  "unversionedId": "wizard/automation",
+  "id": "wizard/automation",
+  "title": "Automation & Metascripting",
+  "description": "With Sensible it's our goal to make it as easy as possible to create complex applications without limiting their possibilities in any way. One of the ways we do this is by creating smart automations to reduce the workload on developers.",
+  "source": "@site/../../docs/wizard/3.automation.md",
+  "sourceDirName": "wizard",
+  "slug": "/wizard/automation",
+  "permalink": "/wizard/automation",
+  "draft": false,
+  "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/wizard/3.automation.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {},
+  "sidebar": "courseSidebar",
+  "previous": {
+    "title": "Decentralised architectures",
+    "permalink": "/wizard/decentralised-architectures"
+  },
+  "next": {
+    "title": "App introspection",
+    "permalink": "/wizard/app-introspection"
+  }
+}

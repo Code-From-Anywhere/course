@@ -2,7 +2,7 @@
   "unversionedId": "wizard/other-envrionments",
   "id": "wizard/other-envrionments",
   "title": "Other environments",
-  "description": "VSCode",
+  "description": "When you start a sensible project, you can choose which frontends you want to use. Besides expo and web, there are 4 more we are planning to create stable boilerplates for. Currently, they are still experimental.",
   "source": "@site/../../docs/wizard/1.other-envrionments.md",
   "sourceDirName": "wizard",
   "slug": "/wizard/other-envrionments",

@@ -1,0 +1,25 @@
+{
+  "unversionedId": "wizard/typescript-introspection",
+  "id": "wizard/typescript-introspection",
+  "title": "Typescript introspection",
+  "description": "One of the core techniques we used to create Sensible is typescript introspection. When you use Sensible, we are looking and parsing your typescript files to generate meta data about them. With this we can do many things!",
+  "source": "@site/../../docs/wizard/4.typescript-introspection.md",
+  "sourceDirName": "wizard",
+  "slug": "/wizard/typescript-introspection",
+  "permalink": "/wizard/typescript-introspection",
+  "draft": false,
+  "editUrl": "https://github.com/Code-From-Anywhere/course/tree/main/apps/docs/../../docs/wizard/4.typescript-introspection.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {},
+  "sidebar": "courseSidebar",
+  "previous": {
+    "title": "Automation & Metascripting",
+    "permalink": "/wizard/automation"
+  },
+  "next": {
+    "title": "Conventions & standards",
+    "permalink": "/wizard/conventions-standards"
+  }
+}

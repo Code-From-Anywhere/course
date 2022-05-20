@@ -136,11 +136,6 @@
               "sidebar": "courseSidebar"
             },
             {
-              "id": "fullstack/react-with-native",
-              "path": "/fullstack/react-with-native",
-              "sidebar": "courseSidebar"
-            },
-            {
               "id": "fullstack/sensible",
               "path": "/fullstack/sensible",
               "sidebar": "courseSidebar"
@@ -148,6 +143,16 @@
             {
               "id": "fullstack/server",
               "path": "/fullstack/server",
+              "sidebar": "courseSidebar"
+            },
+            {
+              "id": "fullstack/ui/react-with-native",
+              "path": "/fullstack/ui/react-with-native",
+              "sidebar": "courseSidebar"
+            },
+            {
+              "id": "fullstack/ui/ui",
+              "path": "/fullstack/ui/ui",
               "sidebar": "courseSidebar"
             },
             {
@@ -181,6 +186,11 @@
               "sidebar": "courseSidebar"
             },
             {
+              "id": "wizard/app-introspection",
+              "path": "/wizard/app-introspection",
+              "sidebar": "courseSidebar"
+            },
+            {
               "id": "wizard/automation",
               "path": "/wizard/automation",
               "sidebar": "courseSidebar"
@@ -201,23 +211,8 @@
               "sidebar": "courseSidebar"
             },
             {
-              "id": "wizard/metascripting",
-              "path": "/wizard/metascripting",
-              "sidebar": "courseSidebar"
-            },
-            {
               "id": "wizard/other-envrionments",
               "path": "/wizard/other-envrionments",
-              "sidebar": "courseSidebar"
-            },
-            {
-              "id": "wizard/thinking-in-data",
-              "path": "/wizard/thinking-in-data",
-              "sidebar": "courseSidebar"
-            },
-            {
-              "id": "wizard/typescript-introspection",
-              "path": "/wizard/typescript-introspection",
               "sidebar": "courseSidebar"
             },
             {
